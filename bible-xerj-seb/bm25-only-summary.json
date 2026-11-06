@@ -1,0 +1,10 @@
+{
+  "n": 160,
+  "correct": 160,
+  "wrong": 0,
+  "unknown": 0,
+  "median_wall_ms": 0.0572085,
+  "total_wall_ms": 11.291666,
+  "total_cpu_ms": 11.195,
+  "cpu_cost_per_1000": 7.045464409722222e-07
+}

@@ -1,0 +1,55 @@
+# No-Seb comparison and indexing costs
+
+`python3 bm25_only.py` reruns the same 160 corrected questions using the existing SQLite BM25 index and deterministic code. The parser extracts the two named chapters from the fixed question template, retrieves up to five summaries, validates the summaries, and compares the retrieved numeric lengths. It does not use the saved gold or chapter IDs to produce an answer; missing or conflicting values yield `unknown`. The script includes checks for missing and conflicting values. This is task-specific logic, not a general natural-language answerer. Results: **160 correct, 0 wrong, 0 unknown**; 0.0572 ms median retrieval-plus-comparison wall time and 11.195 ms total process CPU. Applying the article’s $0.03625/vCPU-hour to that Apple CPU measurement yields **$0.000000705 per 1,000 questions**; it is a CPU-equivalent estimate rather than an AWS bill. Results and timing are in `bm25-only-results.json` and `bm25-only-summary.json`.
+
+All three approaches indexed the same full 31,102-verse source as 1,189 chapter documents with deterministically computed verse-count summaries. BM25 + Seb and BM25 + code use the exact same index; no Seb model is called when building it. A separate fresh build of the corrected index on this Mac measured preprocessing 20.56 ms wall / 20.52 ms CPU and SQLite FTS indexing 41.77 ms wall / 40.53 ms CPU, total **62.33 ms wall / 61.04 ms CPU**. At the same CPU rate the combined preprocessing and indexing projects to **$0.000000615 per complete Bible**. The corrected XERJ run measured its document-and-fact bulk commit at **199.07 ms wall / approximately 150 ms server CPU**, projecting to **$0.00000151** for the measured server work only; this omits data preparation and serialization by the client. A separately measured earlier version of the count-generation preprocessing took about 19 ms CPU, but it is not an end-to-end measurement of the corrected XERJ pipeline. These are tiny single-run CPU estimates with substantial measurement uncertainty; they exclude idle capacity, storage, downloading, loading the model and network infrastructure. Mac CPU time converted at an AWS price is not a measured AWS cost.
+
+---
+
+# Corrected run: chapter length in verses
+
+The original 160/160 XERJ declines below were caused by the chosen encoding and question form. XERJ rc.101 loaded the released CPU bundle and correctly answered the vendor height control. It declined the original "more verses" wording with `D2C_COUNT_COMPARISON`. A diagnostic changed the subject from `Job chapter 19` to `Job 19`, the fact relation from `verse count` to `length`, and the query to `Is Job 19 longer than Job 32?`; the fact unit remained `verses`. This represents length as verse count. See `diagnostic.json`. That diagnostic inspected the first pair; the corrected run is an exploratory follow-up, not a blind test.
+
+The corrected run kept the same Bible, 80 chapter pairs, both orders, and gold answers. It indexed all 1,189 full chapter documents and the length facts in a new XERJ namespace and a new BM25 index. Both systems got the same revised questions. BM25 used quoted chapter references, retrieved both facts in all 160 cases, and supplied their two summaries to Seb. XERJ returned 141 correct, 0 wrong, and 19 unsupported; Seb returned 154 correct and 6 wrong. There were no inference failures. Each pair is asked in both directions, so the 160 observations are not independent. These are narrow numeric-comparison questions and the result is not a general QA benchmark.
+
+XERJ CPU model: rc.101 released bundle, four threads, local arm64. The corrected XERJ index bulk commit took 0.199 s wall, excluding preprocessing and client construction/serialization; server CPU rose 0.15 s, rounded to 0.01 s. The corrected SQLite full-text index build took 0.0415 s wall after preprocessing. Queries: XERJ median client wall 163.1 ms, 26.27 s total sequentially; server CPU rose 103.70 s across the 160 calls, including background activity. BM25 median search was 0.0478 ms and Seb median per-item API time was 60.0 ms with up to four in flight; those are not matched end-to-end latency measurements.
+
+Seb metered 24,844 input tokens and 521,724 cost-nanos ($0.000521724) for 160, equivalent to **$0.003260775 per 1,000** similar calls, excluding BM25 infrastructure. Applying the article’s $0.03625/vCPU-hour rate to measured Apple CPU time gives **$0.00653 per 1,000** XERJ questions. This is a cross-hardware CPU-equivalent projection, not a measured AWS bill; no idle capacity, storage, network or client CPU is included. Indexing preprocessing and infrastructure caveats remain as described below.
+
+Reproduce the corrected run with `python3 supported.py prepare /path/to/kjv.sqlite`, `python3 supported.py index /path/to/kjv.sqlite`, and `python3 supported.py ask /path/to/kjv.sqlite`, after starting the released XERJ CPU model as below. Use a fresh `supported-bm25.sqlite` and an empty `bible-length` namespace. Submit `supported-questions.json` states in batches of 100 and 60 to Seb v2 with the following choice question:
+
+```json
+{"answer":{"type":"choice","instructions":"Using only the evidence, answer whether the first chapter is longer than the second. Choose unknown if either length is missing.","criteria":{"yes":"The first chapter is longer.","no":"The first chapter is not longer.","unknown":"The evidence is insufficient."}}}
+```
+
+Run `python3 verify-supported.py` to validate row order, both retrieval hits, result completeness, scores and actual metering. Raw results are `supported-xerj.jsonl` and `supported-seb-{0,1}.json`. The original results remain below for transparency.
+
+---
+
+# Bible: XERJ Query-1 vs BM25 + Seb
+
+Exploratory run, 2026-11-06. This is not a reproduction of the article dataset: it uses different questions and a real public-domain KJV text. The data source is [midvash/bible-data](https://github.com/midvash/bible-data), commit `9586bd8228a747962df1ee8692730422fb7eb2ec`, `versions/en/kjv/kjv.sqlite`, SHA-256 `e595b86c6e2a4f1d8b8ec141ff5a4cef049e2e39a126e48e868342dd4a313849`. The source contains 31,102 verses, 1,189 chapters, and 66 books.
+
+For both systems, deterministic preprocessing groups the entire text into chapter documents and computes each chapter verse count. Each document begins with the count followed by its full verse text. XERJ receives each chapter document and one typed numeric count fact with an exact source span; SQLite FTS5 indexes the full documents and summary. This tests questions over derived chapter metadata, not interpretation of Bible prose. XERJ facts documents are stored, but this run did not separately measure a XERJ full-text search index.
+
+The 160 questions are 80 randomly selected distinct chapter pairs within a book, each asked in both orders, seed 20261106. Counts are unequal, so there are 80 yes and 80 no answers. Gold is computed from the original verses, not a model. Questions use one template. The pairs are correlated, and there are no unknown, conflict, or paraphrase cases. The BM25 adapter parses the two names from that template and searches their quoted phrases in the summary field, retrieves up to five chapter summaries, then Seb-9B-v2-NVFP4 makes a yes/no/unknown choice. Both necessary summaries were retrieved for all 160. After an initial retrieval check had only 74/160 with both chapters, the retrieval adapter was changed to quoted chapter phrases; the data is therefore not a sealed test and this is exploratory. Seb has explicit choice instructions; XERJ receives the question only. This is a bounded numeric comparison, outside Seb guidance for arithmetic.
+
+Final outputs: Seb 116 correct, 44 wrong, 0 unknown; XERJ 0 correct, 0 wrong, 160 unsupported. All XERJ final reason codes were `D2C_COUNT_COMPARISON`, a serving-policy decline. Some unchecked internal outputs exist, but they are not served answers and were not scored. These findings do not establish XERJ performance on other question forms or the 160 article questions.
+
+## Timing and cost
+
+Measurements were on an Apple arm64 Mac, XERJ rc.101 with 4 model threads, model already loaded. BM25 indexing took 0.0403 s wall in the recorded run. A separate fresh BM25 rerun measured 0.0203 s preprocessing plus 0.0415 s indexing, 0.0619 s wall and 0.0608 CPU-s total. XERJ document/fact bulk commit took 0.1789 s wall; its server CPU time increased 0.14 s. A separate preprocessing run took 0.0189 wall and 0.0189 CPU-s. The XERJ bulk time excludes client-side document construction and serialization; CPU timings include background server work and are rounded to 0.01 s. No remote download or model loading is included.
+
+The model returned XERJ responses in 187.2 ms median client wall time; total sequential client wall time was 30.13 s. Its server CPU rose by 118.16 CPU-s across the questions, including background activity. BM25 median retrieval was 0.0955 ms. Seb MCP per-item median API timing was 63.2 ms in two batches, with up to four calls in flight; these timings are not a matched end-to-end latency benchmark.
+
+Seb metered 26,124 input tokens and 548,604 cost-nanos ($0.000548604) for 160, or $0.003428775 per 1,000 at the observed workload and price. This excludes BM25 CPU and hosting. For a rough illustration, applying the article’s $0.03625/vCPU-hour rate to the Mac-measured CPU time gives XERJ $0.00744/1,000 questions, and about $0.0000016 for its measured preprocessing plus server indexing. The same arithmetic gives about $0.00000061 for the separate BM25 preprocessing/index run. These are CPU-equivalent projections, **not AWS measurements or actual bills**: Apple and AWS CPU speeds differ, and they exclude idle servers, storage, I/O, client CPU, network and model loading. Index-time projections are particularly sensitive to measurement overhead at this scale.
+
+## Reproduce
+
+Fetch the pinned SQLite file and verify its SHA-256. Obtain XERJ rc.101 and its model bundle from its release, verify the release checksums, and start a fresh local node on port 19291 with `--facts-model-dir`, `--insecure`, `--bind 127.0.0.1`, an isolated data directory, and `--disable-feedback`. Run `python3 bench.py prepare /path/to/kjv.sqlite` with no existing `bm25.sqlite`; then `python3 bench.py index-xerj /path/to/kjv.sqlite` and `python3 bench.py ask-xerj /path/to/kjv.sqlite`. Submit the `state` fields in `questions.json` to the Seb MCP batch interface in batches of 100 and 60 with model `v2` and:
+
+```json
+{"answer":{"type":"choice","instructions":"Using only the evidence, answer whether the first chapter has more verses than the second. Choose unknown if either count is missing.","criteria":{"yes":"The first chapter has more verses.","no":"The first chapter does not have more verses.","unknown":"The evidence is insufficient."}}}
+```
+
+The raw results are `xerj-answers.jsonl`, `seb-0.json`, and `seb-1.json`; batch two has indices starting at zero. Run `python3 verify.py` to check ordering, record completeness, retrieval coverage and the reported scores. Timings are single-run observations, not load tests.

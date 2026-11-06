@@ -1,0 +1,2164 @@
+{
+  "results": [
+    {
+      "index": 0,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 87.2,
+      "timings": {
+        "server_ms": 53.3,
+        "e2e_ms": 87.2,
+        "phases": {
+          "auth_ms": 0.3,
+          "reserve_ms": 17.5,
+          "upstream_ms": 68.5,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 180,
+        "output_tokens": 0,
+        "cost_nanos": 3780
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9945,
+          "probabilities": {
+            "A": 0.001,
+            "B": 0.001,
+            "C": 0.9956,
+            "D": 0.0016,
+            "unknown": 0.0009
+          }
+        }
+      }
+    },
+    {
+      "index": 1,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 85.8,
+      "timings": {
+        "server_ms": 52.3,
+        "e2e_ms": 85.8,
+        "phases": {
+          "auth_ms": 0.4,
+          "reserve_ms": 21,
+          "upstream_ms": 63.6,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 179,
+        "output_tokens": 0,
+        "cost_nanos": 3759
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9856,
+          "probabilities": {
+            "A": 0.003,
+            "B": 0.9885,
+            "C": 0.0052,
+            "D": 0.0018,
+            "unknown": 0.0016
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 80.9,
+      "timings": {
+        "server_ms": 53.1,
+        "e2e_ms": 80.9,
+        "phases": {
+          "auth_ms": 0.4,
+          "reserve_ms": 13.8,
+          "upstream_ms": 65.6,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 218,
+        "output_tokens": 0,
+        "cost_nanos": 4578
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9979,
+          "probabilities": {
+            "A": 0.9983,
+            "B": 0.0002,
+            "C": 0.0004,
+            "D": 0.0006,
+            "unknown": 0.0004
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 82.5,
+      "timings": {
+        "server_ms": 52.7,
+        "e2e_ms": 82.5,
+        "phases": {
+          "auth_ms": 0.4,
+          "reserve_ms": 24.5,
+          "upstream_ms": 56.6,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 183,
+        "output_tokens": 0,
+        "cost_nanos": 3843
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9963,
+          "probabilities": {
+            "A": 0.001,
+            "B": 0.0009,
+            "C": 0.997,
+            "D": 0.0004,
+            "unknown": 0.0007
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 66.6,
+      "timings": {
+        "server_ms": 49,
+        "e2e_ms": 66.6,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.8,
+          "upstream_ms": 55.8,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 180,
+        "output_tokens": 0,
+        "cost_nanos": 3780
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.992,
+          "probabilities": {
+            "A": 0.9936,
+            "B": 0.001,
+            "C": 0.0019,
+            "D": 0.0023,
+            "unknown": 0.0012
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.5,
+      "timings": {
+        "server_ms": 47.2,
+        "e2e_ms": 59.5,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.7,
+          "upstream_ms": 48.7,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 178,
+        "output_tokens": 0,
+        "cost_nanos": 3738
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9957,
+          "probabilities": {
+            "A": 0.0009,
+            "B": 0.001,
+            "C": 0.0007,
+            "D": 0.9966,
+            "unknown": 0.0009
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.1,
+      "timings": {
+        "server_ms": 46,
+        "e2e_ms": 59.1,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.5,
+          "upstream_ms": 48.6,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 184,
+        "output_tokens": 0,
+        "cost_nanos": 3864
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9966,
+          "probabilities": {
+            "A": 0.0004,
+            "B": 0.9973,
+            "C": 0.0013,
+            "D": 0.0003,
+            "unknown": 0.0007
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.2,
+      "timings": {
+        "server_ms": 46.2,
+        "e2e_ms": 59.2,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 7,
+          "upstream_ms": 51.2,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 187,
+        "output_tokens": 0,
+        "cost_nanos": 3927
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9908,
+          "probabilities": {
+            "A": 0.0005,
+            "B": 0.0007,
+            "C": 0.0046,
+            "D": 0.9926,
+            "unknown": 0.0016
+          }
+        }
+      }
+    },
+    {
+      "index": 8,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 62.4,
+      "timings": {
+        "server_ms": 48.7,
+        "e2e_ms": 62.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.3,
+          "upstream_ms": 50.9,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 0,
+        "cost_nanos": 4011
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9943,
+          "probabilities": {
+            "A": 0.0008,
+            "B": 0.0011,
+            "C": 0.9955,
+            "D": 0.0019,
+            "unknown": 0.0008
+          }
+        }
+      }
+    },
+    {
+      "index": 9,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 64.2,
+      "timings": {
+        "server_ms": 46.3,
+        "e2e_ms": 64.2,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 8.7,
+          "upstream_ms": 54.4,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 194,
+        "output_tokens": 0,
+        "cost_nanos": 4074
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9752,
+          "probabilities": {
+            "A": 0.9802,
+            "B": 0.0007,
+            "C": 0.0055,
+            "D": 0.0006,
+            "unknown": 0.0131
+          }
+        }
+      }
+    },
+    {
+      "index": 10,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 64.1,
+      "timings": {
+        "server_ms": 46.2,
+        "e2e_ms": 64.1,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.8,
+          "upstream_ms": 53.4,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 181,
+        "output_tokens": 0,
+        "cost_nanos": 3801
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9949,
+          "probabilities": {
+            "A": 0.0005,
+            "B": 0.0013,
+            "C": 0.9959,
+            "D": 0.0012,
+            "unknown": 0.001
+          }
+        }
+      }
+    },
+    {
+      "index": 11,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.9,
+      "timings": {
+        "server_ms": 45.6,
+        "e2e_ms": 59.9,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 7.3,
+          "upstream_ms": 51,
+          "settle_ms": 1.5
+        }
+      },
+      "usage": {
+        "input_tokens": 186,
+        "output_tokens": 0,
+        "cost_nanos": 3906
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9981,
+          "probabilities": {
+            "A": 0.0004,
+            "B": 0.0006,
+            "C": 0.0003,
+            "D": 0.9985,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 12,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.5,
+      "timings": {
+        "server_ms": 47,
+        "e2e_ms": 60.5,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.2,
+          "upstream_ms": 49.1,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 217,
+        "output_tokens": 0,
+        "cost_nanos": 4557
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.996,
+          "probabilities": {
+            "A": 0.0008,
+            "B": 0.9968,
+            "C": 0.001,
+            "D": 0.0004,
+            "unknown": 0.001
+          }
+        }
+      }
+    },
+    {
+      "index": 13,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.7,
+      "timings": {
+        "server_ms": 45.3,
+        "e2e_ms": 61.7,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 12.7,
+          "upstream_ms": 47.9,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 183,
+        "output_tokens": 0,
+        "cost_nanos": 3843
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9937,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.995,
+            "C": 0.0014,
+            "D": 0.0025,
+            "unknown": 0.0006
+          }
+        }
+      }
+    },
+    {
+      "index": 14,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.8,
+      "timings": {
+        "server_ms": 44.8,
+        "e2e_ms": 58.8,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.9,
+          "upstream_ms": 47.9,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 185,
+        "output_tokens": 0,
+        "cost_nanos": 3885
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9933,
+          "probabilities": {
+            "A": 0.0017,
+            "B": 0.0009,
+            "C": 0.0017,
+            "D": 0.9947,
+            "unknown": 0.0011
+          }
+        }
+      }
+    },
+    {
+      "index": 15,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 62.1,
+      "timings": {
+        "server_ms": 44.9,
+        "e2e_ms": 62.1,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 7.4,
+          "upstream_ms": 53.7,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 0,
+        "cost_nanos": 4011
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9954,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.0008,
+            "C": 0.0019,
+            "D": 0.9963,
+            "unknown": 0.0004
+          }
+        }
+      }
+    },
+    {
+      "index": 16,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 65.6,
+      "timings": {
+        "server_ms": 49.4,
+        "e2e_ms": 65.6,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 8.6,
+          "upstream_ms": 55.7,
+          "settle_ms": 1.2
+        }
+      },
+      "usage": {
+        "input_tokens": 197,
+        "output_tokens": 0,
+        "cost_nanos": 4137
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9979,
+          "probabilities": {
+            "A": 0.0001,
+            "B": 0.0008,
+            "C": 0.0006,
+            "D": 0.9983,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 17,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 65.8,
+      "timings": {
+        "server_ms": 49,
+        "e2e_ms": 65.8,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.6,
+          "upstream_ms": 54,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 204,
+        "output_tokens": 0,
+        "cost_nanos": 4284
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9952,
+          "probabilities": {
+            "A": 0.0011,
+            "B": 0.0006,
+            "C": 0.0017,
+            "D": 0.9961,
+            "unknown": 0.0005
+          }
+        }
+      }
+    },
+    {
+      "index": 18,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 67.4,
+      "timings": {
+        "server_ms": 47.8,
+        "e2e_ms": 67.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 12.1,
+          "upstream_ms": 54.2,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 179,
+        "output_tokens": 0,
+        "cost_nanos": 3759
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9962,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.9969,
+            "C": 0.0008,
+            "D": 0.0013,
+            "unknown": 0.0004
+          }
+        }
+      }
+    },
+    {
+      "index": 19,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 62.6,
+      "timings": {
+        "server_ms": 47,
+        "e2e_ms": 62.6,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.2,
+          "upstream_ms": 51.3,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 174,
+        "output_tokens": 0,
+        "cost_nanos": 3654
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.992,
+          "probabilities": {
+            "A": 0.9936,
+            "B": 0.0011,
+            "C": 0.003,
+            "D": 0.0015,
+            "unknown": 0.0009
+          }
+        }
+      }
+    },
+    {
+      "index": 20,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60,
+      "timings": {
+        "server_ms": 46.9,
+        "e2e_ms": 60,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.4,
+          "upstream_ms": 48.5,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 182,
+        "output_tokens": 0,
+        "cost_nanos": 3822
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9935,
+          "probabilities": {
+            "A": 0.9948,
+            "B": 0.0016,
+            "C": 0.0014,
+            "D": 0.0013,
+            "unknown": 0.0009
+          }
+        }
+      }
+    },
+    {
+      "index": 21,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 62.4,
+      "timings": {
+        "server_ms": 43.5,
+        "e2e_ms": 62.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.5,
+          "upstream_ms": 50.9,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 200,
+        "output_tokens": 0,
+        "cost_nanos": 4200
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9942,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.9954,
+            "C": 0.0032,
+            "D": 0.0003,
+            "unknown": 0.0005
+          }
+        }
+      }
+    },
+    {
+      "index": 22,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.6,
+      "timings": {
+        "server_ms": 43.6,
+        "e2e_ms": 59.6,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.2,
+          "upstream_ms": 48.4,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 187,
+        "output_tokens": 0,
+        "cost_nanos": 3927
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.991,
+          "probabilities": {
+            "A": 0.0032,
+            "B": 0.001,
+            "C": 0.002,
+            "D": 0.9928,
+            "unknown": 0.001
+          }
+        }
+      }
+    },
+    {
+      "index": 23,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 56.8,
+      "timings": {
+        "server_ms": 42.7,
+        "e2e_ms": 56.8,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.1,
+          "upstream_ms": 45.7,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 182,
+        "output_tokens": 0,
+        "cost_nanos": 3822
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9966,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.9973,
+            "C": 0.0004,
+            "D": 0.0015,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 24,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.1,
+      "timings": {
+        "server_ms": 47.4,
+        "e2e_ms": 60.1,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.5,
+          "upstream_ms": 49.5,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 199,
+        "output_tokens": 0,
+        "cost_nanos": 4179
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9322,
+          "probabilities": {
+            "A": 0.0014,
+            "B": 0.0013,
+            "C": 0.9458,
+            "D": 0.0501,
+            "unknown": 0.0014
+          }
+        }
+      }
+    },
+    {
+      "index": 25,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.9,
+      "timings": {
+        "server_ms": 45.2,
+        "e2e_ms": 61.9,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.9,
+          "upstream_ms": 51,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 0,
+        "cost_nanos": 4032
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9934,
+          "probabilities": {
+            "A": 0.9947,
+            "B": 0.002,
+            "C": 0.0022,
+            "D": 0.0003,
+            "unknown": 0.0007
+          }
+        }
+      }
+    },
+    {
+      "index": 26,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.2,
+      "timings": {
+        "server_ms": 45.2,
+        "e2e_ms": 59.2,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11,
+          "upstream_ms": 47.2,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 180,
+        "output_tokens": 0,
+        "cost_nanos": 3780
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9945,
+          "probabilities": {
+            "A": 0.0008,
+            "B": 0.9956,
+            "C": 0.001,
+            "D": 0.0018,
+            "unknown": 0.0008
+          }
+        }
+      }
+    },
+    {
+      "index": 27,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.5,
+      "timings": {
+        "server_ms": 44.9,
+        "e2e_ms": 60.5,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 8.4,
+          "upstream_ms": 51.1,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 195,
+        "output_tokens": 0,
+        "cost_nanos": 4095
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9966,
+          "probabilities": {
+            "A": 0.0011,
+            "B": 0.0009,
+            "C": 0.0003,
+            "D": 0.9973,
+            "unknown": 0.0004
+          }
+        }
+      }
+    },
+    {
+      "index": 28,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.3,
+      "timings": {
+        "server_ms": 47.3,
+        "e2e_ms": 59.3,
+        "phases": {
+          "auth_ms": 0.2,
+          "reserve_ms": 9.5,
+          "upstream_ms": 48.6,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 178,
+        "output_tokens": 0,
+        "cost_nanos": 3738
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9954,
+          "probabilities": {
+            "A": 0.9963,
+            "B": 0.0009,
+            "C": 0.0006,
+            "D": 0.0014,
+            "unknown": 0.0008
+          }
+        }
+      }
+    },
+    {
+      "index": 29,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59,
+      "timings": {
+        "server_ms": 42.7,
+        "e2e_ms": 59,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.4,
+          "upstream_ms": 46.5,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 180,
+        "output_tokens": 0,
+        "cost_nanos": 3780
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.981,
+          "probabilities": {
+            "A": 0.9848,
+            "B": 0.0022,
+            "C": 0.0059,
+            "D": 0.0046,
+            "unknown": 0.0026
+          }
+        }
+      }
+    },
+    {
+      "index": 30,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.1,
+      "timings": {
+        "server_ms": 42.5,
+        "e2e_ms": 59.1,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.4,
+          "upstream_ms": 46.7,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 193,
+        "output_tokens": 0,
+        "cost_nanos": 4053
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9976,
+          "probabilities": {
+            "A": 0.0005,
+            "B": 0.0001,
+            "C": 0.001,
+            "D": 0.9981,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 31,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.2,
+      "timings": {
+        "server_ms": 42.9,
+        "e2e_ms": 59.2,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 7.6,
+          "upstream_ms": 50.6,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 203,
+        "output_tokens": 0,
+        "cost_nanos": 4263
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9977,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.9982,
+            "C": 0.0004,
+            "D": 0.0006,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 32,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.4,
+      "timings": {
+        "server_ms": 47.8,
+        "e2e_ms": 61.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.9,
+          "upstream_ms": 50.2,
+          "settle_ms": 1.2
+        }
+      },
+      "usage": {
+        "input_tokens": 177,
+        "output_tokens": 0,
+        "cost_nanos": 3717
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9972,
+          "probabilities": {
+            "A": 0.0005,
+            "B": 0.0004,
+            "C": 0.0009,
+            "D": 0.9978,
+            "unknown": 0.0004
+          }
+        }
+      }
+    },
+    {
+      "index": 33,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 64.4,
+      "timings": {
+        "server_ms": 44.6,
+        "e2e_ms": 64.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.4,
+          "upstream_ms": 52.1,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 196,
+        "output_tokens": 0,
+        "cost_nanos": 4116
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9953,
+          "probabilities": {
+            "A": 0.9962,
+            "B": 0.0005,
+            "C": 0.0006,
+            "D": 0.002,
+            "unknown": 0.0007
+          }
+        }
+      }
+    },
+    {
+      "index": 34,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.7,
+      "timings": {
+        "server_ms": 44,
+        "e2e_ms": 61.7,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.2,
+          "upstream_ms": 49.4,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 187,
+        "output_tokens": 0,
+        "cost_nanos": 3927
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9956,
+          "probabilities": {
+            "A": 0.0008,
+            "B": 0.9965,
+            "C": 0.0011,
+            "D": 0.0009,
+            "unknown": 0.0008
+          }
+        }
+      }
+    },
+    {
+      "index": 35,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.8,
+      "timings": {
+        "server_ms": 44.6,
+        "e2e_ms": 58.8,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 7.3,
+          "upstream_ms": 50.5,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 178,
+        "output_tokens": 0,
+        "cost_nanos": 3738
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9934,
+          "probabilities": {
+            "A": 0.9947,
+            "B": 0.0017,
+            "C": 0.0017,
+            "D": 0.0011,
+            "unknown": 0.0008
+          }
+        }
+      }
+    },
+    {
+      "index": 36,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.2,
+      "timings": {
+        "server_ms": 47.4,
+        "e2e_ms": 60.2,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.8,
+          "upstream_ms": 49,
+          "settle_ms": 1.2
+        }
+      },
+      "usage": {
+        "input_tokens": 180,
+        "output_tokens": 0,
+        "cost_nanos": 3780
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9948,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.9958,
+            "C": 0.001,
+            "D": 0.002,
+            "unknown": 0.0006
+          }
+        }
+      }
+    },
+    {
+      "index": 37,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.3,
+      "timings": {
+        "server_ms": 42.8,
+        "e2e_ms": 60.3,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.8,
+          "upstream_ms": 47.3,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 178,
+        "output_tokens": 0,
+        "cost_nanos": 3738
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9911,
+          "probabilities": {
+            "A": 0.0018,
+            "B": 0.001,
+            "C": 0.003,
+            "D": 0.9929,
+            "unknown": 0.0014
+          }
+        }
+      }
+    },
+    {
+      "index": 38,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.7,
+      "timings": {
+        "server_ms": 43.8,
+        "e2e_ms": 61.7,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9,
+          "upstream_ms": 51.6,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 212,
+        "output_tokens": 0,
+        "cost_nanos": 4452
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9959,
+          "probabilities": {
+            "A": 0.0015,
+            "B": 0.9967,
+            "C": 0.0003,
+            "D": 0.0012,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 39,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.9,
+      "timings": {
+        "server_ms": 43.2,
+        "e2e_ms": 58.9,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.4,
+          "upstream_ms": 47.4,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 180,
+        "output_tokens": 0,
+        "cost_nanos": 3780
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9896,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.001,
+            "C": 0.9917,
+            "D": 0.0052,
+            "unknown": 0.0015
+          }
+        }
+      }
+    },
+    {
+      "index": 40,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.4,
+      "timings": {
+        "server_ms": 46.7,
+        "e2e_ms": 60.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.6,
+          "upstream_ms": 48.5,
+          "settle_ms": 1.2
+        }
+      },
+      "usage": {
+        "input_tokens": 178,
+        "output_tokens": 0,
+        "cost_nanos": 3738
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.986,
+          "probabilities": {
+            "A": 0.9888,
+            "B": 0.0031,
+            "C": 0.0055,
+            "D": 0.001,
+            "unknown": 0.0016
+          }
+        }
+      }
+    },
+    {
+      "index": 41,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.4,
+      "timings": {
+        "server_ms": 41.6,
+        "e2e_ms": 61.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11,
+          "upstream_ms": 49.4,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 204,
+        "output_tokens": 0,
+        "cost_nanos": 4284
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9952,
+          "probabilities": {
+            "A": 0.0001,
+            "B": 0.9962,
+            "C": 0.0002,
+            "D": 0.003,
+            "unknown": 0.0006
+          }
+        }
+      }
+    },
+    {
+      "index": 42,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.7,
+      "timings": {
+        "server_ms": 41,
+        "e2e_ms": 58.7,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.9,
+          "upstream_ms": 46.7,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 207,
+        "output_tokens": 0,
+        "cost_nanos": 4347
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9852,
+          "probabilities": {
+            "A": 0.0007,
+            "B": 0.0033,
+            "C": 0.9882,
+            "D": 0.0026,
+            "unknown": 0.0052
+          }
+        }
+      }
+    },
+    {
+      "index": 43,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.9,
+      "timings": {
+        "server_ms": 41.8,
+        "e2e_ms": 59.9,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.8,
+          "upstream_ms": 48.1,
+          "settle_ms": 0.9
+        }
+      },
+      "usage": {
+        "input_tokens": 187,
+        "output_tokens": 0,
+        "cost_nanos": 3927
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.993,
+          "probabilities": {
+            "A": 0.0004,
+            "B": 0.9944,
+            "C": 0.003,
+            "D": 0.0012,
+            "unknown": 0.0011
+          }
+        }
+      }
+    },
+    {
+      "index": 44,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 59.4,
+      "timings": {
+        "server_ms": 46.8,
+        "e2e_ms": 59.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.5,
+          "upstream_ms": 48.5,
+          "settle_ms": 1.3
+        }
+      },
+      "usage": {
+        "input_tokens": 194,
+        "output_tokens": 0,
+        "cost_nanos": 4074
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.998,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.0006,
+            "C": 0.0003,
+            "D": 0.9984,
+            "unknown": 0.0002
+          }
+        }
+      }
+    },
+    {
+      "index": 45,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 64,
+      "timings": {
+        "server_ms": 42.7,
+        "e2e_ms": 64,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.5,
+          "upstream_ms": 49.8,
+          "settle_ms": 2.6
+        }
+      },
+      "usage": {
+        "input_tokens": 197,
+        "output_tokens": 0,
+        "cost_nanos": 4137
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9879,
+          "probabilities": {
+            "A": 0.9903,
+            "B": 0.0014,
+            "C": 0.001,
+            "D": 0.0006,
+            "unknown": 0.0067
+          }
+        }
+      }
+    },
+    {
+      "index": 46,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.3,
+      "timings": {
+        "server_ms": 42.9,
+        "e2e_ms": 58.3,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.5,
+          "upstream_ms": 45.7,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 189,
+        "output_tokens": 0,
+        "cost_nanos": 3969
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9989,
+          "probabilities": {
+            "A": 0.0002,
+            "B": 0.0001,
+            "C": 0.0004,
+            "D": 0.9991,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 47,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.4,
+      "timings": {
+        "server_ms": 42.1,
+        "e2e_ms": 58.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 7.6,
+          "upstream_ms": 49.8,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 198,
+        "output_tokens": 0,
+        "cost_nanos": 4158
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9899,
+          "probabilities": {
+            "A": 0.9919,
+            "B": 0.0013,
+            "C": 0.0032,
+            "D": 0.0005,
+            "unknown": 0.0032
+          }
+        }
+      }
+    },
+    {
+      "index": 48,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 65.6,
+      "timings": {
+        "server_ms": 50.6,
+        "e2e_ms": 65.6,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 11.9,
+          "upstream_ms": 52.3,
+          "settle_ms": 1.3
+        }
+      },
+      "usage": {
+        "input_tokens": 179,
+        "output_tokens": 0,
+        "cost_nanos": 3759
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9952,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.0011,
+            "C": 0.9961,
+            "D": 0.0015,
+            "unknown": 0.0007
+          }
+        }
+      }
+    },
+    {
+      "index": 49,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 68.4,
+      "timings": {
+        "server_ms": 46.3,
+        "e2e_ms": 68.4,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 15.5,
+          "upstream_ms": 51.8,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 187,
+        "output_tokens": 0,
+        "cost_nanos": 3927
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.987,
+          "probabilities": {
+            "A": 0.9896,
+            "B": 0.0028,
+            "C": 0.0012,
+            "D": 0.0046,
+            "unknown": 0.0019
+          }
+        }
+      }
+    },
+    {
+      "index": 50,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 65.6,
+      "timings": {
+        "server_ms": 45.8,
+        "e2e_ms": 65.6,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 12.9,
+          "upstream_ms": 51.6,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 179,
+        "output_tokens": 0,
+        "cost_nanos": 3759
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.994,
+          "probabilities": {
+            "A": 0.9952,
+            "B": 0.0003,
+            "C": 0.0013,
+            "D": 0.0011,
+            "unknown": 0.002
+          }
+        }
+      }
+    },
+    {
+      "index": 51,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.2,
+      "timings": {
+        "server_ms": 45.1,
+        "e2e_ms": 61.2,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 8.5,
+          "upstream_ms": 51.5,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 181,
+        "output_tokens": 0,
+        "cost_nanos": 3801
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9915,
+          "probabilities": {
+            "A": 0.0023,
+            "B": 0.0026,
+            "C": 0.0005,
+            "D": 0.9932,
+            "unknown": 0.0014
+          }
+        }
+      }
+    },
+    {
+      "index": 52,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.5,
+      "timings": {
+        "server_ms": 47.1,
+        "e2e_ms": 60.5,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.1,
+          "upstream_ms": 49.2,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 186,
+        "output_tokens": 0,
+        "cost_nanos": 3906
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9978,
+          "probabilities": {
+            "A": 0.0005,
+            "B": 0.0005,
+            "C": 0.9982,
+            "D": 0.0003,
+            "unknown": 0.0005
+          }
+        }
+      }
+    },
+    {
+      "index": 53,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 61.8,
+      "timings": {
+        "server_ms": 44.1,
+        "e2e_ms": 61.8,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.7,
+          "upstream_ms": 50,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 181,
+        "output_tokens": 0,
+        "cost_nanos": 3801
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.994,
+          "probabilities": {
+            "A": 0.0013,
+            "B": 0.9952,
+            "C": 0.0012,
+            "D": 0.0014,
+            "unknown": 0.0008
+          }
+        }
+      }
+    },
+    {
+      "index": 54,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 58.9,
+      "timings": {
+        "server_ms": 43,
+        "e2e_ms": 58.9,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 12.1,
+          "upstream_ms": 45.7,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 194,
+        "output_tokens": 0,
+        "cost_nanos": 4074
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.996,
+          "probabilities": {
+            "A": 0.0012,
+            "B": 0.9968,
+            "C": 0.0007,
+            "D": 0.0011,
+            "unknown": 0.0003
+          }
+        }
+      }
+    },
+    {
+      "index": 55,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.5,
+      "timings": {
+        "server_ms": 43.7,
+        "e2e_ms": 60.5,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.3,
+          "upstream_ms": 50.1,
+          "settle_ms": 1
+        }
+      },
+      "usage": {
+        "input_tokens": 178,
+        "output_tokens": 0,
+        "cost_nanos": 3738
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "C",
+          "confidence": 0.9949,
+          "probabilities": {
+            "A": 0.0007,
+            "B": 0.0003,
+            "C": 0.9959,
+            "D": 0.0025,
+            "unknown": 0.0006
+          }
+        }
+      }
+    },
+    {
+      "index": 56,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.7,
+      "timings": {
+        "server_ms": 47.1,
+        "e2e_ms": 60.7,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.2,
+          "upstream_ms": 49.2,
+          "settle_ms": 1.2
+        }
+      },
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 0,
+        "cost_nanos": 4011
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9915,
+          "probabilities": {
+            "A": 0.9932,
+            "B": 0.0018,
+            "C": 0.0036,
+            "D": 0.0004,
+            "unknown": 0.001
+          }
+        }
+      }
+    },
+    {
+      "index": 57,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.5,
+      "timings": {
+        "server_ms": 45.7,
+        "e2e_ms": 60.5,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 10.9,
+          "upstream_ms": 48.4,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 196,
+        "output_tokens": 0,
+        "cost_nanos": 4116
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "B",
+          "confidence": 0.9953,
+          "probabilities": {
+            "A": 0.0012,
+            "B": 0.9962,
+            "C": 0.001,
+            "D": 0.001,
+            "unknown": 0.0005
+          }
+        }
+      }
+    },
+    {
+      "index": 58,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.3,
+      "timings": {
+        "server_ms": 43.5,
+        "e2e_ms": 60.3,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 12.3,
+          "upstream_ms": 46.8,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 183,
+        "output_tokens": 0,
+        "cost_nanos": 3843
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "D",
+          "confidence": 0.9962,
+          "probabilities": {
+            "A": 0.0006,
+            "B": 0.0004,
+            "C": 0.0007,
+            "D": 0.997,
+            "unknown": 0.0012
+          }
+        }
+      }
+    },
+    {
+      "index": 59,
+      "mode": "live",
+      "model_version": "v2",
+      "model": "Seb-9B-v2-NVFP4",
+      "latency_ms": 60.1,
+      "timings": {
+        "server_ms": 44,
+        "e2e_ms": 60.1,
+        "phases": {
+          "auth_ms": 0.1,
+          "reserve_ms": 9.3,
+          "upstream_ms": 49.7,
+          "settle_ms": 1.1
+        }
+      },
+      "usage": {
+        "input_tokens": 185,
+        "output_tokens": 0,
+        "cost_nanos": 3885
+      },
+      "answers": {
+        "answer": {
+          "type": "choice",
+          "choice": "A",
+          "confidence": 0.9881,
+          "probabilities": {
+            "A": 0.9905,
+            "B": 0.0032,
+            "C": 0.0004,
+            "D": 0.0043,
+            "unknown": 0.0017
+          }
+        }
+      }
+    }
+  ]
+}

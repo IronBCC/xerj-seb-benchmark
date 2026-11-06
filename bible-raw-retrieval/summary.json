@@ -1,0 +1,25 @@
+{
+  "n": 160,
+  "sqlite_bm25": {
+    "recall_at_1": 25,
+    "recall_at_5": 52,
+    "median_ms": 0.6426874315366149
+  },
+  "xerj_raw_search": {
+    "recall_at_1": 25,
+    "recall_at_5": 52,
+    "median_ms": 0.38195797242224216
+  },
+  "bm25_seb_rerank": {
+    "recall_at_1": 42,
+    "recall_at_5": 52,
+    "calls": 800,
+    "tokens": 118352,
+    "cost_nanos": 2485392,
+    "cost_per_1000_questions": 0.015533700000000001,
+    "median_per_item_api_ms": 60.6
+  },
+  "xerj_query1_without_extraction": {
+    "unknown": 160
+  }
+}

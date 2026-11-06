@@ -1,0 +1,24 @@
+{
+  "n": 160,
+  "xerj": {
+    "correct": 0,
+    "wrong": 0,
+    "statuses": {
+      "UNSUPPORTED": 160
+    },
+    "reasons": {
+      "D2C_COUNT_COMPARISON": 160
+    },
+    "median_wall_ms": 187.19247949775308
+  },
+  "seb": {
+    "correct": 116,
+    "wrong": 44,
+    "unknown": 0,
+    "input_tokens": 26124,
+    "cost_nanos": 548604,
+    "cost_per_1000": 0.0034287750000000002,
+    "median_api_ms": 63.2
+  },
+  "bm25_median_ms": 0.0954789575189352
+}

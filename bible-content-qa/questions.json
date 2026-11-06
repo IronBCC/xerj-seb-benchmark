@@ -1,0 +1,3794 @@
+[
+  {
+    "question": "Where did Jehoiakim die?",
+    "field": "death_place",
+    "gold": "Jerusalem",
+    "correct_option": "D",
+    "options": [
+      "Mamre",
+      "mount Gilboa",
+      "Babylon",
+      "Jerusalem"
+    ],
+    "hits": [
+      [
+        "jehoiakim-death_place",
+        "Jehoiakim died in Jerusalem."
+      ],
+      [
+        "jehoiakim-father",
+        "Jehoiakim's father was Josiah."
+      ],
+      [
+        "jehoiakim-mother",
+        "Jehoiakim's mother was Zebudah."
+      ],
+      [
+        "jehoiakim-birth_place",
+        "Jehoiakim was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 2.2582942619919777e-05,
+    "state": "Question: Where did Jehoiakim die?\nOptions:\nA: Mamre\nB: mount Gilboa\nC: Babylon\nD: Jerusalem\nEvidence:\nJehoiakim died in Jerusalem.\nJehoiakim's father was Josiah.\nJehoiakim's mother was Zebudah.\nJehoiakim was born in Jerusalem."
+  },
+  {
+    "question": "Who was Maacah's father?",
+    "field": "father",
+    "gold": "Talmai",
+    "correct_option": "D",
+    "options": [
+      "Hananiah",
+      "Shimei",
+      "Ezra",
+      "Talmai"
+    ],
+    "hits": [
+      [
+        "maacah-father",
+        "Maacah's father was Talmai."
+      ]
+    ],
+    "bm25_s": 1.5249941498041153e-05,
+    "state": "Question: Who was Maacah's father?\nOptions:\nA: Hananiah\nB: Shimei\nC: Ezra\nD: Talmai\nEvidence:\nMaacah's father was Talmai."
+  },
+  {
+    "question": "Who was Ader's father?",
+    "field": "father",
+    "gold": "Beriah",
+    "correct_option": "A",
+    "options": [
+      "Beriah",
+      "Abner",
+      "the giant in Gath",
+      "Amram"
+    ],
+    "hits": [
+      [
+        "ader-father",
+        "Ader's father was Beriah."
+      ]
+    ],
+    "bm25_s": 1.6375211998820305e-05,
+    "state": "Question: Who was Ader's father?\nOptions:\nA: Beriah\nB: Abner\nC: the giant in Gath\nD: Amram\nEvidence:\nAder's father was Beriah."
+  },
+  {
+    "question": "Who was Iphedeiah's father?",
+    "field": "father",
+    "gold": "Shashak",
+    "correct_option": "C",
+    "options": [
+      "Mattatha",
+      "Shavsha",
+      "Shashak",
+      "Nathan"
+    ],
+    "hits": [
+      [
+        "iphedeiah-father",
+        "Iphedeiah's father was Shashak."
+      ]
+    ],
+    "bm25_s": 1.1625001206994057e-05,
+    "state": "Question: Who was Iphedeiah's father?\nOptions:\nA: Mattatha\nB: Shavsha\nC: Shashak\nD: Nathan\nEvidence:\nIphedeiah's father was Shashak."
+  },
+  {
+    "question": "Who was Bethuel's mother?",
+    "field": "mother",
+    "gold": "Milcah",
+    "correct_option": "A",
+    "options": [
+      "Milcah",
+      "Zillah",
+      "Mother of the Wife of Simon",
+      "Mary"
+    ],
+    "hits": [
+      [
+        "bethuel-father",
+        "Bethuel's father was Nahor."
+      ],
+      [
+        "bethuel-mother",
+        "Bethuel's mother was Milcah."
+      ]
+    ],
+    "bm25_s": 1.337495632469654e-05,
+    "state": "Question: Who was Bethuel's mother?\nOptions:\nA: Milcah\nB: Zillah\nC: Mother of the Wife of Simon\nD: Mary\nEvidence:\nBethuel's father was Nahor.\nBethuel's mother was Milcah."
+  },
+  {
+    "question": "Where was Seth born?",
+    "field": "birth_place",
+    "gold": "Eden",
+    "correct_option": "A",
+    "options": [
+      "Eden",
+      "Jerusalem",
+      "Tarsus",
+      "Moab"
+    ],
+    "hits": [
+      [
+        "seth-father",
+        "Seth's father was Adam."
+      ],
+      [
+        "seth-mother",
+        "Seth's mother was Eve."
+      ],
+      [
+        "seth-birth_place",
+        "Seth was born in Eden."
+      ]
+    ],
+    "bm25_s": 1.3249926269054413e-05,
+    "state": "Question: Where was Seth born?\nOptions:\nA: Eden\nB: Jerusalem\nC: Tarsus\nD: Moab\nEvidence:\nSeth's father was Adam.\nSeth's mother was Eve.\nSeth was born in Eden."
+  },
+  {
+    "question": "Who was Joiakim's father?",
+    "field": "father",
+    "gold": "Joshua",
+    "correct_option": "C",
+    "options": [
+      "Ahijah",
+      "Nagge",
+      "Joshua",
+      "Machi"
+    ],
+    "hits": [
+      [
+        "joiakim-father",
+        "Joiakim's father was Joshua."
+      ]
+    ],
+    "bm25_s": 1.591700129210949e-05,
+    "state": "Question: Who was Joiakim's father?\nOptions:\nA: Ahijah\nB: Nagge\nC: Joshua\nD: Machi\nEvidence:\nJoiakim's father was Joshua."
+  },
+  {
+    "question": "Who was Abishai's mother?",
+    "field": "mother",
+    "gold": "Zeruiah",
+    "correct_option": "D",
+    "options": [
+      "Mary",
+      "Hannah",
+      "Bilhah",
+      "Zeruiah"
+    ],
+    "hits": [
+      [
+        "abishai-mother",
+        "Abishai's mother was Zeruiah."
+      ]
+    ],
+    "bm25_s": 8.584000170230865e-06,
+    "state": "Question: Who was Abishai's mother?\nOptions:\nA: Mary\nB: Hannah\nC: Bilhah\nD: Zeruiah\nEvidence:\nAbishai's mother was Zeruiah."
+  },
+  {
+    "question": "Who was Micaiah's father?",
+    "field": "father",
+    "gold": "Imla",
+    "correct_option": "A",
+    "options": [
+      "Imla",
+      "Elishama",
+      "Naphtali",
+      "Reu"
+    ],
+    "hits": [
+      [
+        "micaiah-father",
+        "Micaiah's father was Imla."
+      ]
+    ],
+    "bm25_s": 3.4458935260772705e-05,
+    "state": "Question: Who was Micaiah's father?\nOptions:\nA: Imla\nB: Elishama\nC: Naphtali\nD: Reu\nEvidence:\nMicaiah's father was Imla."
+  },
+  {
+    "question": "Who was Jabal's mother?",
+    "field": "mother",
+    "gold": "Adah",
+    "correct_option": "C",
+    "options": [
+      "Bithiah",
+      "Sarah",
+      "Adah",
+      "Ahinoam"
+    ],
+    "hits": [
+      [
+        "jabal-father",
+        "Jabal's father was Lamech."
+      ],
+      [
+        "jabal-mother",
+        "Jabal's mother was Adah."
+      ]
+    ],
+    "bm25_s": 1.00000761449337e-05,
+    "state": "Question: Who was Jabal's mother?\nOptions:\nA: Bithiah\nB: Sarah\nC: Adah\nD: Ahinoam\nEvidence:\nJabal's father was Lamech.\nJabal's mother was Adah."
+  },
+  {
+    "question": "Who was Daughter of Herodias's mother?",
+    "field": "mother",
+    "gold": "Herodias",
+    "correct_option": "B",
+    "options": [
+      "Mother of the Wife of Simon",
+      "Herodias",
+      "Ahinoam",
+      "Eglah"
+    ],
+    "hits": [
+      [
+        "daughter-of-herodias-mother",
+        "Daughter of Herodias's mother was Herodias."
+      ]
+    ],
+    "bm25_s": 1.9082799553871155e-05,
+    "state": "Question: Who was Daughter of Herodias's mother?\nOptions:\nA: Mother of the Wife of Simon\nB: Herodias\nC: Ahinoam\nD: Eglah\nEvidence:\nDaughter of Herodias's mother was Herodias."
+  },
+  {
+    "question": "Who was Abel's father?",
+    "field": "father",
+    "gold": "Adam",
+    "correct_option": "D",
+    "options": [
+      "Eli",
+      "Baladan",
+      "Er",
+      "Adam"
+    ],
+    "hits": [
+      [
+        "abel-death_place",
+        "Abel died in Eden."
+      ],
+      [
+        "abel-father",
+        "Abel's father was Adam."
+      ],
+      [
+        "abel-mother",
+        "Abel's mother was Eve."
+      ],
+      [
+        "abel-birth_place",
+        "Abel was born in Eden."
+      ]
+    ],
+    "bm25_s": 1.4416873455047607e-05,
+    "state": "Question: Who was Abel's father?\nOptions:\nA: Eli\nB: Baladan\nC: Er\nD: Adam\nEvidence:\nAbel died in Eden.\nAbel's father was Adam.\nAbel's mother was Eve.\nAbel was born in Eden."
+  },
+  {
+    "question": "Where was Solomon born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "A",
+    "options": [
+      "Jerusalem",
+      "Ur",
+      "Bethlehem",
+      "Egypt"
+    ],
+    "hits": [
+      [
+        "solomon-death_place",
+        "Solomon died in Jerusalem."
+      ],
+      [
+        "solomon-father",
+        "Solomon's father was David."
+      ],
+      [
+        "solomon-mother",
+        "Solomon's mother was Bathsheba."
+      ],
+      [
+        "solomon-birth_place",
+        "Solomon was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.2249918654561043e-05,
+    "state": "Question: Where was Solomon born?\nOptions:\nA: Jerusalem\nB: Ur\nC: Bethlehem\nD: Egypt\nEvidence:\nSolomon died in Jerusalem.\nSolomon's father was David.\nSolomon's mother was Bathsheba.\nSolomon was born in Jerusalem."
+  },
+  {
+    "question": "Who was Cain's mother?",
+    "field": "mother",
+    "gold": "Eve",
+    "correct_option": "B",
+    "options": [
+      "Mother of Aholah and Aholibah",
+      "Eve",
+      "Adah",
+      "Nehushta"
+    ],
+    "hits": [
+      [
+        "cain-father",
+        "Cain's father was Adam."
+      ],
+      [
+        "cain-mother",
+        "Cain's mother was Eve."
+      ],
+      [
+        "cain-birth_place",
+        "Cain was born in Eden."
+      ],
+      [
+        "tubal-cain-father",
+        "Tubal-cain's father was Lamech."
+      ],
+      [
+        "tubal-cain-mother",
+        "Tubal-cain's mother was Zillah."
+      ]
+    ],
+    "bm25_s": 1.5333062037825584e-05,
+    "state": "Question: Who was Cain's mother?\nOptions:\nA: Mother of Aholah and Aholibah\nB: Eve\nC: Adah\nD: Nehushta\nEvidence:\nCain's father was Adam.\nCain's mother was Eve.\nCain was born in Eden.\nTubal-cain's father was Lamech.\nTubal-cain's mother was Zillah."
+  },
+  {
+    "question": "Who was Elpaal's mother?",
+    "field": "mother",
+    "gold": "Hushim",
+    "correct_option": "B",
+    "options": [
+      "Eunice",
+      "Hushim",
+      "Mary",
+      "Reumah"
+    ],
+    "hits": [
+      [
+        "elpaal-father",
+        "Elpaal's father was Shaharaim."
+      ],
+      [
+        "elpaal-mother",
+        "Elpaal's mother was Hushim."
+      ]
+    ],
+    "bm25_s": 1.1292053386569023e-05,
+    "state": "Question: Who was Elpaal's mother?\nOptions:\nA: Eunice\nB: Hushim\nC: Mary\nD: Reumah\nEvidence:\nElpaal's father was Shaharaim.\nElpaal's mother was Hushim."
+  },
+  {
+    "question": "Who was Addi's father?",
+    "field": "father",
+    "gold": "Cosam",
+    "correct_option": "D",
+    "options": [
+      "Joktan",
+      "Irad",
+      "Shimei",
+      "Cosam"
+    ],
+    "hits": [
+      [
+        "addi-father",
+        "Addi's father was Cosam."
+      ]
+    ],
+    "bm25_s": 1.2082979083061218e-05,
+    "state": "Question: Who was Addi's father?\nOptions:\nA: Joktan\nB: Irad\nC: Shimei\nD: Cosam\nEvidence:\nAddi's father was Cosam."
+  },
+  {
+    "question": "Who was Temeni's mother?",
+    "field": "mother",
+    "gold": "Naarah",
+    "correct_option": "A",
+    "options": [
+      "Naarah",
+      "Leah",
+      "Eve",
+      "Abiah"
+    ],
+    "hits": [
+      [
+        "temeni-father",
+        "Temeni's father was Ashur."
+      ],
+      [
+        "temeni-mother",
+        "Temeni's mother was Naarah."
+      ]
+    ],
+    "bm25_s": 1.1082971468567848e-05,
+    "state": "Question: Who was Temeni's mother?\nOptions:\nA: Naarah\nB: Leah\nC: Eve\nD: Abiah\nEvidence:\nTemeni's father was Ashur.\nTemeni's mother was Naarah."
+  },
+  {
+    "question": "Who was Joed's father?",
+    "field": "father",
+    "gold": "Pedaiah",
+    "correct_option": "D",
+    "options": [
+      "Abda",
+      "Hananiah",
+      "Ram",
+      "Pedaiah"
+    ],
+    "hits": [
+      [
+        "joed-father",
+        "Joed's father was Pedaiah."
+      ]
+    ],
+    "bm25_s": 1.2042000889778137e-05,
+    "state": "Question: Who was Joed's father?\nOptions:\nA: Abda\nB: Hananiah\nC: Ram\nD: Pedaiah\nEvidence:\nJoed's father was Pedaiah."
+  },
+  {
+    "question": "Who was Merab's mother?",
+    "field": "mother",
+    "gold": "Ahinoam",
+    "correct_option": "B",
+    "options": [
+      "Zeruiah",
+      "Ahinoam",
+      "Bithiah",
+      "Rebekah"
+    ],
+    "hits": [
+      [
+        "merab-father",
+        "Merab's father was Saul."
+      ],
+      [
+        "merab-mother",
+        "Merab's mother was Ahinoam."
+      ]
+    ],
+    "bm25_s": 1.295795664191246e-05,
+    "state": "Question: Who was Merab's mother?\nOptions:\nA: Zeruiah\nB: Ahinoam\nC: Bithiah\nD: Rebekah\nEvidence:\nMerab's father was Saul.\nMerab's mother was Ahinoam."
+  },
+  {
+    "question": "Where did Rehoboam die?",
+    "field": "death_place",
+    "gold": "Jerusalem",
+    "correct_option": "D",
+    "options": [
+      "Egypt",
+      "mount Gilboa",
+      "mount Hor",
+      "Jerusalem"
+    ],
+    "hits": [
+      [
+        "rehoboam-death_place",
+        "Rehoboam died in Jerusalem."
+      ],
+      [
+        "rehoboam-father",
+        "Rehoboam's father was Solomon."
+      ],
+      [
+        "rehoboam-mother",
+        "Rehoboam's mother was Naamah."
+      ],
+      [
+        "rehoboam-birth_place",
+        "Rehoboam was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 3.554183058440685e-05,
+    "state": "Question: Where did Rehoboam die?\nOptions:\nA: Egypt\nB: mount Gilboa\nC: mount Hor\nD: Jerusalem\nEvidence:\nRehoboam died in Jerusalem.\nRehoboam's father was Solomon.\nRehoboam's mother was Naamah.\nRehoboam was born in Jerusalem."
+  },
+  {
+    "question": "Who was Abidan's father?",
+    "field": "father",
+    "gold": "Gideoni",
+    "correct_option": "A",
+    "options": [
+      "Gideoni",
+      "Josiah",
+      "Jeremiah",
+      "Lot"
+    ],
+    "hits": [
+      [
+        "abidan-father",
+        "Abidan's father was Gideoni."
+      ]
+    ],
+    "bm25_s": 1.1832918971776962e-05,
+    "state": "Question: Who was Abidan's father?\nOptions:\nA: Gideoni\nB: Josiah\nC: Jeremiah\nD: Lot\nEvidence:\nAbidan's father was Gideoni."
+  },
+  {
+    "question": "Where was Moses born?",
+    "field": "birth_place",
+    "gold": "Egypt",
+    "correct_option": "A",
+    "options": [
+      "Egypt",
+      "Tarsus",
+      "Chezib",
+      "Moab"
+    ],
+    "hits": [
+      [
+        "moses-father",
+        "Moses's father was Amram."
+      ],
+      [
+        "moses-mother",
+        "Moses's mother was Jochebed."
+      ],
+      [
+        "moses-birth_place",
+        "Moses was born in Egypt."
+      ],
+      [
+        "moses-death_place",
+        "Moses died in mount Nebo."
+      ]
+    ],
+    "bm25_s": 1.095910556614399e-05,
+    "state": "Question: Where was Moses born?\nOptions:\nA: Egypt\nB: Tarsus\nC: Chezib\nD: Moab\nEvidence:\nMoses's father was Amram.\nMoses's mother was Jochebed.\nMoses was born in Egypt.\nMoses died in mount Nebo."
+  },
+  {
+    "question": "Who was Tibni's father?",
+    "field": "father",
+    "gold": "Ginath",
+    "correct_option": "D",
+    "options": [
+      "Bethuel",
+      "Joktan",
+      "Ir",
+      "Ginath"
+    ],
+    "hits": [
+      [
+        "tibni-father",
+        "Tibni's father was Ginath."
+      ]
+    ],
+    "bm25_s": 1.1458061635494232e-05,
+    "state": "Question: Who was Tibni's father?\nOptions:\nA: Bethuel\nB: Joktan\nC: Ir\nD: Ginath\nEvidence:\nTibni's father was Ginath."
+  },
+  {
+    "question": "Where was Aaron born?",
+    "field": "birth_place",
+    "gold": "Egypt",
+    "correct_option": "C",
+    "options": [
+      "Moab",
+      "Ur",
+      "Egypt",
+      "Chezib"
+    ],
+    "hits": [
+      [
+        "aaron-father",
+        "Aaron's father was Amram."
+      ],
+      [
+        "aaron-mother",
+        "Aaron's mother was Jochebed."
+      ],
+      [
+        "aaron-birth_place",
+        "Aaron was born in Egypt."
+      ],
+      [
+        "aaron-death_place",
+        "Aaron died in mount Hor."
+      ]
+    ],
+    "bm25_s": 9.999843314290047e-06,
+    "state": "Question: Where was Aaron born?\nOptions:\nA: Moab\nB: Ur\nC: Egypt\nD: Chezib\nEvidence:\nAaron's father was Amram.\nAaron's mother was Jochebed.\nAaron was born in Egypt.\nAaron died in mount Hor."
+  },
+  {
+    "question": "Who was Jude's mother?",
+    "field": "mother",
+    "gold": "Mary",
+    "correct_option": "B",
+    "options": [
+      "Abihail",
+      "Mary",
+      "Naomi",
+      "Eglah"
+    ],
+    "hits": [
+      [
+        "jude-father",
+        "Jude's father was Joseph."
+      ],
+      [
+        "jude-mother",
+        "Jude's mother was Mary."
+      ]
+    ],
+    "bm25_s": 1.0624993592500687e-05,
+    "state": "Question: Who was Jude's mother?\nOptions:\nA: Abihail\nB: Mary\nC: Naomi\nD: Eglah\nEvidence:\nJude's father was Joseph.\nJude's mother was Mary."
+  },
+  {
+    "question": "Who was Hasadiah's father?",
+    "field": "father",
+    "gold": "Zerubbabel",
+    "correct_option": "A",
+    "options": [
+      "Zerubbabel",
+      "Midian",
+      "Reuel",
+      "Lot"
+    ],
+    "hits": [
+      [
+        "hasadiah-father",
+        "Hasadiah's father was Zerubbabel."
+      ]
+    ],
+    "bm25_s": 1.870817504823208e-05,
+    "state": "Question: Who was Hasadiah's father?\nOptions:\nA: Zerubbabel\nB: Midian\nC: Reuel\nD: Lot\nEvidence:\nHasadiah's father was Zerubbabel."
+  },
+  {
+    "question": "Who was Zebulun's father?",
+    "field": "father",
+    "gold": "Israel",
+    "correct_option": "A",
+    "options": [
+      "Israel",
+      "Jarah",
+      "Ezra",
+      "Nebuchadnezzar"
+    ],
+    "hits": [
+      [
+        "zebulun-father",
+        "Zebulun's father was Israel."
+      ],
+      [
+        "zebulun-mother",
+        "Zebulun's mother was Leah."
+      ]
+    ],
+    "bm25_s": 0.00011445791460573673,
+    "state": "Question: Who was Zebulun's father?\nOptions:\nA: Israel\nB: Jarah\nC: Ezra\nD: Nebuchadnezzar\nEvidence:\nZebulun's father was Israel.\nZebulun's mother was Leah."
+  },
+  {
+    "question": "Where was Paul born?",
+    "field": "birth_place",
+    "gold": "Tarsus",
+    "correct_option": "C",
+    "options": [
+      "Jerusalem",
+      "Ur",
+      "Tarsus",
+      "Egypt"
+    ],
+    "hits": [
+      [
+        "paul-birth_place",
+        "Paul was born in Tarsus."
+      ]
+    ],
+    "bm25_s": 9.499955922365189e-06,
+    "state": "Question: Where was Paul born?\nOptions:\nA: Jerusalem\nB: Ur\nC: Tarsus\nD: Egypt\nEvidence:\nPaul was born in Tarsus."
+  },
+  {
+    "question": "Who was Haahashtari's father?",
+    "field": "father",
+    "gold": "Ashur",
+    "correct_option": "D",
+    "options": [
+      "Uzziah",
+      "Mezahab",
+      "Nethaniah",
+      "Ashur"
+    ],
+    "hits": [
+      [
+        "haahashtari-father",
+        "Haahashtari's father was Ashur."
+      ],
+      [
+        "haahashtari-mother",
+        "Haahashtari's mother was Naarah."
+      ]
+    ],
+    "bm25_s": 1.7041107639670372e-05,
+    "state": "Question: Who was Haahashtari's father?\nOptions:\nA: Uzziah\nB: Mezahab\nC: Nethaniah\nD: Ashur\nEvidence:\nHaahashtari's father was Ashur.\nHaahashtari's mother was Naarah."
+  },
+  {
+    "question": "Who was Shoham's father?",
+    "field": "father",
+    "gold": "Jaaziah",
+    "correct_option": "A",
+    "options": [
+      "Jaaziah",
+      "Enoch",
+      "Zelophehad",
+      "Reuben"
+    ],
+    "hits": [
+      [
+        "shoham-father",
+        "Shoham's father was Jaaziah."
+      ]
+    ],
+    "bm25_s": 1.700012944638729e-05,
+    "state": "Question: Who was Shoham's father?\nOptions:\nA: Jaaziah\nB: Enoch\nC: Zelophehad\nD: Reuben\nEvidence:\nShoham's father was Jaaziah."
+  },
+  {
+    "question": "Who was Abiud's father?",
+    "field": "father",
+    "gold": "Zerubbabel",
+    "correct_option": "B",
+    "options": [
+      "Shema",
+      "Zerubbabel",
+      "Saul",
+      "Phinehas"
+    ],
+    "hits": [
+      [
+        "abiud-father",
+        "Abiud's father was Zerubbabel."
+      ]
+    ],
+    "bm25_s": 1.7666025087237358e-05,
+    "state": "Question: Who was Abiud's father?\nOptions:\nA: Shema\nB: Zerubbabel\nC: Saul\nD: Phinehas\nEvidence:\nAbiud's father was Zerubbabel."
+  },
+  {
+    "question": "Who was Alvan's father?",
+    "field": "father",
+    "gold": "Shobal",
+    "correct_option": "A",
+    "options": [
+      "Shobal",
+      "Jesse",
+      "Shemida",
+      "Jonas"
+    ],
+    "hits": [
+      [
+        "alvan-father",
+        "Alvan's father was Shobal."
+      ]
+    ],
+    "bm25_s": 3.8084108382463455e-05,
+    "state": "Question: Who was Alvan's father?\nOptions:\nA: Shobal\nB: Jesse\nC: Shemida\nD: Jonas\nEvidence:\nAlvan's father was Shobal."
+  },
+  {
+    "question": "Where was Elimelech born?",
+    "field": "birth_place",
+    "gold": "Bethlehem",
+    "correct_option": "A",
+    "options": [
+      "Bethlehem",
+      "Egypt",
+      "Ur",
+      "Tarsus"
+    ],
+    "hits": [
+      [
+        "elimelech-birth_place",
+        "Elimelech was born in Bethlehem."
+      ]
+    ],
+    "bm25_s": 1.237494871020317e-05,
+    "state": "Question: Where was Elimelech born?\nOptions:\nA: Bethlehem\nB: Egypt\nC: Ur\nD: Tarsus\nEvidence:\nElimelech was born in Bethlehem."
+  },
+  {
+    "question": "Who was Mirma's father?",
+    "field": "father",
+    "gold": "Shaharaim",
+    "correct_option": "D",
+    "options": [
+      "Laish",
+      "Baal",
+      "Jehiel",
+      "Shaharaim"
+    ],
+    "hits": [
+      [
+        "mirma-father",
+        "Mirma's father was Shaharaim."
+      ],
+      [
+        "mirma-mother",
+        "Mirma's mother was Hodesh."
+      ]
+    ],
+    "bm25_s": 1.4499993994832039e-05,
+    "state": "Question: Who was Mirma's father?\nOptions:\nA: Laish\nB: Baal\nC: Jehiel\nD: Shaharaim\nEvidence:\nMirma's father was Shaharaim.\nMirma's mother was Hodesh."
+  },
+  {
+    "question": "Where did Israel die?",
+    "field": "death_place",
+    "gold": "Egypt",
+    "correct_option": "B",
+    "options": [
+      "mount Nebo",
+      "Egypt",
+      "Babylon",
+      "Mamre"
+    ],
+    "hits": [
+      [
+        "israel-death_place",
+        "Israel died in Egypt."
+      ],
+      [
+        "israel-father",
+        "Israel's father was Isaac."
+      ],
+      [
+        "israel-mother",
+        "Israel's mother was Rebekah."
+      ]
+    ],
+    "bm25_s": 1.3750046491622925e-05,
+    "state": "Question: Where did Israel die?\nOptions:\nA: mount Nebo\nB: Egypt\nC: Babylon\nD: Mamre\nEvidence:\nIsrael died in Egypt.\nIsrael's father was Isaac.\nIsrael's mother was Rebekah."
+  },
+  {
+    "question": "Where did Isaac die?",
+    "field": "death_place",
+    "gold": "Mamre",
+    "correct_option": "A",
+    "options": [
+      "Mamre",
+      "Egypt",
+      "Jerusalem",
+      "Eden"
+    ],
+    "hits": [
+      [
+        "isaac-death_place",
+        "Isaac died in Mamre."
+      ],
+      [
+        "isaac-father",
+        "Isaac's father was Abraham."
+      ],
+      [
+        "isaac-mother",
+        "Isaac's mother was Sarah."
+      ]
+    ],
+    "bm25_s": 1.0875053703784943e-05,
+    "state": "Question: Where did Isaac die?\nOptions:\nA: Mamre\nB: Egypt\nC: Jerusalem\nD: Eden\nEvidence:\nIsaac died in Mamre.\nIsaac's father was Abraham.\nIsaac's mother was Sarah."
+  },
+  {
+    "question": "Where was Zaham born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Moab",
+      "Egypt",
+      "Jerusalem",
+      "Bethlehem"
+    ],
+    "hits": [
+      [
+        "zaham-father",
+        "Zaham's father was Rehoboam."
+      ],
+      [
+        "zaham-mother",
+        "Zaham's mother was Abihail."
+      ],
+      [
+        "zaham-birth_place",
+        "Zaham was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0832911357283592e-05,
+    "state": "Question: Where was Zaham born?\nOptions:\nA: Moab\nB: Egypt\nC: Jerusalem\nD: Bethlehem\nEvidence:\nZaham's father was Rehoboam.\nZaham's mother was Abihail.\nZaham was born in Jerusalem."
+  },
+  {
+    "question": "Who was Mahlon's mother?",
+    "field": "mother",
+    "gold": "Naomi",
+    "correct_option": "B",
+    "options": [
+      "Tamar",
+      "Naomi",
+      "Sarah",
+      "Abihail"
+    ],
+    "hits": [
+      [
+        "mahlon-father",
+        "Mahlon's father was Elimelech."
+      ],
+      [
+        "mahlon-mother",
+        "Mahlon's mother was Naomi."
+      ],
+      [
+        "mahlon-birth_place",
+        "Mahlon was born in Bethlehem."
+      ]
+    ],
+    "bm25_s": 1.254095695912838e-05,
+    "state": "Question: Who was Mahlon's mother?\nOptions:\nA: Tamar\nB: Naomi\nC: Sarah\nD: Abihail\nEvidence:\nMahlon's father was Elimelech.\nMahlon's mother was Naomi.\nMahlon was born in Bethlehem."
+  },
+  {
+    "question": "Where was Mahlon born?",
+    "field": "birth_place",
+    "gold": "Bethlehem",
+    "correct_option": "A",
+    "options": [
+      "Bethlehem",
+      "Chezib",
+      "Moab",
+      "Ur"
+    ],
+    "hits": [
+      [
+        "mahlon-father",
+        "Mahlon's father was Elimelech."
+      ],
+      [
+        "mahlon-mother",
+        "Mahlon's mother was Naomi."
+      ],
+      [
+        "mahlon-birth_place",
+        "Mahlon was born in Bethlehem."
+      ]
+    ],
+    "bm25_s": 1.158309169113636e-05,
+    "state": "Question: Where was Mahlon born?\nOptions:\nA: Bethlehem\nB: Chezib\nC: Moab\nD: Ur\nEvidence:\nMahlon's father was Elimelech.\nMahlon's mother was Naomi.\nMahlon was born in Bethlehem."
+  },
+  {
+    "question": "Who was Asareel's father?",
+    "field": "father",
+    "gold": "Jehaleleel",
+    "correct_option": "D",
+    "options": [
+      "Timaeus",
+      "Herod",
+      "Amzi",
+      "Jehaleleel"
+    ],
+    "hits": [
+      [
+        "asareel-father",
+        "Asareel's father was Jehaleleel."
+      ]
+    ],
+    "bm25_s": 1.0832911357283592e-05,
+    "state": "Question: Who was Asareel's father?\nOptions:\nA: Timaeus\nB: Herod\nC: Amzi\nD: Jehaleleel\nEvidence:\nAsareel's father was Jehaleleel."
+  },
+  {
+    "question": "Who was Shelesh's father?",
+    "field": "father",
+    "gold": "Hotham",
+    "correct_option": "B",
+    "options": [
+      "Aram",
+      "Hotham",
+      "Zur",
+      "Jaroah"
+    ],
+    "hits": [
+      [
+        "shelesh-father",
+        "Shelesh's father was Hotham."
+      ]
+    ],
+    "bm25_s": 1.1292053386569023e-05,
+    "state": "Question: Who was Shelesh's father?\nOptions:\nA: Aram\nB: Hotham\nC: Zur\nD: Jaroah\nEvidence:\nShelesh's father was Hotham."
+  },
+  {
+    "question": "Who was Ithamar's mother?",
+    "field": "mother",
+    "gold": "Elisheba",
+    "correct_option": "D",
+    "options": [
+      "Mother of Aholah and Aholibah",
+      "Milcah",
+      "Leah",
+      "Elisheba"
+    ],
+    "hits": [
+      [
+        "ithamar-father",
+        "Ithamar's father was Aaron."
+      ],
+      [
+        "ithamar-mother",
+        "Ithamar's mother was Elisheba."
+      ]
+    ],
+    "bm25_s": 1.0084128007292747e-05,
+    "state": "Question: Who was Ithamar's mother?\nOptions:\nA: Mother of Aholah and Aholibah\nB: Milcah\nC: Leah\nD: Elisheba\nEvidence:\nIthamar's father was Aaron.\nIthamar's mother was Elisheba."
+  },
+  {
+    "question": "Who was Shamariah's mother?",
+    "field": "mother",
+    "gold": "Abihail",
+    "correct_option": "B",
+    "options": [
+      "Rebekah",
+      "Abihail",
+      "Naamah",
+      "Elisheba"
+    ],
+    "hits": [
+      [
+        "shamariah-father",
+        "Shamariah's father was Rehoboam."
+      ],
+      [
+        "shamariah-mother",
+        "Shamariah's mother was Abihail."
+      ],
+      [
+        "shamariah-birth_place",
+        "Shamariah was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0916031897068024e-05,
+    "state": "Question: Who was Shamariah's mother?\nOptions:\nA: Rebekah\nB: Abihail\nC: Naamah\nD: Elisheba\nEvidence:\nShamariah's father was Rehoboam.\nShamariah's mother was Abihail.\nShamariah was born in Jerusalem."
+  },
+  {
+    "question": "Where was Eve born?",
+    "field": "birth_place",
+    "gold": "Eden",
+    "correct_option": "C",
+    "options": [
+      "Chezib",
+      "Egypt",
+      "Eden",
+      "Ur"
+    ],
+    "hits": [
+      [
+        "eve-father",
+        "Eve's father was God."
+      ],
+      [
+        "eve-birth_place",
+        "Eve was born in Eden."
+      ]
+    ],
+    "bm25_s": 1.1208932846784592e-05,
+    "state": "Question: Where was Eve born?\nOptions:\nA: Chezib\nB: Egypt\nC: Eden\nD: Ur\nEvidence:\nEve's father was God.\nEve was born in Eden."
+  },
+  {
+    "question": "Who was Jephthah's father?",
+    "field": "father",
+    "gold": "Gilead",
+    "correct_option": "C",
+    "options": [
+      "Caleb",
+      "Isaiah",
+      "Gilead",
+      "Uzziel"
+    ],
+    "hits": [
+      [
+        "jephthah-father",
+        "Jephthah's father was Gilead."
+      ]
+    ],
+    "bm25_s": 1.354096457362175e-05,
+    "state": "Question: Who was Jephthah's father?\nOptions:\nA: Caleb\nB: Isaiah\nC: Gilead\nD: Uzziel\nEvidence:\nJephthah's father was Gilead."
+  },
+  {
+    "question": "Who was Ahuzam's mother?",
+    "field": "mother",
+    "gold": "Naarah",
+    "correct_option": "D",
+    "options": [
+      "Matred",
+      "Mother of the Wife of Simon",
+      "Sister of Tahpenes",
+      "Naarah"
+    ],
+    "hits": [
+      [
+        "ahuzam-father",
+        "Ahuzam's father was Ashur."
+      ],
+      [
+        "ahuzam-mother",
+        "Ahuzam's mother was Naarah."
+      ]
+    ],
+    "bm25_s": 1.0542105883359909e-05,
+    "state": "Question: Who was Ahuzam's mother?\nOptions:\nA: Matred\nB: Mother of the Wife of Simon\nC: Sister of Tahpenes\nD: Naarah\nEvidence:\nAhuzam's father was Ashur.\nAhuzam's mother was Naarah."
+  },
+  {
+    "question": "Who was Japhlet's father?",
+    "field": "father",
+    "gold": "Heber",
+    "correct_option": "C",
+    "options": [
+      "Haman",
+      "Eliakim",
+      "Heber",
+      "Jerimoth"
+    ],
+    "hits": [
+      [
+        "japhlet-father",
+        "Japhlet's father was Heber."
+      ]
+    ],
+    "bm25_s": 2.4458859115839005e-05,
+    "state": "Question: Who was Japhlet's father?\nOptions:\nA: Haman\nB: Eliakim\nC: Heber\nD: Jerimoth\nEvidence:\nJaphlet's father was Heber."
+  },
+  {
+    "question": "Who was Pildash's mother?",
+    "field": "mother",
+    "gold": "Milcah",
+    "correct_option": "A",
+    "options": [
+      "Milcah",
+      "Keturah",
+      "Adah",
+      "Mary"
+    ],
+    "hits": [
+      [
+        "pildash-father",
+        "Pildash's father was Nahor."
+      ],
+      [
+        "pildash-mother",
+        "Pildash's mother was Milcah."
+      ]
+    ],
+    "bm25_s": 1.0541873052716255e-05,
+    "state": "Question: Who was Pildash's mother?\nOptions:\nA: Milcah\nB: Keturah\nC: Adah\nD: Mary\nEvidence:\nPildash's father was Nahor.\nPildash's mother was Milcah."
+  },
+  {
+    "question": "Who was Anamim's father?",
+    "field": "father",
+    "gold": "Mizraim",
+    "correct_option": "C",
+    "options": [
+      "Zerubbabel",
+      "Judah",
+      "Mizraim",
+      "Sadoc"
+    ],
+    "hits": [
+      [
+        "anamim-father",
+        "Anamim's father was Mizraim."
+      ]
+    ],
+    "bm25_s": 1.5125144273042679e-05,
+    "state": "Question: Who was Anamim's father?\nOptions:\nA: Zerubbabel\nB: Judah\nC: Mizraim\nD: Sadoc\nEvidence:\nAnamim's father was Mizraim."
+  },
+  {
+    "question": "Who was Moab's mother?",
+    "field": "mother",
+    "gold": "Daughter of Lot - Older",
+    "correct_option": "A",
+    "options": [
+      "Daughter of Lot - Older",
+      "Hushim",
+      "Jochebed",
+      "Naomi"
+    ],
+    "hits": [
+      [
+        "moab-father",
+        "Moab's father was Lot."
+      ],
+      [
+        "moab-mother",
+        "Moab's mother was Daughter of Lot - Older."
+      ]
+    ],
+    "bm25_s": 1.0082963854074478e-05,
+    "state": "Question: Who was Moab's mother?\nOptions:\nA: Daughter of Lot - Older\nB: Hushim\nC: Jochebed\nD: Naomi\nEvidence:\nMoab's father was Lot.\nMoab's mother was Daughter of Lot - Older."
+  },
+  {
+    "question": "Who was Pedahel's father?",
+    "field": "father",
+    "gold": "Ammihud",
+    "correct_option": "B",
+    "options": [
+      "Tahath",
+      "Ammihud",
+      "Joktan",
+      "Moza"
+    ],
+    "hits": [
+      [
+        "pedahel-father",
+        "Pedahel's father was Ammihud."
+      ]
+    ],
+    "bm25_s": 1.0208925232291222e-05,
+    "state": "Question: Who was Pedahel's father?\nOptions:\nA: Tahath\nB: Ammihud\nC: Joktan\nD: Moza\nEvidence:\nPedahel's father was Ammihud."
+  },
+  {
+    "question": "Who was Zidon's father?",
+    "field": "father",
+    "gold": "Canaan",
+    "correct_option": "C",
+    "options": [
+      "Joktan",
+      "Matthan",
+      "Canaan",
+      "Jerahmeel"
+    ],
+    "hits": [
+      [
+        "zidon-father",
+        "Zidon's father was Canaan."
+      ]
+    ],
+    "bm25_s": 1.3791956007480621e-05,
+    "state": "Question: Who was Zidon's father?\nOptions:\nA: Joktan\nB: Matthan\nC: Canaan\nD: Jerahmeel\nEvidence:\nZidon's father was Canaan."
+  },
+  {
+    "question": "Who was Beno's father?",
+    "field": "father",
+    "gold": "Jaaziah",
+    "correct_option": "B",
+    "options": [
+      "Nahash",
+      "Jaaziah",
+      "Issachar",
+      "Jahath"
+    ],
+    "hits": [
+      [
+        "beno-father",
+        "Beno's father was Jaaziah."
+      ]
+    ],
+    "bm25_s": 1.2208940461277962e-05,
+    "state": "Question: Who was Beno's father?\nOptions:\nA: Nahash\nB: Jaaziah\nC: Issachar\nD: Jahath\nEvidence:\nBeno's father was Jaaziah."
+  },
+  {
+    "question": "Who was Eder's father?",
+    "field": "father",
+    "gold": "Mushi",
+    "correct_option": "A",
+    "options": [
+      "Mushi",
+      "Joseph",
+      "Elpaal",
+      "Uzziel"
+    ],
+    "hits": [
+      [
+        "eder-father",
+        "Eder's father was Mushi."
+      ]
+    ],
+    "bm25_s": 1.2167030945420265e-05,
+    "state": "Question: Who was Eder's father?\nOptions:\nA: Mushi\nB: Joseph\nC: Elpaal\nD: Uzziel\nEvidence:\nEder's father was Mushi."
+  },
+  {
+    "question": "Who was Asshurim's father?",
+    "field": "father",
+    "gold": "Dedan",
+    "correct_option": "A",
+    "options": [
+      "Dedan",
+      "Michael",
+      "Esau",
+      "Malchiah"
+    ],
+    "hits": [
+      [
+        "asshurim-father",
+        "Asshurim's father was Dedan."
+      ]
+    ],
+    "bm25_s": 5.337502807378769e-05,
+    "state": "Question: Who was Asshurim's father?\nOptions:\nA: Dedan\nB: Michael\nC: Esau\nD: Malchiah\nEvidence:\nAsshurim's father was Dedan."
+  },
+  {
+    "question": "Who was Raamah's father?",
+    "field": "father",
+    "gold": "Cush",
+    "correct_option": "D",
+    "options": [
+      "Mahol",
+      "Seth",
+      "Eli",
+      "Cush"
+    ],
+    "hits": [
+      [
+        "raamah-father",
+        "Raamah's father was Cush."
+      ]
+    ],
+    "bm25_s": 1.1417083442211151e-05,
+    "state": "Question: Who was Raamah's father?\nOptions:\nA: Mahol\nB: Seth\nC: Eli\nD: Cush\nEvidence:\nRaamah's father was Cush."
+  },
+  {
+    "question": "Who was Armoni's mother?",
+    "field": "mother",
+    "gold": "Rizpah",
+    "correct_option": "A",
+    "options": [
+      "Rizpah",
+      "Sister of Tahpenes",
+      "Asenath",
+      "Rebekah"
+    ],
+    "hits": [
+      [
+        "armoni-father",
+        "Armoni's father was Saul."
+      ],
+      [
+        "armoni-mother",
+        "Armoni's mother was Rizpah."
+      ]
+    ],
+    "bm25_s": 1.391698606312275e-05,
+    "state": "Question: Who was Armoni's mother?\nOptions:\nA: Rizpah\nB: Sister of Tahpenes\nC: Asenath\nD: Rebekah\nEvidence:\nArmoni's father was Saul.\nArmoni's mother was Rizpah."
+  },
+  {
+    "question": "Who was Coz's mother?",
+    "field": "mother",
+    "gold": "Helah",
+    "correct_option": "A",
+    "options": [
+      "Helah",
+      "Eve",
+      "Sister of Tahpenes",
+      "Jochebed"
+    ],
+    "hits": [
+      [
+        "coz-father",
+        "Coz's father was Ashur."
+      ],
+      [
+        "coz-mother",
+        "Coz's mother was Helah."
+      ]
+    ],
+    "bm25_s": 1.174979843199253e-05,
+    "state": "Question: Who was Coz's mother?\nOptions:\nA: Helah\nB: Eve\nC: Sister of Tahpenes\nD: Jochebed\nEvidence:\nCoz's father was Ashur.\nCoz's mother was Helah."
+  },
+  {
+    "question": "Where was Ruth born?",
+    "field": "birth_place",
+    "gold": "Moab",
+    "correct_option": "B",
+    "options": [
+      "Tarsus",
+      "Moab",
+      "Hebron",
+      "Bethlehem"
+    ],
+    "hits": [
+      [
+        "ruth-birth_place",
+        "Ruth was born in Moab."
+      ]
+    ],
+    "bm25_s": 9.207986295223236e-06,
+    "state": "Question: Where was Ruth born?\nOptions:\nA: Tarsus\nB: Moab\nC: Hebron\nD: Bethlehem\nEvidence:\nRuth was born in Moab."
+  },
+  {
+    "question": "Where was Cain born?",
+    "field": "birth_place",
+    "gold": "Eden",
+    "correct_option": "C",
+    "options": [
+      "Tarsus",
+      "Chezib",
+      "Eden",
+      "Egypt"
+    ],
+    "hits": [
+      [
+        "cain-father",
+        "Cain's father was Adam."
+      ],
+      [
+        "cain-mother",
+        "Cain's mother was Eve."
+      ],
+      [
+        "cain-birth_place",
+        "Cain was born in Eden."
+      ],
+      [
+        "tubal-cain-father",
+        "Tubal-cain's father was Lamech."
+      ],
+      [
+        "tubal-cain-mother",
+        "Tubal-cain's mother was Zillah."
+      ]
+    ],
+    "bm25_s": 1.329183578491211e-05,
+    "state": "Question: Where was Cain born?\nOptions:\nA: Tarsus\nB: Chezib\nC: Eden\nD: Egypt\nEvidence:\nCain's father was Adam.\nCain's mother was Eve.\nCain was born in Eden.\nTubal-cain's father was Lamech.\nTubal-cain's mother was Zillah."
+  },
+  {
+    "question": "Where did Saul die?",
+    "field": "death_place",
+    "gold": "mount Gilboa",
+    "correct_option": "B",
+    "options": [
+      "Ephrath",
+      "mount Gilboa",
+      "Haran",
+      "Babylon"
+    ],
+    "hits": [
+      [
+        "saul-father",
+        "Saul's father was Kish."
+      ],
+      [
+        "saul-death_place",
+        "Saul died in mount Gilboa."
+      ]
+    ],
+    "bm25_s": 1.3417098671197891e-05,
+    "state": "Question: Where did Saul die?\nOptions:\nA: Ephrath\nB: mount Gilboa\nC: Haran\nD: Babylon\nEvidence:\nSaul's father was Kish.\nSaul died in mount Gilboa."
+  },
+  {
+    "question": "Where did David die?",
+    "field": "death_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Haran",
+      "Caesarea",
+      "Jerusalem",
+      "Ephrath"
+    ],
+    "hits": [
+      [
+        "david-death_place",
+        "David died in Jerusalem."
+      ],
+      [
+        "david-father",
+        "David's father was Jesse."
+      ]
+    ],
+    "bm25_s": 1.0709045454859734e-05,
+    "state": "Question: Where did David die?\nOptions:\nA: Haran\nB: Caesarea\nC: Jerusalem\nD: Ephrath\nEvidence:\nDavid died in Jerusalem.\nDavid's father was Jesse."
+  },
+  {
+    "question": "Who was Aholah's mother?",
+    "field": "mother",
+    "gold": "Mother of Aholah and Aholibah",
+    "correct_option": "B",
+    "options": [
+      "Mother of Lemuel",
+      "Mother of Aholah and Aholibah",
+      "Zillah",
+      "Abiah"
+    ],
+    "hits": [
+      [
+        "aholah-mother",
+        "Aholah's mother was Mother of Aholah and Aholibah."
+      ]
+    ],
+    "bm25_s": 9.95793379843235e-06,
+    "state": "Question: Who was Aholah's mother?\nOptions:\nA: Mother of Lemuel\nB: Mother of Aholah and Aholibah\nC: Zillah\nD: Abiah\nEvidence:\nAholah's mother was Mother of Aholah and Aholibah."
+  },
+  {
+    "question": "Who was Ashriel's father?",
+    "field": "father",
+    "gold": "Manasseh",
+    "correct_option": "A",
+    "options": [
+      "Manasseh",
+      "Jehaleleel",
+      "Joshua",
+      "Levi"
+    ],
+    "hits": [
+      [
+        "ashriel-father",
+        "Ashriel's father was Manasseh."
+      ]
+    ],
+    "bm25_s": 1.1875061318278313e-05,
+    "state": "Question: Who was Ashriel's father?\nOptions:\nA: Manasseh\nB: Jehaleleel\nC: Joshua\nD: Levi\nEvidence:\nAshriel's father was Manasseh."
+  },
+  {
+    "question": "Who was Jebusite's father?",
+    "field": "father",
+    "gold": "Canaan",
+    "correct_option": "D",
+    "options": [
+      "Zurishaddai",
+      "Micah",
+      "Malchiah",
+      "Canaan"
+    ],
+    "hits": [
+      [
+        "jebusite-father",
+        "Jebusite's father was Canaan."
+      ]
+    ],
+    "bm25_s": 1.7416896298527718e-05,
+    "state": "Question: Who was Jebusite's father?\nOptions:\nA: Zurishaddai\nB: Micah\nC: Malchiah\nD: Canaan\nEvidence:\nJebusite's father was Canaan."
+  },
+  {
+    "question": "Who was Michah's father?",
+    "field": "father",
+    "gold": "Uzziel",
+    "correct_option": "A",
+    "options": [
+      "Uzziel",
+      "Hesed",
+      "Israel",
+      "Shallum"
+    ],
+    "hits": [
+      [
+        "michah-father",
+        "Michah's father was Uzziel."
+      ]
+    ],
+    "bm25_s": 1.0499963536858559e-05,
+    "state": "Question: Who was Michah's father?\nOptions:\nA: Uzziel\nB: Hesed\nC: Israel\nD: Shallum\nEvidence:\nMichah's father was Uzziel."
+  },
+  {
+    "question": "Who was Akan's father?",
+    "field": "father",
+    "gold": "Ezer",
+    "correct_option": "D",
+    "options": [
+      "Joiada",
+      "Jehoram",
+      "Hothan",
+      "Ezer"
+    ],
+    "hits": [
+      [
+        "akan-father",
+        "Akan's father was Ezer."
+      ]
+    ],
+    "bm25_s": 1.1542113497853279e-05,
+    "state": "Question: Who was Akan's father?\nOptions:\nA: Joiada\nB: Jehoram\nC: Hothan\nD: Ezer\nEvidence:\nAkan's father was Ezer."
+  },
+  {
+    "question": "Who was Jekuthiel's mother?",
+    "field": "mother",
+    "gold": "Jehudijah",
+    "correct_option": "B",
+    "options": [
+      "Hodesh",
+      "Jehudijah",
+      "Zilpah",
+      "Naarah"
+    ],
+    "hits": [
+      [
+        "jekuthiel-father",
+        "Jekuthiel's father was Ishbah."
+      ],
+      [
+        "jekuthiel-mother",
+        "Jekuthiel's mother was Jehudijah."
+      ]
+    ],
+    "bm25_s": 1.0458054021000862e-05,
+    "state": "Question: Who was Jekuthiel's mother?\nOptions:\nA: Hodesh\nB: Jehudijah\nC: Zilpah\nD: Naarah\nEvidence:\nJekuthiel's father was Ishbah.\nJekuthiel's mother was Jehudijah."
+  },
+  {
+    "question": "Who was Coz's father?",
+    "field": "father",
+    "gold": "Ashur",
+    "correct_option": "B",
+    "options": [
+      "Nahshon",
+      "Ashur",
+      "Mehir",
+      "Jedaiah"
+    ],
+    "hits": [
+      [
+        "coz-father",
+        "Coz's father was Ashur."
+      ],
+      [
+        "coz-mother",
+        "Coz's mother was Helah."
+      ]
+    ],
+    "bm25_s": 1.3416865840554237e-05,
+    "state": "Question: Who was Coz's father?\nOptions:\nA: Nahshon\nB: Ashur\nC: Mehir\nD: Jedaiah\nEvidence:\nCoz's father was Ashur.\nCoz's mother was Helah."
+  },
+  {
+    "question": "Where was Ithream born?",
+    "field": "birth_place",
+    "gold": "Hebron",
+    "correct_option": "B",
+    "options": [
+      "Eden",
+      "Hebron",
+      "Chezib",
+      "Egypt"
+    ],
+    "hits": [
+      [
+        "ithream-father",
+        "Ithream's father was David."
+      ],
+      [
+        "ithream-mother",
+        "Ithream's mother was Eglah."
+      ],
+      [
+        "ithream-birth_place",
+        "Ithream was born in Hebron."
+      ]
+    ],
+    "bm25_s": 1.0582851245999336e-05,
+    "state": "Question: Where was Ithream born?\nOptions:\nA: Eden\nB: Hebron\nC: Chezib\nD: Egypt\nEvidence:\nIthream's father was David.\nIthream's mother was Eglah.\nIthream was born in Hebron."
+  },
+  {
+    "question": "Where was Elishua born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Moab",
+      "Bethlehem",
+      "Jerusalem",
+      "Tarsus"
+    ],
+    "hits": [
+      [
+        "elishua-father",
+        "Elishua's father was David."
+      ],
+      [
+        "elishua-birth_place",
+        "Elishua was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0041985660791397e-05,
+    "state": "Question: Where was Elishua born?\nOptions:\nA: Moab\nB: Bethlehem\nC: Jerusalem\nD: Tarsus\nEvidence:\nElishua's father was David.\nElishua was born in Jerusalem."
+  },
+  {
+    "question": "Who was Midian's mother?",
+    "field": "mother",
+    "gold": "Keturah",
+    "correct_option": "C",
+    "options": [
+      "Gomer",
+      "Zillah",
+      "Keturah",
+      "Zilpah"
+    ],
+    "hits": [
+      [
+        "midian-father",
+        "Midian's father was Abraham."
+      ],
+      [
+        "midian-mother",
+        "Midian's mother was Keturah."
+      ]
+    ],
+    "bm25_s": 1.0791933164000511e-05,
+    "state": "Question: Who was Midian's mother?\nOptions:\nA: Gomer\nB: Zillah\nC: Keturah\nD: Zilpah\nEvidence:\nMidian's father was Abraham.\nMidian's mother was Keturah."
+  },
+  {
+    "question": "Who was Tebah's mother?",
+    "field": "mother",
+    "gold": "Reumah",
+    "correct_option": "B",
+    "options": [
+      "Jochebed",
+      "Reumah",
+      "Timna",
+      "Zilpah"
+    ],
+    "hits": [
+      [
+        "tebah-father",
+        "Tebah's father was Nahor."
+      ],
+      [
+        "tebah-mother",
+        "Tebah's mother was Reumah."
+      ]
+    ],
+    "bm25_s": 9.916955605149269e-06,
+    "state": "Question: Who was Tebah's mother?\nOptions:\nA: Jochebed\nB: Reumah\nC: Timna\nD: Zilpah\nEvidence:\nTebah's father was Nahor.\nTebah's mother was Reumah."
+  },
+  {
+    "question": "Where did Rachel die?",
+    "field": "death_place",
+    "gold": "Ephrath",
+    "correct_option": "C",
+    "options": [
+      "Caesarea",
+      "Egypt",
+      "Ephrath",
+      "Mamre"
+    ],
+    "hits": [
+      [
+        "rachel-death_place",
+        "Rachel died in Ephrath."
+      ],
+      [
+        "rachel-father",
+        "Rachel's father was Laban."
+      ]
+    ],
+    "bm25_s": 1.1208001524209976e-05,
+    "state": "Question: Where did Rachel die?\nOptions:\nA: Caesarea\nB: Egypt\nC: Ephrath\nD: Mamre\nEvidence:\nRachel died in Ephrath.\nRachel's father was Laban."
+  },
+  {
+    "question": "Who was Abihud's father?",
+    "field": "father",
+    "gold": "Bela",
+    "correct_option": "A",
+    "options": [
+      "Bela",
+      "Joseph",
+      "Azor",
+      "Haruz"
+    ],
+    "hits": [
+      [
+        "abihud-father",
+        "Abihud's father was Bela."
+      ]
+    ],
+    "bm25_s": 1.5791039913892746e-05,
+    "state": "Question: Who was Abihud's father?\nOptions:\nA: Bela\nB: Joseph\nC: Azor\nD: Haruz\nEvidence:\nAbihud's father was Bela."
+  },
+  {
+    "question": "Who was Lo-ruhamah's father?",
+    "field": "father",
+    "gold": "Hosea",
+    "correct_option": "C",
+    "options": [
+      "Hezion",
+      "Elishama",
+      "Hosea",
+      "Shavsha"
+    ],
+    "hits": [
+      [
+        "lo-ruhamah-father",
+        "Lo-ruhamah's father was Hosea."
+      ],
+      [
+        "lo-ruhamah-mother",
+        "Lo-ruhamah's mother was Gomer."
+      ]
+    ],
+    "bm25_s": 1.8416903913021088e-05,
+    "state": "Question: Who was Lo-ruhamah's father?\nOptions:\nA: Hezion\nB: Elishama\nC: Hosea\nD: Shavsha\nEvidence:\nLo-ruhamah's father was Hosea.\nLo-ruhamah's mother was Gomer."
+  },
+  {
+    "question": "Where was Jehoiakim born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "B",
+    "options": [
+      "Hebron",
+      "Jerusalem",
+      "Tarsus",
+      "Ur"
+    ],
+    "hits": [
+      [
+        "jehoiakim-death_place",
+        "Jehoiakim died in Jerusalem."
+      ],
+      [
+        "jehoiakim-father",
+        "Jehoiakim's father was Josiah."
+      ],
+      [
+        "jehoiakim-mother",
+        "Jehoiakim's mother was Zebudah."
+      ],
+      [
+        "jehoiakim-birth_place",
+        "Jehoiakim was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.13749410957098e-05,
+    "state": "Question: Where was Jehoiakim born?\nOptions:\nA: Hebron\nB: Jerusalem\nC: Tarsus\nD: Ur\nEvidence:\nJehoiakim died in Jerusalem.\nJehoiakim's father was Josiah.\nJehoiakim's mother was Zebudah.\nJehoiakim was born in Jerusalem."
+  },
+  {
+    "question": "Who was Isaiah's father?",
+    "field": "father",
+    "gold": "Amoz",
+    "correct_option": "C",
+    "options": [
+      "Jaroah",
+      "Matthat",
+      "Amoz",
+      "Elioenai"
+    ],
+    "hits": [
+      [
+        "isaiah-father",
+        "Isaiah's father was Amoz."
+      ]
+    ],
+    "bm25_s": 1.2459000572562218e-05,
+    "state": "Question: Who was Isaiah's father?\nOptions:\nA: Jaroah\nB: Matthat\nC: Amoz\nD: Elioenai\nEvidence:\nIsaiah's father was Amoz."
+  },
+  {
+    "question": "Who was Zoheth's father?",
+    "field": "father",
+    "gold": "Ishi",
+    "correct_option": "A",
+    "options": [
+      "Ishi",
+      "Shimei",
+      "Hadad",
+      "Herod"
+    ],
+    "hits": [
+      [
+        "zoheth-father",
+        "Zoheth's father was Ishi."
+      ],
+      [
+        "ben-zoheth-father",
+        "Ben-zoheth's father was Ishi."
+      ]
+    ],
+    "bm25_s": 3.429199568927288e-05,
+    "state": "Question: Who was Zoheth's father?\nOptions:\nA: Ishi\nB: Shimei\nC: Hadad\nD: Herod\nEvidence:\nZoheth's father was Ishi.\nBen-zoheth's father was Ishi."
+  },
+  {
+    "question": "Who was Ishbah's father?",
+    "field": "father",
+    "gold": "Mered",
+    "correct_option": "A",
+    "options": [
+      "Mered",
+      "Nathan",
+      "Abraham",
+      "Barzillai"
+    ],
+    "hits": [
+      [
+        "ishbah-father",
+        "Ishbah's father was Mered."
+      ],
+      [
+        "ishbah-mother",
+        "Ishbah's mother was Bithiah."
+      ]
+    ],
+    "bm25_s": 1.2459000572562218e-05,
+    "state": "Question: Who was Ishbah's father?\nOptions:\nA: Mered\nB: Nathan\nC: Abraham\nD: Barzillai\nEvidence:\nIshbah's father was Mered.\nIshbah's mother was Bithiah."
+  },
+  {
+    "question": "Where was Shelah born?",
+    "field": "birth_place",
+    "gold": "Chezib",
+    "correct_option": "D",
+    "options": [
+      "Egypt",
+      "Jerusalem",
+      "Tarsus",
+      "Chezib"
+    ],
+    "hits": [
+      [
+        "shelah-father",
+        "Shelah's father was Judah."
+      ],
+      [
+        "shelah-birth_place",
+        "Shelah was born in Chezib."
+      ],
+      [
+        "shelah-mother",
+        "Shelah's mother was Daughter of Shuah."
+      ]
+    ],
+    "bm25_s": 1.091696321964264e-05,
+    "state": "Question: Where was Shelah born?\nOptions:\nA: Egypt\nB: Jerusalem\nC: Tarsus\nD: Chezib\nEvidence:\nShelah's father was Judah.\nShelah was born in Chezib.\nShelah's mother was Daughter of Shuah."
+  },
+  {
+    "question": "Where was Shamariah born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Moab",
+      "Eden",
+      "Jerusalem",
+      "Ur"
+    ],
+    "hits": [
+      [
+        "shamariah-father",
+        "Shamariah's father was Rehoboam."
+      ],
+      [
+        "shamariah-mother",
+        "Shamariah's mother was Abihail."
+      ],
+      [
+        "shamariah-birth_place",
+        "Shamariah was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0082963854074478e-05,
+    "state": "Question: Where was Shamariah born?\nOptions:\nA: Moab\nB: Eden\nC: Jerusalem\nD: Ur\nEvidence:\nShamariah's father was Rehoboam.\nShamariah's mother was Abihail.\nShamariah was born in Jerusalem."
+  },
+  {
+    "question": "Who was Jahdo's father?",
+    "field": "father",
+    "gold": "Buz",
+    "correct_option": "A",
+    "options": [
+      "Buz",
+      "Naphtali",
+      "Josiah",
+      "Bilhan"
+    ],
+    "hits": [
+      [
+        "jahdo-father",
+        "Jahdo's father was Buz."
+      ]
+    ],
+    "bm25_s": 1.0541174560785294e-05,
+    "state": "Question: Who was Jahdo's father?\nOptions:\nA: Buz\nB: Naphtali\nC: Josiah\nD: Bilhan\nEvidence:\nJahdo's father was Buz."
+  },
+  {
+    "question": "Who was Jehoiakim's mother?",
+    "field": "mother",
+    "gold": "Zebudah",
+    "correct_option": "B",
+    "options": [
+      "Rizpah",
+      "Zebudah",
+      "Adah",
+      "Bithiah"
+    ],
+    "hits": [
+      [
+        "jehoiakim-death_place",
+        "Jehoiakim died in Jerusalem."
+      ],
+      [
+        "jehoiakim-father",
+        "Jehoiakim's father was Josiah."
+      ],
+      [
+        "jehoiakim-mother",
+        "Jehoiakim's mother was Zebudah."
+      ],
+      [
+        "jehoiakim-birth_place",
+        "Jehoiakim was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.2834090739488602e-05,
+    "state": "Question: Who was Jehoiakim's mother?\nOptions:\nA: Rizpah\nB: Zebudah\nC: Adah\nD: Bithiah\nEvidence:\nJehoiakim died in Jerusalem.\nJehoiakim's father was Josiah.\nJehoiakim's mother was Zebudah.\nJehoiakim was born in Jerusalem."
+  },
+  {
+    "question": "Where was Chilion born?",
+    "field": "birth_place",
+    "gold": "Bethlehem",
+    "correct_option": "B",
+    "options": [
+      "Moab",
+      "Bethlehem",
+      "Hebron",
+      "Egypt"
+    ],
+    "hits": [
+      [
+        "chilion-father",
+        "Chilion's father was Elimelech."
+      ],
+      [
+        "chilion-mother",
+        "Chilion's mother was Naomi."
+      ],
+      [
+        "chilion-birth_place",
+        "Chilion was born in Bethlehem."
+      ]
+    ],
+    "bm25_s": 1.133279874920845e-05,
+    "state": "Question: Where was Chilion born?\nOptions:\nA: Moab\nB: Bethlehem\nC: Hebron\nD: Egypt\nEvidence:\nChilion's father was Elimelech.\nChilion's mother was Naomi.\nChilion was born in Bethlehem."
+  },
+  {
+    "question": "Who was Tappuah's father?",
+    "field": "father",
+    "gold": "Hebron",
+    "correct_option": "D",
+    "options": [
+      "Ishmael",
+      "Moza",
+      "Machir",
+      "Hebron"
+    ],
+    "hits": [
+      [
+        "tappuah-father",
+        "Tappuah's father was Hebron."
+      ]
+    ],
+    "bm25_s": 3.1125033274292946e-05,
+    "state": "Question: Who was Tappuah's father?\nOptions:\nA: Ishmael\nB: Moza\nC: Machir\nD: Hebron\nEvidence:\nTappuah's father was Hebron."
+  },
+  {
+    "question": "Who was Malcham's father?",
+    "field": "father",
+    "gold": "Shaharaim",
+    "correct_option": "D",
+    "options": [
+      "Mattatha",
+      "Ephraim",
+      "Shimon",
+      "Shaharaim"
+    ],
+    "hits": [
+      [
+        "malcham-father",
+        "Malcham's father was Shaharaim."
+      ],
+      [
+        "malcham-mother",
+        "Malcham's mother was Hodesh."
+      ]
+    ],
+    "bm25_s": 1.637497916817665e-05,
+    "state": "Question: Who was Malcham's father?\nOptions:\nA: Mattatha\nB: Ephraim\nC: Shimon\nD: Shaharaim\nEvidence:\nMalcham's father was Shaharaim.\nMalcham's mother was Hodesh."
+  },
+  {
+    "question": "Who was Thahash's mother?",
+    "field": "mother",
+    "gold": "Reumah",
+    "correct_option": "C",
+    "options": [
+      "Abihail",
+      "Elisheba",
+      "Reumah",
+      "Mother of Lemuel"
+    ],
+    "hits": [
+      [
+        "thahash-father",
+        "Thahash's father was Nahor."
+      ],
+      [
+        "thahash-mother",
+        "Thahash's mother was Reumah."
+      ]
+    ],
+    "bm25_s": 9.750016033649445e-06,
+    "state": "Question: Who was Thahash's mother?\nOptions:\nA: Abihail\nB: Elisheba\nC: Reumah\nD: Mother of Lemuel\nEvidence:\nThahash's father was Nahor.\nThahash's mother was Reumah."
+  },
+  {
+    "question": "Who was Ahiam's father?",
+    "field": "father",
+    "gold": "Sharar",
+    "correct_option": "B",
+    "options": [
+      "Ner",
+      "Sharar",
+      "Maaseiah",
+      "Mizraim"
+    ],
+    "hits": [
+      [
+        "ahiam-father",
+        "Ahiam's father was Sharar."
+      ]
+    ],
+    "bm25_s": 6.545893847942352e-05,
+    "state": "Question: Who was Ahiam's father?\nOptions:\nA: Ner\nB: Sharar\nC: Maaseiah\nD: Mizraim\nEvidence:\nAhiam's father was Sharar."
+  },
+  {
+    "question": "Who was Ashur's mother?",
+    "field": "mother",
+    "gold": "Abiah",
+    "correct_option": "A",
+    "options": [
+      "Abiah",
+      "Eglah",
+      "Sister of Tahpenes",
+      "Sarah"
+    ],
+    "hits": [
+      [
+        "ashur-father",
+        "Ashur's father was Hezron."
+      ],
+      [
+        "ashur-mother",
+        "Ashur's mother was Abiah."
+      ]
+    ],
+    "bm25_s": 1.1041993275284767e-05,
+    "state": "Question: Who was Ashur's mother?\nOptions:\nA: Abiah\nB: Eglah\nC: Sister of Tahpenes\nD: Sarah\nEvidence:\nAshur's father was Hezron.\nAshur's mother was Abiah."
+  },
+  {
+    "question": "Where was Orpah born?",
+    "field": "birth_place",
+    "gold": "Moab",
+    "correct_option": "C",
+    "options": [
+      "Eden",
+      "Chezib",
+      "Moab",
+      "Hebron"
+    ],
+    "hits": [
+      [
+        "orpah-birth_place",
+        "Orpah was born in Moab."
+      ]
+    ],
+    "bm25_s": 8.167000487446785e-06,
+    "state": "Question: Where was Orpah born?\nOptions:\nA: Eden\nB: Chezib\nC: Moab\nD: Hebron\nEvidence:\nOrpah was born in Moab."
+  },
+  {
+    "question": "Where was Jehoshabeath born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Tarsus",
+      "Eden",
+      "Jerusalem",
+      "Moab"
+    ],
+    "hits": [
+      [
+        "jehoshabeath-father",
+        "Jehoshabeath's father was Jehoram."
+      ],
+      [
+        "jehoshabeath-mother",
+        "Jehoshabeath's mother was Athaliah."
+      ],
+      [
+        "jehoshabeath-birth_place",
+        "Jehoshabeath was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 9.624985978007317e-06,
+    "state": "Question: Where was Jehoshabeath born?\nOptions:\nA: Tarsus\nB: Eden\nC: Jerusalem\nD: Moab\nEvidence:\nJehoshabeath's father was Jehoram.\nJehoshabeath's mother was Athaliah.\nJehoshabeath was born in Jerusalem."
+  },
+  {
+    "question": "Where did Solomon die?",
+    "field": "death_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Mamre",
+      "Babylon",
+      "Jerusalem",
+      "mount Nebo"
+    ],
+    "hits": [
+      [
+        "solomon-death_place",
+        "Solomon died in Jerusalem."
+      ],
+      [
+        "solomon-father",
+        "Solomon's father was David."
+      ],
+      [
+        "solomon-mother",
+        "Solomon's mother was Bathsheba."
+      ],
+      [
+        "solomon-birth_place",
+        "Solomon was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.1041061952710152e-05,
+    "state": "Question: Where did Solomon die?\nOptions:\nA: Mamre\nB: Babylon\nC: Jerusalem\nD: mount Nebo\nEvidence:\nSolomon died in Jerusalem.\nSolomon's father was David.\nSolomon's mother was Bathsheba.\nSolomon was born in Jerusalem."
+  },
+  {
+    "question": "Who was Huz's mother?",
+    "field": "mother",
+    "gold": "Milcah",
+    "correct_option": "A",
+    "options": [
+      "Milcah",
+      "Hodiah",
+      "Rebekah",
+      "Adah"
+    ],
+    "hits": [
+      [
+        "huz-father",
+        "Huz's father was Nahor."
+      ],
+      [
+        "huz-mother",
+        "Huz's mother was Milcah."
+      ]
+    ],
+    "bm25_s": 1.0750023648142815e-05,
+    "state": "Question: Who was Huz's mother?\nOptions:\nA: Milcah\nB: Hodiah\nC: Rebekah\nD: Adah\nEvidence:\nHuz's father was Nahor.\nHuz's mother was Milcah."
+  },
+  {
+    "question": "Who was Hazo's father?",
+    "field": "father",
+    "gold": "Nahor",
+    "correct_option": "A",
+    "options": [
+      "Nahor",
+      "Dekar",
+      "Zorobabel",
+      "Eliab"
+    ],
+    "hits": [
+      [
+        "hazo-father",
+        "Hazo's father was Nahor."
+      ],
+      [
+        "hazo-mother",
+        "Hazo's mother was Milcah."
+      ]
+    ],
+    "bm25_s": 1.6042031347751617e-05,
+    "state": "Question: Who was Hazo's father?\nOptions:\nA: Nahor\nB: Dekar\nC: Zorobabel\nD: Eliab\nEvidence:\nHazo's father was Nahor.\nHazo's mother was Milcah."
+  },
+  {
+    "question": "Who was Elisha's father?",
+    "field": "father",
+    "gold": "Shaphat",
+    "correct_option": "C",
+    "options": [
+      "Nadab",
+      "Eliakim",
+      "Shaphat",
+      "Vophsi"
+    ],
+    "hits": [
+      [
+        "elisha-father",
+        "Elisha's father was Shaphat."
+      ]
+    ],
+    "bm25_s": 1.1250143870711327e-05,
+    "state": "Question: Who was Elisha's father?\nOptions:\nA: Nadab\nB: Eliakim\nC: Shaphat\nD: Vophsi\nEvidence:\nElisha's father was Shaphat."
+  },
+  {
+    "question": "Where was Abraham born?",
+    "field": "birth_place",
+    "gold": "Ur",
+    "correct_option": "D",
+    "options": [
+      "Chezib",
+      "Hebron",
+      "Egypt",
+      "Ur"
+    ],
+    "hits": [
+      [
+        "abraham-father",
+        "Abraham's father was Terah."
+      ],
+      [
+        "abraham-birth_place",
+        "Abraham was born in Ur."
+      ]
+    ],
+    "bm25_s": 1.0665971785783768e-05,
+    "state": "Question: Where was Abraham born?\nOptions:\nA: Chezib\nB: Hebron\nC: Egypt\nD: Ur\nEvidence:\nAbraham's father was Terah.\nAbraham was born in Ur."
+  },
+  {
+    "question": "Who was Shamir's father?",
+    "field": "father",
+    "gold": "Michah",
+    "correct_option": "C",
+    "options": [
+      "Heman",
+      "Machi",
+      "Michah",
+      "Mehir"
+    ],
+    "hits": [
+      [
+        "shamir-father",
+        "Shamir's father was Michah."
+      ]
+    ],
+    "bm25_s": 1.1082971468567848e-05,
+    "state": "Question: Who was Shamir's father?\nOptions:\nA: Heman\nB: Machi\nC: Michah\nD: Mehir\nEvidence:\nShamir's father was Michah."
+  },
+  {
+    "question": "Who was Jehoshabeath's mother?",
+    "field": "mother",
+    "gold": "Athaliah",
+    "correct_option": "B",
+    "options": [
+      "Adah",
+      "Athaliah",
+      "Mother of Lemuel",
+      "Elisheba"
+    ],
+    "hits": [
+      [
+        "jehoshabeath-father",
+        "Jehoshabeath's father was Jehoram."
+      ],
+      [
+        "jehoshabeath-mother",
+        "Jehoshabeath's mother was Athaliah."
+      ],
+      [
+        "jehoshabeath-birth_place",
+        "Jehoshabeath was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.2042000889778137e-05,
+    "state": "Question: Who was Jehoshabeath's mother?\nOptions:\nA: Adah\nB: Athaliah\nC: Mother of Lemuel\nD: Elisheba\nEvidence:\nJehoshabeath's father was Jehoram.\nJehoshabeath's mother was Athaliah.\nJehoshabeath was born in Jerusalem."
+  },
+  {
+    "question": "Who was Medan's father?",
+    "field": "father",
+    "gold": "Abraham",
+    "correct_option": "A",
+    "options": [
+      "Abraham",
+      "Poti-pherah",
+      "Jonas",
+      "Shuthelah"
+    ],
+    "hits": [
+      [
+        "medan-father",
+        "Medan's father was Abraham."
+      ],
+      [
+        "medan-mother",
+        "Medan's mother was Keturah."
+      ]
+    ],
+    "bm25_s": 1.2582866474986076e-05,
+    "state": "Question: Who was Medan's father?\nOptions:\nA: Abraham\nB: Poti-pherah\nC: Jonas\nD: Shuthelah\nEvidence:\nMedan's father was Abraham.\nMedan's mother was Keturah."
+  },
+  {
+    "question": "Who was Telah's father?",
+    "field": "father",
+    "gold": "Resheph",
+    "correct_option": "C",
+    "options": [
+      "Ham",
+      "Othniel",
+      "Resheph",
+      "Enoch"
+    ],
+    "hits": [
+      [
+        "telah-father",
+        "Telah's father was Resheph."
+      ]
+    ],
+    "bm25_s": 1.941714435815811e-05,
+    "state": "Question: Who was Telah's father?\nOptions:\nA: Ham\nB: Othniel\nC: Resheph\nD: Enoch\nEvidence:\nTelah's father was Resheph."
+  },
+  {
+    "question": "Who was Arkite's father?",
+    "field": "father",
+    "gold": "Canaan",
+    "correct_option": "B",
+    "options": [
+      "Jerahmeel",
+      "Canaan",
+      "Bethuel",
+      "Seraiah"
+    ],
+    "hits": [
+      [
+        "arkite-father",
+        "Arkite's father was Canaan."
+      ]
+    ],
+    "bm25_s": 1.7249956727027893e-05,
+    "state": "Question: Who was Arkite's father?\nOptions:\nA: Jerahmeel\nB: Canaan\nC: Bethuel\nD: Seraiah\nEvidence:\nArkite's father was Canaan."
+  },
+  {
+    "question": "Where did Jehoiachin die?",
+    "field": "death_place",
+    "gold": "Babylon",
+    "correct_option": "A",
+    "options": [
+      "Babylon",
+      "Ephrath",
+      "mount Nebo",
+      "Jerusalem"
+    ],
+    "hits": [
+      [
+        "jehoiachin-death_place",
+        "Jehoiachin died in Babylon."
+      ],
+      [
+        "jehoiachin-father",
+        "Jehoiachin's father was Jehoiakim."
+      ],
+      [
+        "jehoiachin-mother",
+        "Jehoiachin's mother was Nehushta."
+      ],
+      [
+        "jehoiachin-birth_place",
+        "Jehoiachin was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.1958880349993706e-05,
+    "state": "Question: Where did Jehoiachin die?\nOptions:\nA: Babylon\nB: Ephrath\nC: mount Nebo\nD: Jerusalem\nEvidence:\nJehoiachin died in Babylon.\nJehoiachin's father was Jehoiakim.\nJehoiachin's mother was Nehushta.\nJehoiachin was born in Jerusalem."
+  },
+  {
+    "question": "Who was Athaiah's father?",
+    "field": "father",
+    "gold": "Uzziah",
+    "correct_option": "C",
+    "options": [
+      "Benaiah",
+      "Manoah",
+      "Uzziah",
+      "Esau"
+    ],
+    "hits": [
+      [
+        "athaiah-father",
+        "Athaiah's father was Uzziah."
+      ]
+    ],
+    "bm25_s": 1.2167030945420265e-05,
+    "state": "Question: Who was Athaiah's father?\nOptions:\nA: Benaiah\nB: Manoah\nC: Uzziah\nD: Esau\nEvidence:\nAthaiah's father was Uzziah."
+  },
+  {
+    "question": "Who was Aniam's father?",
+    "field": "father",
+    "gold": "Shemida",
+    "correct_option": "A",
+    "options": [
+      "Shemida",
+      "Mezahab",
+      "Levi",
+      "Jehiel"
+    ],
+    "hits": [
+      [
+        "aniam-father",
+        "Aniam's father was Shemida."
+      ]
+    ],
+    "bm25_s": 1.650000922381878e-05,
+    "state": "Question: Who was Aniam's father?\nOptions:\nA: Shemida\nB: Mezahab\nC: Levi\nD: Jehiel\nEvidence:\nAniam's father was Shemida."
+  },
+  {
+    "question": "Who was Nohah's father?",
+    "field": "father",
+    "gold": "Benjamin",
+    "correct_option": "D",
+    "options": [
+      "Jahdo",
+      "Nahash",
+      "Hebron",
+      "Benjamin"
+    ],
+    "hits": [
+      [
+        "nohah-father",
+        "Nohah's father was Benjamin."
+      ]
+    ],
+    "bm25_s": 1.1791940778493881e-05,
+    "state": "Question: Who was Nohah's father?\nOptions:\nA: Jahdo\nB: Nahash\nC: Hebron\nD: Benjamin\nEvidence:\nNohah's father was Benjamin."
+  },
+  {
+    "question": "Where was Ibhar born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "B",
+    "options": [
+      "Egypt",
+      "Jerusalem",
+      "Tarsus",
+      "Eden"
+    ],
+    "hits": [
+      [
+        "ibhar-father",
+        "Ibhar's father was David."
+      ],
+      [
+        "ibhar-birth_place",
+        "Ibhar was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0458985343575478e-05,
+    "state": "Question: Where was Ibhar born?\nOptions:\nA: Egypt\nB: Jerusalem\nC: Tarsus\nD: Eden\nEvidence:\nIbhar's father was David.\nIbhar was born in Jerusalem."
+  },
+  {
+    "question": "Where was Eliphalet born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "D",
+    "options": [
+      "Eden",
+      "Chezib",
+      "Bethlehem",
+      "Jerusalem"
+    ],
+    "hits": [
+      [
+        "eliphalet-father",
+        "Eliphalet's father was David."
+      ],
+      [
+        "eliphalet-birth_place",
+        "Eliphalet was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0167015716433525e-05,
+    "state": "Question: Where was Eliphalet born?\nOptions:\nA: Eden\nB: Chezib\nC: Bethlehem\nD: Jerusalem\nEvidence:\nEliphalet's father was David.\nEliphalet was born in Jerusalem."
+  },
+  {
+    "question": "Who was Ethnan's mother?",
+    "field": "mother",
+    "gold": "Helah",
+    "correct_option": "C",
+    "options": [
+      "Hammoleketh",
+      "Timna",
+      "Helah",
+      "Mother of Lemuel"
+    ],
+    "hits": [
+      [
+        "ethnan-father",
+        "Ethnan's father was Ashur."
+      ],
+      [
+        "ethnan-mother",
+        "Ethnan's mother was Helah."
+      ]
+    ],
+    "bm25_s": 1.037493348121643e-05,
+    "state": "Question: Who was Ethnan's mother?\nOptions:\nA: Hammoleketh\nB: Timna\nC: Helah\nD: Mother of Lemuel\nEvidence:\nEthnan's father was Ashur.\nEthnan's mother was Helah."
+  },
+  {
+    "question": "Who was Ephraim's mother?",
+    "field": "mother",
+    "gold": "Asenath",
+    "correct_option": "A",
+    "options": [
+      "Asenath",
+      "Tamar",
+      "Abiah",
+      "Athaliah"
+    ],
+    "hits": [
+      [
+        "ephraim-father",
+        "Ephraim's father was Joseph."
+      ],
+      [
+        "ephraim-mother",
+        "Ephraim's mother was Asenath."
+      ]
+    ],
+    "bm25_s": 1.0417075827717781e-05,
+    "state": "Question: Who was Ephraim's mother?\nOptions:\nA: Asenath\nB: Tamar\nC: Abiah\nD: Athaliah\nEvidence:\nEphraim's father was Joseph.\nEphraim's mother was Asenath."
+  },
+  {
+    "question": "Who was Peleg's father?",
+    "field": "father",
+    "gold": "Eber",
+    "correct_option": "C",
+    "options": [
+      "Ishi",
+      "Azareel",
+      "Eber",
+      "Abinadab"
+    ],
+    "hits": [
+      [
+        "peleg-father",
+        "Peleg's father was Eber."
+      ]
+    ],
+    "bm25_s": 1.4791963621973991e-05,
+    "state": "Question: Who was Peleg's father?\nOptions:\nA: Ishi\nB: Azareel\nC: Eber\nD: Abinadab\nEvidence:\nPeleg's father was Eber."
+  },
+  {
+    "question": "Where did Terah die?",
+    "field": "death_place",
+    "gold": "Haran",
+    "correct_option": "D",
+    "options": [
+      "Egypt",
+      "mount Nebo",
+      "Caesarea",
+      "Haran"
+    ],
+    "hits": [
+      [
+        "terah-death_place",
+        "Terah died in Haran."
+      ],
+      [
+        "terah-father",
+        "Terah's father was Nahor."
+      ]
+    ],
+    "bm25_s": 9.667128324508667e-06,
+    "state": "Question: Where did Terah die?\nOptions:\nA: Egypt\nB: mount Nebo\nC: Caesarea\nD: Haran\nEvidence:\nTerah died in Haran.\nTerah's father was Nahor."
+  },
+  {
+    "question": "Where was Jehoiachin born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "B",
+    "options": [
+      "Hebron",
+      "Jerusalem",
+      "Chezib",
+      "Moab"
+    ],
+    "hits": [
+      [
+        "jehoiachin-death_place",
+        "Jehoiachin died in Babylon."
+      ],
+      [
+        "jehoiachin-father",
+        "Jehoiachin's father was Jehoiakim."
+      ],
+      [
+        "jehoiachin-mother",
+        "Jehoiachin's mother was Nehushta."
+      ],
+      [
+        "jehoiachin-birth_place",
+        "Jehoiachin was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0709045454859734e-05,
+    "state": "Question: Where was Jehoiachin born?\nOptions:\nA: Hebron\nB: Jerusalem\nC: Chezib\nD: Moab\nEvidence:\nJehoiachin died in Babylon.\nJehoiachin's father was Jehoiakim.\nJehoiachin's mother was Nehushta.\nJehoiachin was born in Jerusalem."
+  },
+  {
+    "question": "Who was Semachiah's father?",
+    "field": "father",
+    "gold": "Shemaiah",
+    "correct_option": "B",
+    "options": [
+      "Asher",
+      "Shemaiah",
+      "Cainan",
+      "Elnathan"
+    ],
+    "hits": [
+      [
+        "semachiah-father",
+        "Semachiah's father was Shemaiah."
+      ]
+    ],
+    "bm25_s": 2.7708010748028755e-05,
+    "state": "Question: Who was Semachiah's father?\nOptions:\nA: Asher\nB: Shemaiah\nC: Cainan\nD: Elnathan\nEvidence:\nSemachiah's father was Shemaiah."
+  },
+  {
+    "question": "Who was Lahmi's father?",
+    "field": "father",
+    "gold": "the giant in Gath",
+    "correct_option": "D",
+    "options": [
+      "Alphaeus",
+      "Malchiel",
+      "Seth",
+      "the giant in Gath"
+    ],
+    "hits": [
+      [
+        "lahmi-father",
+        "Lahmi's father was the giant in Gath."
+      ]
+    ],
+    "bm25_s": 1.0707881301641464e-05,
+    "state": "Question: Who was Lahmi's father?\nOptions:\nA: Alphaeus\nB: Malchiel\nC: Seth\nD: the giant in Gath\nEvidence:\nLahmi's father was the giant in Gath."
+  },
+  {
+    "question": "Who was Sheber's mother?",
+    "field": "mother",
+    "gold": "Maachah",
+    "correct_option": "D",
+    "options": [
+      "Hushim",
+      "Zeruiah",
+      "Eglah",
+      "Maachah"
+    ],
+    "hits": [
+      [
+        "sheber-father",
+        "Sheber's father was Caleb."
+      ],
+      [
+        "sheber-mother",
+        "Sheber's mother was Maachah."
+      ]
+    ],
+    "bm25_s": 1.058308407664299e-05,
+    "state": "Question: Who was Sheber's mother?\nOptions:\nA: Hushim\nB: Zeruiah\nC: Eglah\nD: Maachah\nEvidence:\nSheber's father was Caleb.\nSheber's mother was Maachah."
+  },
+  {
+    "question": "Who was Absalom's mother?",
+    "field": "mother",
+    "gold": "Maacah",
+    "correct_option": "D",
+    "options": [
+      "Eve",
+      "Naamah",
+      "Rebekah",
+      "Maacah"
+    ],
+    "hits": [
+      [
+        "absalom-father",
+        "Absalom's father was David."
+      ],
+      [
+        "absalom-mother",
+        "Absalom's mother was Maacah."
+      ],
+      [
+        "absalom-birth_place",
+        "Absalom was born in Hebron."
+      ]
+    ],
+    "bm25_s": 1.1167023330926895e-05,
+    "state": "Question: Who was Absalom's mother?\nOptions:\nA: Eve\nB: Naamah\nC: Rebekah\nD: Maacah\nEvidence:\nAbsalom's father was David.\nAbsalom's mother was Maacah.\nAbsalom was born in Hebron."
+  },
+  {
+    "question": "Who was Ithream's mother?",
+    "field": "mother",
+    "gold": "Eglah",
+    "correct_option": "D",
+    "options": [
+      "Zilpah",
+      "Aholibamah",
+      "Naarah",
+      "Eglah"
+    ],
+    "hits": [
+      [
+        "ithream-father",
+        "Ithream's father was David."
+      ],
+      [
+        "ithream-mother",
+        "Ithream's mother was Eglah."
+      ],
+      [
+        "ithream-birth_place",
+        "Ithream was born in Hebron."
+      ]
+    ],
+    "bm25_s": 1.033395528793335e-05,
+    "state": "Question: Who was Ithream's mother?\nOptions:\nA: Zilpah\nB: Aholibamah\nC: Naarah\nD: Eglah\nEvidence:\nIthream's father was David.\nIthream's mother was Eglah.\nIthream was born in Hebron."
+  },
+  {
+    "question": "Who was Salma's father?",
+    "field": "father",
+    "gold": "Hur",
+    "correct_option": "B",
+    "options": [
+      "Becher",
+      "Hur",
+      "Iddo",
+      "Ahisamach"
+    ],
+    "hits": [
+      [
+        "salma-father",
+        "Salma's father was Hur."
+      ]
+    ],
+    "bm25_s": 1.3499986380338669e-05,
+    "state": "Question: Who was Salma's father?\nOptions:\nA: Becher\nB: Hur\nC: Iddo\nD: Ahisamach\nEvidence:\nSalma's father was Hur."
+  },
+  {
+    "question": "Where did Stephen die?",
+    "field": "death_place",
+    "gold": "Jerusalem",
+    "correct_option": "A",
+    "options": [
+      "Jerusalem",
+      "Mamre",
+      "mount Nebo",
+      "Ephrath"
+    ],
+    "hits": [
+      [
+        "stephen-death_place",
+        "Stephen died in Jerusalem."
+      ]
+    ],
+    "bm25_s": 9.082956239581108e-06,
+    "state": "Question: Where did Stephen die?\nOptions:\nA: Jerusalem\nB: Mamre\nC: mount Nebo\nD: Ephrath\nEvidence:\nStephen died in Jerusalem."
+  },
+  {
+    "question": "Who was Dalaiah's father?",
+    "field": "father",
+    "gold": "Elioenai",
+    "correct_option": "A",
+    "options": [
+      "Elioenai",
+      "Matthan",
+      "Michah",
+      "Baladan"
+    ],
+    "hits": [
+      [
+        "dalaiah-father",
+        "Dalaiah's father was Elioenai."
+      ]
+    ],
+    "bm25_s": 1.3084150850772858e-05,
+    "state": "Question: Who was Dalaiah's father?\nOptions:\nA: Elioenai\nB: Matthan\nC: Michah\nD: Baladan\nEvidence:\nDalaiah's father was Elioenai."
+  },
+  {
+    "question": "Who was Zimran's mother?",
+    "field": "mother",
+    "gold": "Keturah",
+    "correct_option": "B",
+    "options": [
+      "Jochebed",
+      "Keturah",
+      "Mother of Aholah and Aholibah",
+      "Eunice"
+    ],
+    "hits": [
+      [
+        "zimran-father",
+        "Zimran's father was Abraham."
+      ],
+      [
+        "zimran-mother",
+        "Zimran's mother was Keturah."
+      ]
+    ],
+    "bm25_s": 1.0417075827717781e-05,
+    "state": "Question: Who was Zimran's mother?\nOptions:\nA: Jochebed\nB: Keturah\nC: Mother of Aholah and Aholibah\nD: Eunice\nEvidence:\nZimran's father was Abraham.\nZimran's mother was Keturah."
+  },
+  {
+    "question": "Who was Ethnan's father?",
+    "field": "father",
+    "gold": "Ashur",
+    "correct_option": "D",
+    "options": [
+      "Beor",
+      "Abda",
+      "Seir",
+      "Ashur"
+    ],
+    "hits": [
+      [
+        "ethnan-father",
+        "Ethnan's father was Ashur."
+      ],
+      [
+        "ethnan-mother",
+        "Ethnan's mother was Helah."
+      ]
+    ],
+    "bm25_s": 1.4833873137831688e-05,
+    "state": "Question: Who was Ethnan's father?\nOptions:\nA: Beor\nB: Abda\nC: Seir\nD: Ashur\nEvidence:\nEthnan's father was Ashur.\nEthnan's mother was Helah."
+  },
+  {
+    "question": "Who was Ishpan's father?",
+    "field": "father",
+    "gold": "Shashak",
+    "correct_option": "B",
+    "options": [
+      "Timaeus",
+      "Shashak",
+      "Geber",
+      "Shimei"
+    ],
+    "hits": [
+      [
+        "ishpan-father",
+        "Ishpan's father was Shashak."
+      ]
+    ],
+    "bm25_s": 1.295912079513073e-05,
+    "state": "Question: Who was Ishpan's father?\nOptions:\nA: Timaeus\nB: Shashak\nC: Geber\nD: Shimei\nEvidence:\nIshpan's father was Shashak."
+  },
+  {
+    "question": "Who was Shua's father?",
+    "field": "father",
+    "gold": "Heber",
+    "correct_option": "C",
+    "options": [
+      "Benjamin",
+      "Joshua",
+      "Heber",
+      "Jerahmeel"
+    ],
+    "hits": [
+      [
+        "shua-father",
+        "Shua's father was Heber."
+      ],
+      [
+        "malchi-shua-father",
+        "Malchi-shua's father was Saul."
+      ],
+      [
+        "malchi-shua-mother",
+        "Malchi-shua's mother was Ahinoam."
+      ]
+    ],
+    "bm25_s": 1.4333054423332214e-05,
+    "state": "Question: Who was Shua's father?\nOptions:\nA: Benjamin\nB: Joshua\nC: Heber\nD: Jerahmeel\nEvidence:\nShua's father was Heber.\nMalchi-shua's father was Saul.\nMalchi-shua's mother was Ahinoam."
+  },
+  {
+    "question": "Who was Abihu's mother?",
+    "field": "mother",
+    "gold": "Elisheba",
+    "correct_option": "A",
+    "options": [
+      "Elisheba",
+      "Jehudijah",
+      "Bilhah",
+      "Rebekah"
+    ],
+    "hits": [
+      [
+        "abihu-father",
+        "Abihu's father was Aaron."
+      ],
+      [
+        "abihu-mother",
+        "Abihu's mother was Elisheba."
+      ]
+    ],
+    "bm25_s": 9.62521880865097e-06,
+    "state": "Question: Who was Abihu's mother?\nOptions:\nA: Elisheba\nB: Jehudijah\nC: Bilhah\nD: Rebekah\nEvidence:\nAbihu's father was Aaron.\nAbihu's mother was Elisheba."
+  },
+  {
+    "question": "Who was Gaddiel's father?",
+    "field": "father",
+    "gold": "Sodi",
+    "correct_option": "B",
+    "options": [
+      "Korah",
+      "Sodi",
+      "Shimhi",
+      "Raphu"
+    ],
+    "hits": [
+      [
+        "gaddiel-father",
+        "Gaddiel's father was Sodi."
+      ]
+    ],
+    "bm25_s": 3.429083153605461e-05,
+    "state": "Question: Who was Gaddiel's father?\nOptions:\nA: Korah\nB: Sodi\nC: Shimhi\nD: Raphu\nEvidence:\nGaddiel's father was Sodi."
+  },
+  {
+    "question": "Who was Amalek's mother?",
+    "field": "mother",
+    "gold": "Timna",
+    "correct_option": "D",
+    "options": [
+      "Helah",
+      "Hodiah",
+      "Mother of the Wife of Simon",
+      "Timna"
+    ],
+    "hits": [
+      [
+        "amalek-father",
+        "Amalek's father was Eliphaz."
+      ],
+      [
+        "amalek-mother",
+        "Amalek's mother was Timna."
+      ]
+    ],
+    "bm25_s": 9.95909795165062e-06,
+    "state": "Question: Who was Amalek's mother?\nOptions:\nA: Helah\nB: Hodiah\nC: Mother of the Wife of Simon\nD: Timna\nEvidence:\nAmalek's father was Eliphaz.\nAmalek's mother was Timna."
+  },
+  {
+    "question": "Who was Sheariah's father?",
+    "field": "father",
+    "gold": "Azel",
+    "correct_option": "A",
+    "options": [
+      "Azel",
+      "Elishama",
+      "Haman",
+      "Nathan"
+    ],
+    "hits": [
+      [
+        "sheariah-father",
+        "Sheariah's father was Azel."
+      ]
+    ],
+    "bm25_s": 1.0083196684718132e-05,
+    "state": "Question: Who was Sheariah's father?\nOptions:\nA: Azel\nB: Elishama\nC: Haman\nD: Nathan\nEvidence:\nSheariah's father was Azel."
+  },
+  {
+    "question": "Who was Adalia's father?",
+    "field": "father",
+    "gold": "Haman",
+    "correct_option": "A",
+    "options": [
+      "Haman",
+      "Ahimelech",
+      "Talmai",
+      "Iddo"
+    ],
+    "hits": [
+      [
+        "adalia-father",
+        "Adalia's father was Haman."
+      ]
+    ],
+    "bm25_s": 1.4791963621973991e-05,
+    "state": "Question: Who was Adalia's father?\nOptions:\nA: Haman\nB: Ahimelech\nC: Talmai\nD: Iddo\nEvidence:\nAdalia's father was Haman."
+  },
+  {
+    "question": "Where was Absalom born?",
+    "field": "birth_place",
+    "gold": "Hebron",
+    "correct_option": "D",
+    "options": [
+      "Bethlehem",
+      "Egypt",
+      "Moab",
+      "Hebron"
+    ],
+    "hits": [
+      [
+        "absalom-father",
+        "Absalom's father was David."
+      ],
+      [
+        "absalom-mother",
+        "Absalom's mother was Maacah."
+      ],
+      [
+        "absalom-birth_place",
+        "Absalom was born in Hebron."
+      ]
+    ],
+    "bm25_s": 1.0333023965358734e-05,
+    "state": "Question: Where was Absalom born?\nOptions:\nA: Bethlehem\nB: Egypt\nC: Moab\nD: Hebron\nEvidence:\nAbsalom's father was David.\nAbsalom's mother was Maacah.\nAbsalom was born in Hebron."
+  },
+  {
+    "question": "Who was Aaron's mother?",
+    "field": "mother",
+    "gold": "Jochebed",
+    "correct_option": "B",
+    "options": [
+      "Adah",
+      "Jochebed",
+      "Maacah",
+      "Aholibamah"
+    ],
+    "hits": [
+      [
+        "aaron-father",
+        "Aaron's father was Amram."
+      ],
+      [
+        "aaron-mother",
+        "Aaron's mother was Jochebed."
+      ],
+      [
+        "aaron-birth_place",
+        "Aaron was born in Egypt."
+      ],
+      [
+        "aaron-death_place",
+        "Aaron died in mount Hor."
+      ]
+    ],
+    "bm25_s": 1.3167038559913635e-05,
+    "state": "Question: Who was Aaron's mother?\nOptions:\nA: Adah\nB: Jochebed\nC: Maacah\nD: Aholibamah\nEvidence:\nAaron's father was Amram.\nAaron's mother was Jochebed.\nAaron was born in Egypt.\nAaron died in mount Hor."
+  },
+  {
+    "question": "Who was Cheran's father?",
+    "field": "father",
+    "gold": "Dishon",
+    "correct_option": "D",
+    "options": [
+      "Jonas",
+      "Ishmael",
+      "Ner",
+      "Dishon"
+    ],
+    "hits": [
+      [
+        "cheran-father",
+        "Cheran's father was Dishon."
+      ]
+    ],
+    "bm25_s": 2.7791131287813187e-05,
+    "state": "Question: Who was Cheran's father?\nOptions:\nA: Jonas\nB: Ishmael\nC: Ner\nD: Dishon\nEvidence:\nCheran's father was Dishon."
+  },
+  {
+    "question": "Where did Aaron die?",
+    "field": "death_place",
+    "gold": "mount Hor",
+    "correct_option": "A",
+    "options": [
+      "mount Hor",
+      "Egypt",
+      "Jerusalem",
+      "Mamre"
+    ],
+    "hits": [
+      [
+        "aaron-father",
+        "Aaron's father was Amram."
+      ],
+      [
+        "aaron-mother",
+        "Aaron's mother was Jochebed."
+      ],
+      [
+        "aaron-birth_place",
+        "Aaron was born in Egypt."
+      ],
+      [
+        "aaron-death_place",
+        "Aaron died in mount Hor."
+      ]
+    ],
+    "bm25_s": 1.095794141292572e-05,
+    "state": "Question: Where did Aaron die?\nOptions:\nA: mount Hor\nB: Egypt\nC: Jerusalem\nD: Mamre\nEvidence:\nAaron's father was Amram.\nAaron's mother was Jochebed.\nAaron was born in Egypt.\nAaron died in mount Hor."
+  },
+  {
+    "question": "Where was Mahalath born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "B",
+    "options": [
+      "Hebron",
+      "Jerusalem",
+      "Chezib",
+      "Egypt"
+    ],
+    "hits": [
+      [
+        "mahalath-father",
+        "Mahalath's father was Jerimoth."
+      ],
+      [
+        "mahalath-birth_place",
+        "Mahalath was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 9.916955605149269e-06,
+    "state": "Question: Where was Mahalath born?\nOptions:\nA: Hebron\nB: Jerusalem\nC: Chezib\nD: Egypt\nEvidence:\nMahalath's father was Jerimoth.\nMahalath was born in Jerusalem."
+  },
+  {
+    "question": "Who was Aran's father?",
+    "field": "father",
+    "gold": "Dishan",
+    "correct_option": "A",
+    "options": [
+      "Dishan",
+      "Amoz",
+      "Peleth",
+      "Uzzi"
+    ],
+    "hits": [
+      [
+        "aran-father",
+        "Aran's father was Dishan."
+      ]
+    ],
+    "bm25_s": 1.500011421740055e-05,
+    "state": "Question: Who was Aran's father?\nOptions:\nA: Dishan\nB: Amoz\nC: Peleth\nD: Uzzi\nEvidence:\nAran's father was Dishan."
+  },
+  {
+    "question": "Who was Matred's father?",
+    "field": "father",
+    "gold": "Mezahab",
+    "correct_option": "B",
+    "options": [
+      "Canaan",
+      "Mezahab",
+      "Sodi",
+      "Gomer"
+    ],
+    "hits": [
+      [
+        "matred-father",
+        "Matred's father was Mezahab."
+      ]
+    ],
+    "bm25_s": 1.7625046893954277e-05,
+    "state": "Question: Who was Matred's father?\nOptions:\nA: Canaan\nB: Mezahab\nC: Sodi\nD: Gomer\nEvidence:\nMatred's father was Mezahab."
+  },
+  {
+    "question": "Who was Hanniel's father?",
+    "field": "father",
+    "gold": "Ephod",
+    "correct_option": "D",
+    "options": [
+      "Zabad",
+      "Lot",
+      "Guni",
+      "Ephod"
+    ],
+    "hits": [
+      [
+        "hanniel-father",
+        "Hanniel's father was Ephod."
+      ]
+    ],
+    "bm25_s": 1.3541197404265404e-05,
+    "state": "Question: Who was Hanniel's father?\nOptions:\nA: Zabad\nB: Lot\nC: Guni\nD: Ephod\nEvidence:\nHanniel's father was Ephod."
+  },
+  {
+    "question": "Who was Rehoboam's mother?",
+    "field": "mother",
+    "gold": "Naamah",
+    "correct_option": "B",
+    "options": [
+      "Zillah",
+      "Naamah",
+      "Keturah",
+      "Elisheba"
+    ],
+    "hits": [
+      [
+        "rehoboam-death_place",
+        "Rehoboam died in Jerusalem."
+      ],
+      [
+        "rehoboam-father",
+        "Rehoboam's father was Solomon."
+      ],
+      [
+        "rehoboam-mother",
+        "Rehoboam's mother was Naamah."
+      ],
+      [
+        "rehoboam-birth_place",
+        "Rehoboam was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.3124896213412285e-05,
+    "state": "Question: Who was Rehoboam's mother?\nOptions:\nA: Zillah\nB: Naamah\nC: Keturah\nD: Elisheba\nEvidence:\nRehoboam died in Jerusalem.\nRehoboam's father was Solomon.\nRehoboam's mother was Naamah.\nRehoboam was born in Jerusalem."
+  },
+  {
+    "question": "Who was Rinnah's father?",
+    "field": "father",
+    "gold": "Shimon",
+    "correct_option": "C",
+    "options": [
+      "Ashur",
+      "Hezion",
+      "Shimon",
+      "Jehoram"
+    ],
+    "hits": [
+      [
+        "rinnah-father",
+        "Rinnah's father was Shimon."
+      ]
+    ],
+    "bm25_s": 1.4709075912833214e-05,
+    "state": "Question: Who was Rinnah's father?\nOptions:\nA: Ashur\nB: Hezion\nC: Shimon\nD: Jehoram\nEvidence:\nRinnah's father was Shimon."
+  },
+  {
+    "question": "Who was Gideon's father?",
+    "field": "father",
+    "gold": "Joash",
+    "correct_option": "A",
+    "options": [
+      "Joash",
+      "Phanuel",
+      "Putiel",
+      "Ocran"
+    ],
+    "hits": [
+      [
+        "gideon-father",
+        "Gideon's father was Joash."
+      ]
+    ],
+    "bm25_s": 0.00015154201537370682,
+    "state": "Question: Who was Gideon's father?\nOptions:\nA: Joash\nB: Phanuel\nC: Putiel\nD: Ocran\nEvidence:\nGideon's father was Joash."
+  },
+  {
+    "question": "Where did Moses die?",
+    "field": "death_place",
+    "gold": "mount Nebo",
+    "correct_option": "B",
+    "options": [
+      "Eden",
+      "mount Nebo",
+      "Caesarea",
+      "mount Hor"
+    ],
+    "hits": [
+      [
+        "moses-father",
+        "Moses's father was Amram."
+      ],
+      [
+        "moses-mother",
+        "Moses's mother was Jochebed."
+      ],
+      [
+        "moses-birth_place",
+        "Moses was born in Egypt."
+      ],
+      [
+        "moses-death_place",
+        "Moses died in mount Nebo."
+      ]
+    ],
+    "bm25_s": 1.4333054423332214e-05,
+    "state": "Question: Where did Moses die?\nOptions:\nA: Eden\nB: mount Nebo\nC: Caesarea\nD: mount Hor\nEvidence:\nMoses's father was Amram.\nMoses's mother was Jochebed.\nMoses was born in Egypt.\nMoses died in mount Nebo."
+  },
+  {
+    "question": "Where was Rehoboam born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "C",
+    "options": [
+      "Egypt",
+      "Hebron",
+      "Jerusalem",
+      "Chezib"
+    ],
+    "hits": [
+      [
+        "rehoboam-death_place",
+        "Rehoboam died in Jerusalem."
+      ],
+      [
+        "rehoboam-father",
+        "Rehoboam's father was Solomon."
+      ],
+      [
+        "rehoboam-mother",
+        "Rehoboam's mother was Naamah."
+      ],
+      [
+        "rehoboam-birth_place",
+        "Rehoboam was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.195794902741909e-05,
+    "state": "Question: Where was Rehoboam born?\nOptions:\nA: Egypt\nB: Hebron\nC: Jerusalem\nD: Chezib\nEvidence:\nRehoboam died in Jerusalem.\nRehoboam's father was Solomon.\nRehoboam's mother was Naamah.\nRehoboam was born in Jerusalem."
+  },
+  {
+    "question": "Who was Elishua's father?",
+    "field": "father",
+    "gold": "David",
+    "correct_option": "B",
+    "options": [
+      "Ulla",
+      "David",
+      "Judah",
+      "Machi"
+    ],
+    "hits": [
+      [
+        "elishua-father",
+        "Elishua's father was David."
+      ],
+      [
+        "elishua-birth_place",
+        "Elishua was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.1499971151351929e-05,
+    "state": "Question: Who was Elishua's father?\nOptions:\nA: Ulla\nB: David\nC: Judah\nD: Machi\nEvidence:\nElishua's father was David.\nElishua was born in Jerusalem."
+  },
+  {
+    "question": "Who was Tirhanah's mother?",
+    "field": "mother",
+    "gold": "Maachah",
+    "correct_option": "D",
+    "options": [
+      "Ahinoam",
+      "Lois",
+      "Jochebed",
+      "Maachah"
+    ],
+    "hits": [
+      [
+        "tirhanah-father",
+        "Tirhanah's father was Caleb."
+      ],
+      [
+        "tirhanah-mother",
+        "Tirhanah's mother was Maachah."
+      ]
+    ],
+    "bm25_s": 1.0541873052716255e-05,
+    "state": "Question: Who was Tirhanah's mother?\nOptions:\nA: Ahinoam\nB: Lois\nC: Jochebed\nD: Maachah\nEvidence:\nTirhanah's father was Caleb.\nTirhanah's mother was Maachah."
+  },
+  {
+    "question": "Where was Abel born?",
+    "field": "birth_place",
+    "gold": "Eden",
+    "correct_option": "A",
+    "options": [
+      "Eden",
+      "Chezib",
+      "Tarsus",
+      "Jerusalem"
+    ],
+    "hits": [
+      [
+        "abel-death_place",
+        "Abel died in Eden."
+      ],
+      [
+        "abel-father",
+        "Abel's father was Adam."
+      ],
+      [
+        "abel-mother",
+        "Abel's mother was Eve."
+      ],
+      [
+        "abel-birth_place",
+        "Abel was born in Eden."
+      ]
+    ],
+    "bm25_s": 1.0666903108358383e-05,
+    "state": "Question: Where was Abel born?\nOptions:\nA: Eden\nB: Chezib\nC: Tarsus\nD: Jerusalem\nEvidence:\nAbel died in Eden.\nAbel's father was Adam.\nAbel's mother was Eve.\nAbel was born in Eden."
+  },
+  {
+    "question": "Who was Belshazzar's father?",
+    "field": "father",
+    "gold": "Nebuchadnezzar",
+    "correct_option": "D",
+    "options": [
+      "Dekar",
+      "Eliab",
+      "Zerahiah",
+      "Nebuchadnezzar"
+    ],
+    "hits": [
+      [
+        "belshazzar-father",
+        "Belshazzar's father was Nebuchadnezzar."
+      ]
+    ],
+    "bm25_s": 2.529122866690159e-05,
+    "state": "Question: Who was Belshazzar's father?\nOptions:\nA: Dekar\nB: Eliab\nC: Zerahiah\nD: Nebuchadnezzar\nEvidence:\nBelshazzar's father was Nebuchadnezzar."
+  },
+  {
+    "question": "Where did Abel die?",
+    "field": "death_place",
+    "gold": "Eden",
+    "correct_option": "A",
+    "options": [
+      "Eden",
+      "Mamre",
+      "mount Hor",
+      "Caesarea"
+    ],
+    "hits": [
+      [
+        "abel-death_place",
+        "Abel died in Eden."
+      ],
+      [
+        "abel-father",
+        "Abel's father was Adam."
+      ],
+      [
+        "abel-mother",
+        "Abel's mother was Eve."
+      ],
+      [
+        "abel-birth_place",
+        "Abel was born in Eden."
+      ]
+    ],
+    "bm25_s": 4.05418686568737e-05,
+    "state": "Question: Where did Abel die?\nOptions:\nA: Eden\nB: Mamre\nC: mount Hor\nD: Caesarea\nEvidence:\nAbel died in Eden.\nAbel's father was Adam.\nAbel's mother was Eve.\nAbel was born in Eden."
+  },
+  {
+    "question": "Who was Hareph's father?",
+    "field": "father",
+    "gold": "Hur",
+    "correct_option": "C",
+    "options": [
+      "Zelophehad",
+      "Esli",
+      "Hur",
+      "Menan"
+    ],
+    "hits": [
+      [
+        "hareph-father",
+        "Hareph's father was Hur."
+      ]
+    ],
+    "bm25_s": 1.3042008504271507e-05,
+    "state": "Question: Who was Hareph's father?\nOptions:\nA: Zelophehad\nB: Esli\nC: Hur\nD: Menan\nEvidence:\nHareph's father was Hur."
+  },
+  {
+    "question": "Who was Maher-shalal-hash-baz's father?",
+    "field": "father",
+    "gold": "Isaiah",
+    "correct_option": "A",
+    "options": [
+      "Isaiah",
+      "Obed",
+      "Eber",
+      "Bilhan"
+    ],
+    "hits": [
+      [
+        "maher-shalal-hash-baz-father",
+        "Maher-shalal-hash-baz's father was Isaiah."
+      ]
+    ],
+    "bm25_s": 2.345792017877102e-05,
+    "state": "Question: Who was Maher-shalal-hash-baz's father?\nOptions:\nA: Isaiah\nB: Obed\nC: Eber\nD: Bilhan\nEvidence:\nMaher-shalal-hash-baz's father was Isaiah."
+  },
+  {
+    "question": "Where was Adam born?",
+    "field": "birth_place",
+    "gold": "Eden",
+    "correct_option": "A",
+    "options": [
+      "Eden",
+      "Egypt",
+      "Bethlehem",
+      "Tarsus"
+    ],
+    "hits": [
+      [
+        "adam-father",
+        "Adam's father was God."
+      ],
+      [
+        "adam-birth_place",
+        "Adam was born in Eden."
+      ]
+    ],
+    "bm25_s": 1.158309169113636e-05,
+    "state": "Question: Where was Adam born?\nOptions:\nA: Eden\nB: Egypt\nC: Bethlehem\nD: Tarsus\nEvidence:\nAdam's father was God.\nAdam was born in Eden."
+  },
+  {
+    "question": "Who was Melech's father?",
+    "field": "father",
+    "gold": "Micah",
+    "correct_option": "D",
+    "options": [
+      "Ahimelech",
+      "Pedaiah",
+      "Mizraim",
+      "Micah"
+    ],
+    "hits": [
+      [
+        "melech-father",
+        "Melech's father was Micah."
+      ]
+    ],
+    "bm25_s": 1.133396290242672e-05,
+    "state": "Question: Who was Melech's father?\nOptions:\nA: Ahimelech\nB: Pedaiah\nC: Mizraim\nD: Micah\nEvidence:\nMelech's father was Micah."
+  },
+  {
+    "question": "Where did Herod Agrippa I die?",
+    "field": "death_place",
+    "gold": "Caesarea",
+    "correct_option": "C",
+    "options": [
+      "Mamre",
+      "Jerusalem",
+      "Caesarea",
+      "Ephrath"
+    ],
+    "hits": [
+      [
+        "herod-agrippa-i-death_place",
+        "Herod Agrippa I died in Caesarea."
+      ]
+    ],
+    "bm25_s": 1.650000922381878e-05,
+    "state": "Question: Where did Herod Agrippa I die?\nOptions:\nA: Mamre\nB: Jerusalem\nC: Caesarea\nD: Ephrath\nEvidence:\nHerod Agrippa I died in Caesarea."
+  },
+  {
+    "question": "Who was Geuel's father?",
+    "field": "father",
+    "gold": "Machi",
+    "correct_option": "B",
+    "options": [
+      "Salathiel",
+      "Machi",
+      "Hoshaiah",
+      "Zerubbabel"
+    ],
+    "hits": [
+      [
+        "geuel-father",
+        "Geuel's father was Machi."
+      ]
+    ],
+    "bm25_s": 1.0542105883359909e-05,
+    "state": "Question: Who was Geuel's father?\nOptions:\nA: Salathiel\nB: Machi\nC: Hoshaiah\nD: Zerubbabel\nEvidence:\nGeuel's father was Machi."
+  },
+  {
+    "question": "Who was Chesed's mother?",
+    "field": "mother",
+    "gold": "Milcah",
+    "correct_option": "B",
+    "options": [
+      "Zeruiah",
+      "Milcah",
+      "Maacah",
+      "Bilhah"
+    ],
+    "hits": [
+      [
+        "chesed-father",
+        "Chesed's father was Nahor."
+      ],
+      [
+        "chesed-mother",
+        "Chesed's mother was Milcah."
+      ]
+    ],
+    "bm25_s": 1.100008375942707e-05,
+    "state": "Question: Who was Chesed's mother?\nOptions:\nA: Zeruiah\nB: Milcah\nC: Maacah\nD: Bilhah\nEvidence:\nChesed's father was Nahor.\nChesed's mother was Milcah."
+  },
+  {
+    "question": "Who was Joshah's father?",
+    "field": "father",
+    "gold": "Amaziah",
+    "correct_option": "C",
+    "options": [
+      "Laish",
+      "Baal",
+      "Amaziah",
+      "Neri"
+    ],
+    "hits": [
+      [
+        "joshah-father",
+        "Joshah's father was Amaziah."
+      ]
+    ],
+    "bm25_s": 1.9624829292297363e-05,
+    "state": "Question: Who was Joshah's father?\nOptions:\nA: Laish\nB: Baal\nC: Amaziah\nD: Neri\nEvidence:\nJoshah's father was Amaziah."
+  },
+  {
+    "question": "Who was Gedor's mother?",
+    "field": "mother",
+    "gold": "Maachah",
+    "correct_option": "A",
+    "options": [
+      "Maachah",
+      "Helah",
+      "Zeruiah",
+      "Asenath"
+    ],
+    "hits": [
+      [
+        "gedor-father",
+        "Gedor's father was Abiel."
+      ],
+      [
+        "gedor-mother",
+        "Gedor's mother was Maachah."
+      ]
+    ],
+    "bm25_s": 1.0375166311860085e-05,
+    "state": "Question: Who was Gedor's mother?\nOptions:\nA: Maachah\nB: Helah\nC: Zeruiah\nD: Asenath\nEvidence:\nGedor's father was Abiel.\nGedor's mother was Maachah."
+  },
+  {
+    "question": "Who was Malcham's mother?",
+    "field": "mother",
+    "gold": "Hodesh",
+    "correct_option": "B",
+    "options": [
+      "Hodiah",
+      "Hodesh",
+      "Gomer",
+      "Daughter of Lot - Older"
+    ],
+    "hits": [
+      [
+        "malcham-father",
+        "Malcham's father was Shaharaim."
+      ],
+      [
+        "malcham-mother",
+        "Malcham's mother was Hodesh."
+      ]
+    ],
+    "bm25_s": 1.1249911040067673e-05,
+    "state": "Question: Who was Malcham's mother?\nOptions:\nA: Hodiah\nB: Hodesh\nC: Gomer\nD: Daughter of Lot - Older\nEvidence:\nMalcham's father was Shaharaim.\nMalcham's mother was Hodesh."
+  },
+  {
+    "question": "Where was Nogah born?",
+    "field": "birth_place",
+    "gold": "Jerusalem",
+    "correct_option": "D",
+    "options": [
+      "Moab",
+      "Ur",
+      "Eden",
+      "Jerusalem"
+    ],
+    "hits": [
+      [
+        "nogah-father",
+        "Nogah's father was David."
+      ],
+      [
+        "nogah-birth_place",
+        "Nogah was born in Jerusalem."
+      ]
+    ],
+    "bm25_s": 1.0792165994644165e-05,
+    "state": "Question: Where was Nogah born?\nOptions:\nA: Moab\nB: Ur\nC: Eden\nD: Jerusalem\nEvidence:\nNogah's father was David.\nNogah was born in Jerusalem."
+  },
+  {
+    "question": "Who was Nebajoth's father?",
+    "field": "father",
+    "gold": "Ishmael",
+    "correct_option": "A",
+    "options": [
+      "Ishmael",
+      "Shaharaim",
+      "Zippor",
+      "Matthat"
+    ],
+    "hits": [
+      [
+        "nebajoth-father",
+        "Nebajoth's father was Ishmael."
+      ]
+    ],
+    "bm25_s": 1.6041100025177002e-05,
+    "state": "Question: Who was Nebajoth's father?\nOptions:\nA: Ishmael\nB: Shaharaim\nC: Zippor\nD: Matthat\nEvidence:\nNebajoth's father was Ishmael."
+  }
+]

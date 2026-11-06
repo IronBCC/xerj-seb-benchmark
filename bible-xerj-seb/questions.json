@@ -1,0 +1,3042 @@
+[
+  {
+    "question": "Does Job chapter 19 have more verses than Job chapter 32?",
+    "gold": "yes",
+    "left": "b18c19",
+    "right": "b18c32",
+    "book": 18,
+    "bm25_s": 0.00035508302971720695,
+    "hits": [
+      {
+        "id": "b18c32",
+        "summary": "Job chapter 32 has 22 verses."
+      },
+      {
+        "id": "b18c19",
+        "summary": "Job chapter 19 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 19 have more verses than Job chapter 32?\nEvidence:\nJob chapter 32 has 22 verses.\nJob chapter 19 has 29 verses."
+  },
+  {
+    "question": "Does Job chapter 32 have more verses than Job chapter 19?",
+    "gold": "no",
+    "left": "b18c32",
+    "right": "b18c19",
+    "book": 18,
+    "bm25_s": 0.00016154209151864052,
+    "hits": [
+      {
+        "id": "b18c32",
+        "summary": "Job chapter 32 has 22 verses."
+      },
+      {
+        "id": "b18c19",
+        "summary": "Job chapter 19 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 32 have more verses than Job chapter 19?\nEvidence:\nJob chapter 32 has 22 verses.\nJob chapter 19 has 29 verses."
+  },
+  {
+    "question": "Does Deuteronomy chapter 28 have more verses than Deuteronomy chapter 30?",
+    "gold": "yes",
+    "left": "b5c28",
+    "right": "b5c30",
+    "book": 5,
+    "bm25_s": 8.608284406363964e-05,
+    "hits": [
+      {
+        "id": "b5c30",
+        "summary": "Deuteronomy chapter 30 has 20 verses."
+      },
+      {
+        "id": "b5c28",
+        "summary": "Deuteronomy chapter 28 has 68 verses."
+      }
+    ],
+    "state": "Question: Does Deuteronomy chapter 28 have more verses than Deuteronomy chapter 30?\nEvidence:\nDeuteronomy chapter 30 has 20 verses.\nDeuteronomy chapter 28 has 68 verses."
+  },
+  {
+    "question": "Does Deuteronomy chapter 30 have more verses than Deuteronomy chapter 28?",
+    "gold": "no",
+    "left": "b5c30",
+    "right": "b5c28",
+    "book": 5,
+    "bm25_s": 6.258301436901093e-05,
+    "hits": [
+      {
+        "id": "b5c30",
+        "summary": "Deuteronomy chapter 30 has 20 verses."
+      },
+      {
+        "id": "b5c28",
+        "summary": "Deuteronomy chapter 28 has 68 verses."
+      }
+    ],
+    "state": "Question: Does Deuteronomy chapter 30 have more verses than Deuteronomy chapter 28?\nEvidence:\nDeuteronomy chapter 30 has 20 verses.\nDeuteronomy chapter 28 has 68 verses."
+  },
+  {
+    "question": "Does 2 Kings chapter 10 have more verses than 2 Kings chapter 25?",
+    "gold": "yes",
+    "left": "b12c10",
+    "right": "b12c25",
+    "book": 12,
+    "bm25_s": 0.00022141681984066963,
+    "hits": [
+      {
+        "id": "b12c25",
+        "summary": "2 Kings chapter 25 has 30 verses."
+      },
+      {
+        "id": "b12c10",
+        "summary": "2 Kings chapter 10 has 36 verses."
+      }
+    ],
+    "state": "Question: Does 2 Kings chapter 10 have more verses than 2 Kings chapter 25?\nEvidence:\n2 Kings chapter 25 has 30 verses.\n2 Kings chapter 10 has 36 verses."
+  },
+  {
+    "question": "Does 2 Kings chapter 25 have more verses than 2 Kings chapter 10?",
+    "gold": "no",
+    "left": "b12c25",
+    "right": "b12c10",
+    "book": 12,
+    "bm25_s": 0.00020750006660819054,
+    "hits": [
+      {
+        "id": "b12c25",
+        "summary": "2 Kings chapter 25 has 30 verses."
+      },
+      {
+        "id": "b12c10",
+        "summary": "2 Kings chapter 10 has 36 verses."
+      }
+    ],
+    "state": "Question: Does 2 Kings chapter 25 have more verses than 2 Kings chapter 10?\nEvidence:\n2 Kings chapter 25 has 30 verses.\n2 Kings chapter 10 has 36 verses."
+  },
+  {
+    "question": "Does 2 Chronicles chapter 5 have more verses than 2 Chronicles chapter 30?",
+    "gold": "no",
+    "left": "b14c5",
+    "right": "b14c30",
+    "book": 14,
+    "bm25_s": 0.00011712498962879181,
+    "hits": [
+      {
+        "id": "b14c5",
+        "summary": "2 Chronicles chapter 5 has 14 verses."
+      },
+      {
+        "id": "b14c30",
+        "summary": "2 Chronicles chapter 30 has 27 verses."
+      }
+    ],
+    "state": "Question: Does 2 Chronicles chapter 5 have more verses than 2 Chronicles chapter 30?\nEvidence:\n2 Chronicles chapter 5 has 14 verses.\n2 Chronicles chapter 30 has 27 verses."
+  },
+  {
+    "question": "Does 2 Chronicles chapter 30 have more verses than 2 Chronicles chapter 5?",
+    "gold": "yes",
+    "left": "b14c30",
+    "right": "b14c5",
+    "book": 14,
+    "bm25_s": 0.00010324991308152676,
+    "hits": [
+      {
+        "id": "b14c5",
+        "summary": "2 Chronicles chapter 5 has 14 verses."
+      },
+      {
+        "id": "b14c30",
+        "summary": "2 Chronicles chapter 30 has 27 verses."
+      }
+    ],
+    "state": "Question: Does 2 Chronicles chapter 30 have more verses than 2 Chronicles chapter 5?\nEvidence:\n2 Chronicles chapter 5 has 14 verses.\n2 Chronicles chapter 30 has 27 verses."
+  },
+  {
+    "question": "Does 2 Chronicles chapter 33 have more verses than 2 Chronicles chapter 36?",
+    "gold": "yes",
+    "left": "b14c33",
+    "right": "b14c36",
+    "book": 14,
+    "bm25_s": 9.77078452706337e-05,
+    "hits": [
+      {
+        "id": "b14c36",
+        "summary": "2 Chronicles chapter 36 has 23 verses."
+      },
+      {
+        "id": "b14c33",
+        "summary": "2 Chronicles chapter 33 has 25 verses."
+      }
+    ],
+    "state": "Question: Does 2 Chronicles chapter 33 have more verses than 2 Chronicles chapter 36?\nEvidence:\n2 Chronicles chapter 36 has 23 verses.\n2 Chronicles chapter 33 has 25 verses."
+  },
+  {
+    "question": "Does 2 Chronicles chapter 36 have more verses than 2 Chronicles chapter 33?",
+    "gold": "no",
+    "left": "b14c36",
+    "right": "b14c33",
+    "book": 14,
+    "bm25_s": 0.00010024989023804665,
+    "hits": [
+      {
+        "id": "b14c36",
+        "summary": "2 Chronicles chapter 36 has 23 verses."
+      },
+      {
+        "id": "b14c33",
+        "summary": "2 Chronicles chapter 33 has 25 verses."
+      }
+    ],
+    "state": "Question: Does 2 Chronicles chapter 36 have more verses than 2 Chronicles chapter 33?\nEvidence:\n2 Chronicles chapter 36 has 23 verses.\n2 Chronicles chapter 33 has 25 verses."
+  },
+  {
+    "question": "Does Psalms chapter 138 have more verses than Psalms chapter 139?",
+    "gold": "no",
+    "left": "b19c138",
+    "right": "b19c139",
+    "book": 19,
+    "bm25_s": 7.766694761812687e-05,
+    "hits": [
+      {
+        "id": "b19c138",
+        "summary": "Psalms chapter 138 has 8 verses."
+      },
+      {
+        "id": "b19c139",
+        "summary": "Psalms chapter 139 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 138 have more verses than Psalms chapter 139?\nEvidence:\nPsalms chapter 138 has 8 verses.\nPsalms chapter 139 has 24 verses."
+  },
+  {
+    "question": "Does Psalms chapter 139 have more verses than Psalms chapter 138?",
+    "gold": "yes",
+    "left": "b19c139",
+    "right": "b19c138",
+    "book": 19,
+    "bm25_s": 6.758398376405239e-05,
+    "hits": [
+      {
+        "id": "b19c138",
+        "summary": "Psalms chapter 138 has 8 verses."
+      },
+      {
+        "id": "b19c139",
+        "summary": "Psalms chapter 139 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 139 have more verses than Psalms chapter 138?\nEvidence:\nPsalms chapter 138 has 8 verses.\nPsalms chapter 139 has 24 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 13 have more verses than Isaiah chapter 29?",
+    "gold": "no",
+    "left": "b23c13",
+    "right": "b23c29",
+    "book": 23,
+    "bm25_s": 9.93749126791954e-05,
+    "hits": [
+      {
+        "id": "b23c13",
+        "summary": "Isaiah chapter 13 has 22 verses."
+      },
+      {
+        "id": "b23c29",
+        "summary": "Isaiah chapter 29 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 13 have more verses than Isaiah chapter 29?\nEvidence:\nIsaiah chapter 13 has 22 verses.\nIsaiah chapter 29 has 24 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 29 have more verses than Isaiah chapter 13?",
+    "gold": "yes",
+    "left": "b23c29",
+    "right": "b23c13",
+    "book": 23,
+    "bm25_s": 8.958415128290653e-05,
+    "hits": [
+      {
+        "id": "b23c13",
+        "summary": "Isaiah chapter 13 has 22 verses."
+      },
+      {
+        "id": "b23c29",
+        "summary": "Isaiah chapter 29 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 29 have more verses than Isaiah chapter 13?\nEvidence:\nIsaiah chapter 13 has 22 verses.\nIsaiah chapter 29 has 24 verses."
+  },
+  {
+    "question": "Does Joshua chapter 5 have more verses than Joshua chapter 22?",
+    "gold": "no",
+    "left": "b6c5",
+    "right": "b6c22",
+    "book": 6,
+    "bm25_s": 0.00012316717766225338,
+    "hits": [
+      {
+        "id": "b6c5",
+        "summary": "Joshua chapter 5 has 15 verses."
+      },
+      {
+        "id": "b6c22",
+        "summary": "Joshua chapter 22 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Joshua chapter 5 have more verses than Joshua chapter 22?\nEvidence:\nJoshua chapter 5 has 15 verses.\nJoshua chapter 22 has 34 verses."
+  },
+  {
+    "question": "Does Joshua chapter 22 have more verses than Joshua chapter 5?",
+    "gold": "yes",
+    "left": "b6c22",
+    "right": "b6c5",
+    "book": 6,
+    "bm25_s": 0.00010783318430185318,
+    "hits": [
+      {
+        "id": "b6c5",
+        "summary": "Joshua chapter 5 has 15 verses."
+      },
+      {
+        "id": "b6c22",
+        "summary": "Joshua chapter 22 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Joshua chapter 22 have more verses than Joshua chapter 5?\nEvidence:\nJoshua chapter 5 has 15 verses.\nJoshua chapter 22 has 34 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 2 have more verses than Isaiah chapter 14?",
+    "gold": "no",
+    "left": "b23c2",
+    "right": "b23c14",
+    "book": 23,
+    "bm25_s": 0.0001177079975605011,
+    "hits": [
+      {
+        "id": "b23c2",
+        "summary": "Isaiah chapter 2 has 22 verses."
+      },
+      {
+        "id": "b23c14",
+        "summary": "Isaiah chapter 14 has 32 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 2 have more verses than Isaiah chapter 14?\nEvidence:\nIsaiah chapter 2 has 22 verses.\nIsaiah chapter 14 has 32 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 14 have more verses than Isaiah chapter 2?",
+    "gold": "yes",
+    "left": "b23c14",
+    "right": "b23c2",
+    "book": 23,
+    "bm25_s": 9.745894931256771e-05,
+    "hits": [
+      {
+        "id": "b23c2",
+        "summary": "Isaiah chapter 2 has 22 verses."
+      },
+      {
+        "id": "b23c14",
+        "summary": "Isaiah chapter 14 has 32 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 14 have more verses than Isaiah chapter 2?\nEvidence:\nIsaiah chapter 2 has 22 verses.\nIsaiah chapter 14 has 32 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 36 have more verses than Jeremiah chapter 46?",
+    "gold": "yes",
+    "left": "b24c36",
+    "right": "b24c46",
+    "book": 24,
+    "bm25_s": 0.00010862504132091999,
+    "hits": [
+      {
+        "id": "b24c46",
+        "summary": "Jeremiah chapter 46 has 28 verses."
+      },
+      {
+        "id": "b24c36",
+        "summary": "Jeremiah chapter 36 has 32 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 36 have more verses than Jeremiah chapter 46?\nEvidence:\nJeremiah chapter 46 has 28 verses.\nJeremiah chapter 36 has 32 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 46 have more verses than Jeremiah chapter 36?",
+    "gold": "no",
+    "left": "b24c46",
+    "right": "b24c36",
+    "book": 24,
+    "bm25_s": 8.716690354049206e-05,
+    "hits": [
+      {
+        "id": "b24c46",
+        "summary": "Jeremiah chapter 46 has 28 verses."
+      },
+      {
+        "id": "b24c36",
+        "summary": "Jeremiah chapter 36 has 32 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 46 have more verses than Jeremiah chapter 36?\nEvidence:\nJeremiah chapter 46 has 28 verses.\nJeremiah chapter 36 has 32 verses."
+  },
+  {
+    "question": "Does Genesis chapter 46 have more verses than Genesis chapter 47?",
+    "gold": "yes",
+    "left": "b1c46",
+    "right": "b1c47",
+    "book": 1,
+    "bm25_s": 5.8999983593821526e-05,
+    "hits": [
+      {
+        "id": "b1c46",
+        "summary": "Genesis chapter 46 has 34 verses."
+      },
+      {
+        "id": "b1c47",
+        "summary": "Genesis chapter 47 has 31 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 46 have more verses than Genesis chapter 47?\nEvidence:\nGenesis chapter 46 has 34 verses.\nGenesis chapter 47 has 31 verses."
+  },
+  {
+    "question": "Does Genesis chapter 47 have more verses than Genesis chapter 46?",
+    "gold": "no",
+    "left": "b1c47",
+    "right": "b1c46",
+    "book": 1,
+    "bm25_s": 4.837499000132084e-05,
+    "hits": [
+      {
+        "id": "b1c46",
+        "summary": "Genesis chapter 46 has 34 verses."
+      },
+      {
+        "id": "b1c47",
+        "summary": "Genesis chapter 47 has 31 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 47 have more verses than Genesis chapter 46?\nEvidence:\nGenesis chapter 46 has 34 verses.\nGenesis chapter 47 has 31 verses."
+  },
+  {
+    "question": "Does Psalms chapter 70 have more verses than Psalms chapter 79?",
+    "gold": "no",
+    "left": "b19c70",
+    "right": "b19c79",
+    "book": 19,
+    "bm25_s": 9.399978443980217e-05,
+    "hits": [
+      {
+        "id": "b19c70",
+        "summary": "Psalms chapter 70 has 5 verses."
+      },
+      {
+        "id": "b19c79",
+        "summary": "Psalms chapter 79 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 70 have more verses than Psalms chapter 79?\nEvidence:\nPsalms chapter 70 has 5 verses.\nPsalms chapter 79 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 79 have more verses than Psalms chapter 70?",
+    "gold": "yes",
+    "left": "b19c79",
+    "right": "b19c70",
+    "book": 19,
+    "bm25_s": 8.787494152784348e-05,
+    "hits": [
+      {
+        "id": "b19c70",
+        "summary": "Psalms chapter 70 has 5 verses."
+      },
+      {
+        "id": "b19c79",
+        "summary": "Psalms chapter 79 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 79 have more verses than Psalms chapter 70?\nEvidence:\nPsalms chapter 70 has 5 verses.\nPsalms chapter 79 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 54 have more verses than Psalms chapter 85?",
+    "gold": "no",
+    "left": "b19c54",
+    "right": "b19c85",
+    "book": 19,
+    "bm25_s": 8.595804683864117e-05,
+    "hits": [
+      {
+        "id": "b19c54",
+        "summary": "Psalms chapter 54 has 7 verses."
+      },
+      {
+        "id": "b19c85",
+        "summary": "Psalms chapter 85 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 54 have more verses than Psalms chapter 85?\nEvidence:\nPsalms chapter 54 has 7 verses.\nPsalms chapter 85 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 85 have more verses than Psalms chapter 54?",
+    "gold": "yes",
+    "left": "b19c85",
+    "right": "b19c54",
+    "book": 19,
+    "bm25_s": 0.00012220791541039944,
+    "hits": [
+      {
+        "id": "b19c54",
+        "summary": "Psalms chapter 54 has 7 verses."
+      },
+      {
+        "id": "b19c85",
+        "summary": "Psalms chapter 85 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 85 have more verses than Psalms chapter 54?\nEvidence:\nPsalms chapter 54 has 7 verses.\nPsalms chapter 85 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 15 have more verses than Psalms chapter 77?",
+    "gold": "no",
+    "left": "b19c15",
+    "right": "b19c77",
+    "book": 19,
+    "bm25_s": 0.00015941704623401165,
+    "hits": [
+      {
+        "id": "b19c15",
+        "summary": "Psalms chapter 15 has 5 verses."
+      },
+      {
+        "id": "b19c77",
+        "summary": "Psalms chapter 77 has 20 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 15 have more verses than Psalms chapter 77?\nEvidence:\nPsalms chapter 15 has 5 verses.\nPsalms chapter 77 has 20 verses."
+  },
+  {
+    "question": "Does Psalms chapter 77 have more verses than Psalms chapter 15?",
+    "gold": "yes",
+    "left": "b19c77",
+    "right": "b19c15",
+    "book": 19,
+    "bm25_s": 0.00011850008741021156,
+    "hits": [
+      {
+        "id": "b19c15",
+        "summary": "Psalms chapter 15 has 5 verses."
+      },
+      {
+        "id": "b19c77",
+        "summary": "Psalms chapter 77 has 20 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 77 have more verses than Psalms chapter 15?\nEvidence:\nPsalms chapter 15 has 5 verses.\nPsalms chapter 77 has 20 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 10 have more verses than Jeremiah chapter 26?",
+    "gold": "yes",
+    "left": "b24c10",
+    "right": "b24c26",
+    "book": 24,
+    "bm25_s": 0.00012254109606146812,
+    "hits": [
+      {
+        "id": "b24c10",
+        "summary": "Jeremiah chapter 10 has 25 verses."
+      },
+      {
+        "id": "b24c26",
+        "summary": "Jeremiah chapter 26 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 10 have more verses than Jeremiah chapter 26?\nEvidence:\nJeremiah chapter 10 has 25 verses.\nJeremiah chapter 26 has 24 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 26 have more verses than Jeremiah chapter 10?",
+    "gold": "no",
+    "left": "b24c26",
+    "right": "b24c10",
+    "book": 24,
+    "bm25_s": 0.00010945810936391354,
+    "hits": [
+      {
+        "id": "b24c10",
+        "summary": "Jeremiah chapter 10 has 25 verses."
+      },
+      {
+        "id": "b24c26",
+        "summary": "Jeremiah chapter 26 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 26 have more verses than Jeremiah chapter 10?\nEvidence:\nJeremiah chapter 10 has 25 verses.\nJeremiah chapter 26 has 24 verses."
+  },
+  {
+    "question": "Does Genesis chapter 18 have more verses than Genesis chapter 19?",
+    "gold": "no",
+    "left": "b1c18",
+    "right": "b1c19",
+    "book": 1,
+    "bm25_s": 6.0542020946741104e-05,
+    "hits": [
+      {
+        "id": "b1c18",
+        "summary": "Genesis chapter 18 has 33 verses."
+      },
+      {
+        "id": "b1c19",
+        "summary": "Genesis chapter 19 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 18 have more verses than Genesis chapter 19?\nEvidence:\nGenesis chapter 18 has 33 verses.\nGenesis chapter 19 has 38 verses."
+  },
+  {
+    "question": "Does Genesis chapter 19 have more verses than Genesis chapter 18?",
+    "gold": "yes",
+    "left": "b1c19",
+    "right": "b1c18",
+    "book": 1,
+    "bm25_s": 5.75000885874033e-05,
+    "hits": [
+      {
+        "id": "b1c18",
+        "summary": "Genesis chapter 18 has 33 verses."
+      },
+      {
+        "id": "b1c19",
+        "summary": "Genesis chapter 19 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 19 have more verses than Genesis chapter 18?\nEvidence:\nGenesis chapter 18 has 33 verses.\nGenesis chapter 19 has 38 verses."
+  },
+  {
+    "question": "Does Psalms chapter 74 have more verses than Psalms chapter 118?",
+    "gold": "no",
+    "left": "b19c74",
+    "right": "b19c118",
+    "book": 19,
+    "bm25_s": 8.395803160965443e-05,
+    "hits": [
+      {
+        "id": "b19c74",
+        "summary": "Psalms chapter 74 has 23 verses."
+      },
+      {
+        "id": "b19c118",
+        "summary": "Psalms chapter 118 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 74 have more verses than Psalms chapter 118?\nEvidence:\nPsalms chapter 74 has 23 verses.\nPsalms chapter 118 has 29 verses."
+  },
+  {
+    "question": "Does Psalms chapter 118 have more verses than Psalms chapter 74?",
+    "gold": "yes",
+    "left": "b19c118",
+    "right": "b19c74",
+    "book": 19,
+    "bm25_s": 7.7791977673769e-05,
+    "hits": [
+      {
+        "id": "b19c74",
+        "summary": "Psalms chapter 74 has 23 verses."
+      },
+      {
+        "id": "b19c118",
+        "summary": "Psalms chapter 118 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 118 have more verses than Psalms chapter 74?\nEvidence:\nPsalms chapter 74 has 23 verses.\nPsalms chapter 118 has 29 verses."
+  },
+  {
+    "question": "Does Job chapter 5 have more verses than Job chapter 20?",
+    "gold": "no",
+    "left": "b18c5",
+    "right": "b18c20",
+    "book": 18,
+    "bm25_s": 0.00013237493112683296,
+    "hits": [
+      {
+        "id": "b18c5",
+        "summary": "Job chapter 5 has 27 verses."
+      },
+      {
+        "id": "b18c20",
+        "summary": "Job chapter 20 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 5 have more verses than Job chapter 20?\nEvidence:\nJob chapter 5 has 27 verses.\nJob chapter 20 has 29 verses."
+  },
+  {
+    "question": "Does Job chapter 20 have more verses than Job chapter 5?",
+    "gold": "yes",
+    "left": "b18c20",
+    "right": "b18c5",
+    "book": 18,
+    "bm25_s": 0.00013116700574755669,
+    "hits": [
+      {
+        "id": "b18c5",
+        "summary": "Job chapter 5 has 27 verses."
+      },
+      {
+        "id": "b18c20",
+        "summary": "Job chapter 20 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 20 have more verses than Job chapter 5?\nEvidence:\nJob chapter 5 has 27 verses.\nJob chapter 20 has 29 verses."
+  },
+  {
+    "question": "Does Psalms chapter 88 have more verses than Psalms chapter 150?",
+    "gold": "yes",
+    "left": "b19c88",
+    "right": "b19c150",
+    "book": 19,
+    "bm25_s": 8.324999362230301e-05,
+    "hits": [
+      {
+        "id": "b19c150",
+        "summary": "Psalms chapter 150 has 6 verses."
+      },
+      {
+        "id": "b19c88",
+        "summary": "Psalms chapter 88 has 18 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 88 have more verses than Psalms chapter 150?\nEvidence:\nPsalms chapter 150 has 6 verses.\nPsalms chapter 88 has 18 verses."
+  },
+  {
+    "question": "Does Psalms chapter 150 have more verses than Psalms chapter 88?",
+    "gold": "no",
+    "left": "b19c150",
+    "right": "b19c88",
+    "book": 19,
+    "bm25_s": 7.754098623991013e-05,
+    "hits": [
+      {
+        "id": "b19c150",
+        "summary": "Psalms chapter 150 has 6 verses."
+      },
+      {
+        "id": "b19c88",
+        "summary": "Psalms chapter 88 has 18 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 150 have more verses than Psalms chapter 88?\nEvidence:\nPsalms chapter 150 has 6 verses.\nPsalms chapter 88 has 18 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 10 have more verses than Isaiah chapter 17?",
+    "gold": "yes",
+    "left": "b23c10",
+    "right": "b23c17",
+    "book": 23,
+    "bm25_s": 0.00010783318430185318,
+    "hits": [
+      {
+        "id": "b23c17",
+        "summary": "Isaiah chapter 17 has 14 verses."
+      },
+      {
+        "id": "b23c10",
+        "summary": "Isaiah chapter 10 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 10 have more verses than Isaiah chapter 17?\nEvidence:\nIsaiah chapter 17 has 14 verses.\nIsaiah chapter 10 has 34 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 17 have more verses than Isaiah chapter 10?",
+    "gold": "no",
+    "left": "b23c17",
+    "right": "b23c10",
+    "book": 23,
+    "bm25_s": 0.00010279100388288498,
+    "hits": [
+      {
+        "id": "b23c17",
+        "summary": "Isaiah chapter 17 has 14 verses."
+      },
+      {
+        "id": "b23c10",
+        "summary": "Isaiah chapter 10 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 17 have more verses than Isaiah chapter 10?\nEvidence:\nIsaiah chapter 17 has 14 verses.\nIsaiah chapter 10 has 34 verses."
+  },
+  {
+    "question": "Does 1 Chronicles chapter 13 have more verses than 1 Chronicles chapter 14?",
+    "gold": "no",
+    "left": "b13c13",
+    "right": "b13c14",
+    "book": 13,
+    "bm25_s": 0.00012325006537139416,
+    "hits": [
+      {
+        "id": "b13c14",
+        "summary": "1 Chronicles chapter 14 has 17 verses."
+      },
+      {
+        "id": "b13c13",
+        "summary": "1 Chronicles chapter 13 has 14 verses."
+      }
+    ],
+    "state": "Question: Does 1 Chronicles chapter 13 have more verses than 1 Chronicles chapter 14?\nEvidence:\n1 Chronicles chapter 14 has 17 verses.\n1 Chronicles chapter 13 has 14 verses."
+  },
+  {
+    "question": "Does 1 Chronicles chapter 14 have more verses than 1 Chronicles chapter 13?",
+    "gold": "yes",
+    "left": "b13c14",
+    "right": "b13c13",
+    "book": 13,
+    "bm25_s": 0.0001118748914450407,
+    "hits": [
+      {
+        "id": "b13c14",
+        "summary": "1 Chronicles chapter 14 has 17 verses."
+      },
+      {
+        "id": "b13c13",
+        "summary": "1 Chronicles chapter 13 has 14 verses."
+      }
+    ],
+    "state": "Question: Does 1 Chronicles chapter 14 have more verses than 1 Chronicles chapter 13?\nEvidence:\n1 Chronicles chapter 14 has 17 verses.\n1 Chronicles chapter 13 has 14 verses."
+  },
+  {
+    "question": "Does Exodus chapter 24 have more verses than Exodus chapter 36?",
+    "gold": "no",
+    "left": "b2c24",
+    "right": "b2c36",
+    "book": 2,
+    "bm25_s": 5.933409556746483e-05,
+    "hits": [
+      {
+        "id": "b2c24",
+        "summary": "Exodus chapter 24 has 18 verses."
+      },
+      {
+        "id": "b2c36",
+        "summary": "Exodus chapter 36 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Exodus chapter 24 have more verses than Exodus chapter 36?\nEvidence:\nExodus chapter 24 has 18 verses.\nExodus chapter 36 has 38 verses."
+  },
+  {
+    "question": "Does Exodus chapter 36 have more verses than Exodus chapter 24?",
+    "gold": "yes",
+    "left": "b2c36",
+    "right": "b2c24",
+    "book": 2,
+    "bm25_s": 5.487492308020592e-05,
+    "hits": [
+      {
+        "id": "b2c24",
+        "summary": "Exodus chapter 24 has 18 verses."
+      },
+      {
+        "id": "b2c36",
+        "summary": "Exodus chapter 36 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Exodus chapter 36 have more verses than Exodus chapter 24?\nEvidence:\nExodus chapter 24 has 18 verses.\nExodus chapter 36 has 38 verses."
+  },
+  {
+    "question": "Does Psalms chapter 118 have more verses than Psalms chapter 126?",
+    "gold": "yes",
+    "left": "b19c118",
+    "right": "b19c126",
+    "book": 19,
+    "bm25_s": 7.370905950665474e-05,
+    "hits": [
+      {
+        "id": "b19c126",
+        "summary": "Psalms chapter 126 has 6 verses."
+      },
+      {
+        "id": "b19c118",
+        "summary": "Psalms chapter 118 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 118 have more verses than Psalms chapter 126?\nEvidence:\nPsalms chapter 126 has 6 verses.\nPsalms chapter 118 has 29 verses."
+  },
+  {
+    "question": "Does Psalms chapter 126 have more verses than Psalms chapter 118?",
+    "gold": "no",
+    "left": "b19c126",
+    "right": "b19c118",
+    "book": 19,
+    "bm25_s": 7.216702215373516e-05,
+    "hits": [
+      {
+        "id": "b19c126",
+        "summary": "Psalms chapter 126 has 6 verses."
+      },
+      {
+        "id": "b19c118",
+        "summary": "Psalms chapter 118 has 29 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 126 have more verses than Psalms chapter 118?\nEvidence:\nPsalms chapter 126 has 6 verses.\nPsalms chapter 118 has 29 verses."
+  },
+  {
+    "question": "Does Psalms chapter 113 have more verses than Psalms chapter 142?",
+    "gold": "yes",
+    "left": "b19c113",
+    "right": "b19c142",
+    "book": 19,
+    "bm25_s": 9.508384391665459e-05,
+    "hits": [
+      {
+        "id": "b19c113",
+        "summary": "Psalms chapter 113 has 9 verses."
+      },
+      {
+        "id": "b19c142",
+        "summary": "Psalms chapter 142 has 7 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 113 have more verses than Psalms chapter 142?\nEvidence:\nPsalms chapter 113 has 9 verses.\nPsalms chapter 142 has 7 verses."
+  },
+  {
+    "question": "Does Psalms chapter 142 have more verses than Psalms chapter 113?",
+    "gold": "no",
+    "left": "b19c142",
+    "right": "b19c113",
+    "book": 19,
+    "bm25_s": 6.645801477134228e-05,
+    "hits": [
+      {
+        "id": "b19c113",
+        "summary": "Psalms chapter 113 has 9 verses."
+      },
+      {
+        "id": "b19c142",
+        "summary": "Psalms chapter 142 has 7 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 142 have more verses than Psalms chapter 113?\nEvidence:\nPsalms chapter 113 has 9 verses.\nPsalms chapter 142 has 7 verses."
+  },
+  {
+    "question": "Does Psalms chapter 34 have more verses than Psalms chapter 139?",
+    "gold": "no",
+    "left": "b19c34",
+    "right": "b19c139",
+    "book": 19,
+    "bm25_s": 8.620787411928177e-05,
+    "hits": [
+      {
+        "id": "b19c34",
+        "summary": "Psalms chapter 34 has 22 verses."
+      },
+      {
+        "id": "b19c139",
+        "summary": "Psalms chapter 139 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 34 have more verses than Psalms chapter 139?\nEvidence:\nPsalms chapter 34 has 22 verses.\nPsalms chapter 139 has 24 verses."
+  },
+  {
+    "question": "Does Psalms chapter 139 have more verses than Psalms chapter 34?",
+    "gold": "yes",
+    "left": "b19c139",
+    "right": "b19c34",
+    "book": 19,
+    "bm25_s": 8.266698569059372e-05,
+    "hits": [
+      {
+        "id": "b19c34",
+        "summary": "Psalms chapter 34 has 22 verses."
+      },
+      {
+        "id": "b19c139",
+        "summary": "Psalms chapter 139 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 139 have more verses than Psalms chapter 34?\nEvidence:\nPsalms chapter 34 has 22 verses.\nPsalms chapter 139 has 24 verses."
+  },
+  {
+    "question": "Does Psalms chapter 35 have more verses than Psalms chapter 71?",
+    "gold": "yes",
+    "left": "b19c35",
+    "right": "b19c71",
+    "book": 19,
+    "bm25_s": 0.00010112510062754154,
+    "hits": [
+      {
+        "id": "b19c71",
+        "summary": "Psalms chapter 71 has 24 verses."
+      },
+      {
+        "id": "b19c35",
+        "summary": "Psalms chapter 35 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 35 have more verses than Psalms chapter 71?\nEvidence:\nPsalms chapter 71 has 24 verses.\nPsalms chapter 35 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 71 have more verses than Psalms chapter 35?",
+    "gold": "no",
+    "left": "b19c71",
+    "right": "b19c35",
+    "book": 19,
+    "bm25_s": 0.00010000006295740604,
+    "hits": [
+      {
+        "id": "b19c71",
+        "summary": "Psalms chapter 71 has 24 verses."
+      },
+      {
+        "id": "b19c35",
+        "summary": "Psalms chapter 35 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 71 have more verses than Psalms chapter 35?\nEvidence:\nPsalms chapter 71 has 24 verses.\nPsalms chapter 35 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 11 have more verses than Psalms chapter 91?",
+    "gold": "no",
+    "left": "b19c11",
+    "right": "b19c91",
+    "book": 19,
+    "bm25_s": 0.00010758382268249989,
+    "hits": [
+      {
+        "id": "b19c11",
+        "summary": "Psalms chapter 11 has 7 verses."
+      },
+      {
+        "id": "b19c91",
+        "summary": "Psalms chapter 91 has 16 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 11 have more verses than Psalms chapter 91?\nEvidence:\nPsalms chapter 11 has 7 verses.\nPsalms chapter 91 has 16 verses."
+  },
+  {
+    "question": "Does Psalms chapter 91 have more verses than Psalms chapter 11?",
+    "gold": "yes",
+    "left": "b19c91",
+    "right": "b19c11",
+    "book": 19,
+    "bm25_s": 0.00010695797391235828,
+    "hits": [
+      {
+        "id": "b19c11",
+        "summary": "Psalms chapter 11 has 7 verses."
+      },
+      {
+        "id": "b19c91",
+        "summary": "Psalms chapter 91 has 16 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 91 have more verses than Psalms chapter 11?\nEvidence:\nPsalms chapter 11 has 7 verses.\nPsalms chapter 91 has 16 verses."
+  },
+  {
+    "question": "Does Job chapter 23 have more verses than Job chapter 32?",
+    "gold": "no",
+    "left": "b18c23",
+    "right": "b18c32",
+    "book": 18,
+    "bm25_s": 0.00010904204100370407,
+    "hits": [
+      {
+        "id": "b18c23",
+        "summary": "Job chapter 23 has 17 verses."
+      },
+      {
+        "id": "b18c32",
+        "summary": "Job chapter 32 has 22 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 23 have more verses than Job chapter 32?\nEvidence:\nJob chapter 23 has 17 verses.\nJob chapter 32 has 22 verses."
+  },
+  {
+    "question": "Does Job chapter 32 have more verses than Job chapter 23?",
+    "gold": "yes",
+    "left": "b18c32",
+    "right": "b18c23",
+    "book": 18,
+    "bm25_s": 0.00010908301919698715,
+    "hits": [
+      {
+        "id": "b18c23",
+        "summary": "Job chapter 23 has 17 verses."
+      },
+      {
+        "id": "b18c32",
+        "summary": "Job chapter 32 has 22 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 32 have more verses than Job chapter 23?\nEvidence:\nJob chapter 23 has 17 verses.\nJob chapter 32 has 22 verses."
+  },
+  {
+    "question": "Does Matthew chapter 8 have more verses than Matthew chapter 11?",
+    "gold": "yes",
+    "left": "b40c8",
+    "right": "b40c11",
+    "book": 40,
+    "bm25_s": 0.0001252919901162386,
+    "hits": [
+      {
+        "id": "b40c11",
+        "summary": "Matthew chapter 11 has 30 verses."
+      },
+      {
+        "id": "b40c8",
+        "summary": "Matthew chapter 8 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Matthew chapter 8 have more verses than Matthew chapter 11?\nEvidence:\nMatthew chapter 11 has 30 verses.\nMatthew chapter 8 has 34 verses."
+  },
+  {
+    "question": "Does Matthew chapter 11 have more verses than Matthew chapter 8?",
+    "gold": "no",
+    "left": "b40c11",
+    "right": "b40c8",
+    "book": 40,
+    "bm25_s": 0.00011587492190301418,
+    "hits": [
+      {
+        "id": "b40c11",
+        "summary": "Matthew chapter 11 has 30 verses."
+      },
+      {
+        "id": "b40c8",
+        "summary": "Matthew chapter 8 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Matthew chapter 11 have more verses than Matthew chapter 8?\nEvidence:\nMatthew chapter 11 has 30 verses.\nMatthew chapter 8 has 34 verses."
+  },
+  {
+    "question": "Does 1 Samuel chapter 24 have more verses than 1 Samuel chapter 25?",
+    "gold": "no",
+    "left": "b9c24",
+    "right": "b9c25",
+    "book": 9,
+    "bm25_s": 0.00018233316950500011,
+    "hits": [
+      {
+        "id": "b9c24",
+        "summary": "1 Samuel chapter 24 has 22 verses."
+      },
+      {
+        "id": "b9c25",
+        "summary": "1 Samuel chapter 25 has 44 verses."
+      }
+    ],
+    "state": "Question: Does 1 Samuel chapter 24 have more verses than 1 Samuel chapter 25?\nEvidence:\n1 Samuel chapter 24 has 22 verses.\n1 Samuel chapter 25 has 44 verses."
+  },
+  {
+    "question": "Does 1 Samuel chapter 25 have more verses than 1 Samuel chapter 24?",
+    "gold": "yes",
+    "left": "b9c25",
+    "right": "b9c24",
+    "book": 9,
+    "bm25_s": 0.000169374980032444,
+    "hits": [
+      {
+        "id": "b9c24",
+        "summary": "1 Samuel chapter 24 has 22 verses."
+      },
+      {
+        "id": "b9c25",
+        "summary": "1 Samuel chapter 25 has 44 verses."
+      }
+    ],
+    "state": "Question: Does 1 Samuel chapter 25 have more verses than 1 Samuel chapter 24?\nEvidence:\n1 Samuel chapter 24 has 22 verses.\n1 Samuel chapter 25 has 44 verses."
+  },
+  {
+    "question": "Does Psalms chapter 13 have more verses than Psalms chapter 117?",
+    "gold": "yes",
+    "left": "b19c13",
+    "right": "b19c117",
+    "book": 19,
+    "bm25_s": 0.00010808301158249378,
+    "hits": [
+      {
+        "id": "b19c117",
+        "summary": "Psalms chapter 117 has 2 verses."
+      },
+      {
+        "id": "b19c13",
+        "summary": "Psalms chapter 13 has 6 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 13 have more verses than Psalms chapter 117?\nEvidence:\nPsalms chapter 117 has 2 verses.\nPsalms chapter 13 has 6 verses."
+  },
+  {
+    "question": "Does Psalms chapter 117 have more verses than Psalms chapter 13?",
+    "gold": "no",
+    "left": "b19c117",
+    "right": "b19c13",
+    "book": 19,
+    "bm25_s": 0.00010291696526110172,
+    "hits": [
+      {
+        "id": "b19c117",
+        "summary": "Psalms chapter 117 has 2 verses."
+      },
+      {
+        "id": "b19c13",
+        "summary": "Psalms chapter 13 has 6 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 117 have more verses than Psalms chapter 13?\nEvidence:\nPsalms chapter 117 has 2 verses.\nPsalms chapter 13 has 6 verses."
+  },
+  {
+    "question": "Does Acts chapter 9 have more verses than Acts chapter 26?",
+    "gold": "yes",
+    "left": "b44c9",
+    "right": "b44c26",
+    "book": 44,
+    "bm25_s": 0.0001244591549038887,
+    "hits": [
+      {
+        "id": "b44c26",
+        "summary": "Acts chapter 26 has 32 verses."
+      },
+      {
+        "id": "b44c9",
+        "summary": "Acts chapter 9 has 43 verses."
+      }
+    ],
+    "state": "Question: Does Acts chapter 9 have more verses than Acts chapter 26?\nEvidence:\nActs chapter 26 has 32 verses.\nActs chapter 9 has 43 verses."
+  },
+  {
+    "question": "Does Acts chapter 26 have more verses than Acts chapter 9?",
+    "gold": "no",
+    "left": "b44c26",
+    "right": "b44c9",
+    "book": 44,
+    "bm25_s": 0.00011679204180836678,
+    "hits": [
+      {
+        "id": "b44c26",
+        "summary": "Acts chapter 26 has 32 verses."
+      },
+      {
+        "id": "b44c9",
+        "summary": "Acts chapter 9 has 43 verses."
+      }
+    ],
+    "state": "Question: Does Acts chapter 26 have more verses than Acts chapter 9?\nEvidence:\nActs chapter 26 has 32 verses.\nActs chapter 9 has 43 verses."
+  },
+  {
+    "question": "Does Ezekiel chapter 14 have more verses than Ezekiel chapter 45?",
+    "gold": "no",
+    "left": "b26c14",
+    "right": "b26c45",
+    "book": 26,
+    "bm25_s": 9.92089044302702e-05,
+    "hits": [
+      {
+        "id": "b26c14",
+        "summary": "Ezekiel chapter 14 has 23 verses."
+      },
+      {
+        "id": "b26c45",
+        "summary": "Ezekiel chapter 45 has 25 verses."
+      }
+    ],
+    "state": "Question: Does Ezekiel chapter 14 have more verses than Ezekiel chapter 45?\nEvidence:\nEzekiel chapter 14 has 23 verses.\nEzekiel chapter 45 has 25 verses."
+  },
+  {
+    "question": "Does Ezekiel chapter 45 have more verses than Ezekiel chapter 14?",
+    "gold": "yes",
+    "left": "b26c45",
+    "right": "b26c14",
+    "book": 26,
+    "bm25_s": 9.25001222640276e-05,
+    "hits": [
+      {
+        "id": "b26c14",
+        "summary": "Ezekiel chapter 14 has 23 verses."
+      },
+      {
+        "id": "b26c45",
+        "summary": "Ezekiel chapter 45 has 25 verses."
+      }
+    ],
+    "state": "Question: Does Ezekiel chapter 45 have more verses than Ezekiel chapter 14?\nEvidence:\nEzekiel chapter 14 has 23 verses.\nEzekiel chapter 45 has 25 verses."
+  },
+  {
+    "question": "Does Psalms chapter 104 have more verses than Psalms chapter 115?",
+    "gold": "yes",
+    "left": "b19c104",
+    "right": "b19c115",
+    "book": 19,
+    "bm25_s": 7.195794023573399e-05,
+    "hits": [
+      {
+        "id": "b19c115",
+        "summary": "Psalms chapter 115 has 18 verses."
+      },
+      {
+        "id": "b19c104",
+        "summary": "Psalms chapter 104 has 35 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 104 have more verses than Psalms chapter 115?\nEvidence:\nPsalms chapter 115 has 18 verses.\nPsalms chapter 104 has 35 verses."
+  },
+  {
+    "question": "Does Psalms chapter 115 have more verses than Psalms chapter 104?",
+    "gold": "no",
+    "left": "b19c115",
+    "right": "b19c104",
+    "book": 19,
+    "bm25_s": 6.983382627367973e-05,
+    "hits": [
+      {
+        "id": "b19c115",
+        "summary": "Psalms chapter 115 has 18 verses."
+      },
+      {
+        "id": "b19c104",
+        "summary": "Psalms chapter 104 has 35 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 115 have more verses than Psalms chapter 104?\nEvidence:\nPsalms chapter 115 has 18 verses.\nPsalms chapter 104 has 35 verses."
+  },
+  {
+    "question": "Does Psalms chapter 92 have more verses than Psalms chapter 124?",
+    "gold": "yes",
+    "left": "b19c92",
+    "right": "b19c124",
+    "book": 19,
+    "bm25_s": 7.333420217037201e-05,
+    "hits": [
+      {
+        "id": "b19c124",
+        "summary": "Psalms chapter 124 has 8 verses."
+      },
+      {
+        "id": "b19c92",
+        "summary": "Psalms chapter 92 has 15 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 92 have more verses than Psalms chapter 124?\nEvidence:\nPsalms chapter 124 has 8 verses.\nPsalms chapter 92 has 15 verses."
+  },
+  {
+    "question": "Does Psalms chapter 124 have more verses than Psalms chapter 92?",
+    "gold": "no",
+    "left": "b19c124",
+    "right": "b19c92",
+    "book": 19,
+    "bm25_s": 7.029110565781593e-05,
+    "hits": [
+      {
+        "id": "b19c124",
+        "summary": "Psalms chapter 124 has 8 verses."
+      },
+      {
+        "id": "b19c92",
+        "summary": "Psalms chapter 92 has 15 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 124 have more verses than Psalms chapter 92?\nEvidence:\nPsalms chapter 124 has 8 verses.\nPsalms chapter 92 has 15 verses."
+  },
+  {
+    "question": "Does Psalms chapter 26 have more verses than Psalms chapter 82?",
+    "gold": "yes",
+    "left": "b19c26",
+    "right": "b19c82",
+    "book": 19,
+    "bm25_s": 9.69169195741415e-05,
+    "hits": [
+      {
+        "id": "b19c82",
+        "summary": "Psalms chapter 82 has 8 verses."
+      },
+      {
+        "id": "b19c26",
+        "summary": "Psalms chapter 26 has 12 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 26 have more verses than Psalms chapter 82?\nEvidence:\nPsalms chapter 82 has 8 verses.\nPsalms chapter 26 has 12 verses."
+  },
+  {
+    "question": "Does Psalms chapter 82 have more verses than Psalms chapter 26?",
+    "gold": "no",
+    "left": "b19c82",
+    "right": "b19c26",
+    "book": 19,
+    "bm25_s": 9.054108522832394e-05,
+    "hits": [
+      {
+        "id": "b19c82",
+        "summary": "Psalms chapter 82 has 8 verses."
+      },
+      {
+        "id": "b19c26",
+        "summary": "Psalms chapter 26 has 12 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 82 have more verses than Psalms chapter 26?\nEvidence:\nPsalms chapter 82 has 8 verses.\nPsalms chapter 26 has 12 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 9 have more verses than Jeremiah chapter 48?",
+    "gold": "no",
+    "left": "b24c9",
+    "right": "b24c48",
+    "book": 24,
+    "bm25_s": 0.0001091670710593462,
+    "hits": [
+      {
+        "id": "b24c9",
+        "summary": "Jeremiah chapter 9 has 26 verses."
+      },
+      {
+        "id": "b24c48",
+        "summary": "Jeremiah chapter 48 has 47 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 9 have more verses than Jeremiah chapter 48?\nEvidence:\nJeremiah chapter 9 has 26 verses.\nJeremiah chapter 48 has 47 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 48 have more verses than Jeremiah chapter 9?",
+    "gold": "yes",
+    "left": "b24c48",
+    "right": "b24c9",
+    "book": 24,
+    "bm25_s": 0.00010283291339874268,
+    "hits": [
+      {
+        "id": "b24c9",
+        "summary": "Jeremiah chapter 9 has 26 verses."
+      },
+      {
+        "id": "b24c48",
+        "summary": "Jeremiah chapter 48 has 47 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 48 have more verses than Jeremiah chapter 9?\nEvidence:\nJeremiah chapter 9 has 26 verses.\nJeremiah chapter 48 has 47 verses."
+  },
+  {
+    "question": "Does Psalms chapter 73 have more verses than Psalms chapter 91?",
+    "gold": "yes",
+    "left": "b19c73",
+    "right": "b19c91",
+    "book": 19,
+    "bm25_s": 8.112494833767414e-05,
+    "hits": [
+      {
+        "id": "b19c91",
+        "summary": "Psalms chapter 91 has 16 verses."
+      },
+      {
+        "id": "b19c73",
+        "summary": "Psalms chapter 73 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 73 have more verses than Psalms chapter 91?\nEvidence:\nPsalms chapter 91 has 16 verses.\nPsalms chapter 73 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 91 have more verses than Psalms chapter 73?",
+    "gold": "no",
+    "left": "b19c91",
+    "right": "b19c73",
+    "book": 19,
+    "bm25_s": 7.77500681579113e-05,
+    "hits": [
+      {
+        "id": "b19c91",
+        "summary": "Psalms chapter 91 has 16 verses."
+      },
+      {
+        "id": "b19c73",
+        "summary": "Psalms chapter 73 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 91 have more verses than Psalms chapter 73?\nEvidence:\nPsalms chapter 91 has 16 verses.\nPsalms chapter 73 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 40 have more verses than Psalms chapter 51?",
+    "gold": "no",
+    "left": "b19c40",
+    "right": "b19c51",
+    "book": 19,
+    "bm25_s": 0.00010224990546703339,
+    "hits": [
+      {
+        "id": "b19c51",
+        "summary": "Psalms chapter 51 has 19 verses."
+      },
+      {
+        "id": "b19c40",
+        "summary": "Psalms chapter 40 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 40 have more verses than Psalms chapter 51?\nEvidence:\nPsalms chapter 51 has 19 verses.\nPsalms chapter 40 has 17 verses."
+  },
+  {
+    "question": "Does Psalms chapter 51 have more verses than Psalms chapter 40?",
+    "gold": "yes",
+    "left": "b19c51",
+    "right": "b19c40",
+    "book": 19,
+    "bm25_s": 9.749992750585079e-05,
+    "hits": [
+      {
+        "id": "b19c51",
+        "summary": "Psalms chapter 51 has 19 verses."
+      },
+      {
+        "id": "b19c40",
+        "summary": "Psalms chapter 40 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 51 have more verses than Psalms chapter 40?\nEvidence:\nPsalms chapter 51 has 19 verses.\nPsalms chapter 40 has 17 verses."
+  },
+  {
+    "question": "Does Ezekiel chapter 40 have more verses than Ezekiel chapter 44?",
+    "gold": "yes",
+    "left": "b26c40",
+    "right": "b26c44",
+    "book": 26,
+    "bm25_s": 8.404185064136982e-05,
+    "hits": [
+      {
+        "id": "b26c44",
+        "summary": "Ezekiel chapter 44 has 31 verses."
+      },
+      {
+        "id": "b26c40",
+        "summary": "Ezekiel chapter 40 has 49 verses."
+      }
+    ],
+    "state": "Question: Does Ezekiel chapter 40 have more verses than Ezekiel chapter 44?\nEvidence:\nEzekiel chapter 44 has 31 verses.\nEzekiel chapter 40 has 49 verses."
+  },
+  {
+    "question": "Does Ezekiel chapter 44 have more verses than Ezekiel chapter 40?",
+    "gold": "no",
+    "left": "b26c44",
+    "right": "b26c40",
+    "book": 26,
+    "bm25_s": 8.345791138708591e-05,
+    "hits": [
+      {
+        "id": "b26c44",
+        "summary": "Ezekiel chapter 44 has 31 verses."
+      },
+      {
+        "id": "b26c40",
+        "summary": "Ezekiel chapter 40 has 49 verses."
+      }
+    ],
+    "state": "Question: Does Ezekiel chapter 44 have more verses than Ezekiel chapter 40?\nEvidence:\nEzekiel chapter 44 has 31 verses.\nEzekiel chapter 40 has 49 verses."
+  },
+  {
+    "question": "Does Psalms chapter 59 have more verses than Psalms chapter 66?",
+    "gold": "no",
+    "left": "b19c59",
+    "right": "b19c66",
+    "book": 19,
+    "bm25_s": 9.379186667501926e-05,
+    "hits": [
+      {
+        "id": "b19c66",
+        "summary": "Psalms chapter 66 has 20 verses."
+      },
+      {
+        "id": "b19c59",
+        "summary": "Psalms chapter 59 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 59 have more verses than Psalms chapter 66?\nEvidence:\nPsalms chapter 66 has 20 verses.\nPsalms chapter 59 has 17 verses."
+  },
+  {
+    "question": "Does Psalms chapter 66 have more verses than Psalms chapter 59?",
+    "gold": "yes",
+    "left": "b19c66",
+    "right": "b19c59",
+    "book": 19,
+    "bm25_s": 8.966680616140366e-05,
+    "hits": [
+      {
+        "id": "b19c66",
+        "summary": "Psalms chapter 66 has 20 verses."
+      },
+      {
+        "id": "b19c59",
+        "summary": "Psalms chapter 59 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 66 have more verses than Psalms chapter 59?\nEvidence:\nPsalms chapter 66 has 20 verses.\nPsalms chapter 59 has 17 verses."
+  },
+  {
+    "question": "Does Job chapter 27 have more verses than Job chapter 37?",
+    "gold": "no",
+    "left": "b18c27",
+    "right": "b18c37",
+    "book": 18,
+    "bm25_s": 0.00010850001126527786,
+    "hits": [
+      {
+        "id": "b18c27",
+        "summary": "Job chapter 27 has 23 verses."
+      },
+      {
+        "id": "b18c37",
+        "summary": "Job chapter 37 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 27 have more verses than Job chapter 37?\nEvidence:\nJob chapter 27 has 23 verses.\nJob chapter 37 has 24 verses."
+  },
+  {
+    "question": "Does Job chapter 37 have more verses than Job chapter 27?",
+    "gold": "yes",
+    "left": "b18c37",
+    "right": "b18c27",
+    "book": 18,
+    "bm25_s": 0.00010370812378823757,
+    "hits": [
+      {
+        "id": "b18c27",
+        "summary": "Job chapter 27 has 23 verses."
+      },
+      {
+        "id": "b18c37",
+        "summary": "Job chapter 37 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 37 have more verses than Job chapter 27?\nEvidence:\nJob chapter 27 has 23 verses.\nJob chapter 37 has 24 verses."
+  },
+  {
+    "question": "Does Psalms chapter 59 have more verses than Psalms chapter 129?",
+    "gold": "yes",
+    "left": "b19c59",
+    "right": "b19c129",
+    "book": 19,
+    "bm25_s": 8.233287371695042e-05,
+    "hits": [
+      {
+        "id": "b19c129",
+        "summary": "Psalms chapter 129 has 8 verses."
+      },
+      {
+        "id": "b19c59",
+        "summary": "Psalms chapter 59 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 59 have more verses than Psalms chapter 129?\nEvidence:\nPsalms chapter 129 has 8 verses.\nPsalms chapter 59 has 17 verses."
+  },
+  {
+    "question": "Does Psalms chapter 129 have more verses than Psalms chapter 59?",
+    "gold": "no",
+    "left": "b19c129",
+    "right": "b19c59",
+    "book": 19,
+    "bm25_s": 8.466606959700584e-05,
+    "hits": [
+      {
+        "id": "b19c129",
+        "summary": "Psalms chapter 129 has 8 verses."
+      },
+      {
+        "id": "b19c59",
+        "summary": "Psalms chapter 59 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 129 have more verses than Psalms chapter 59?\nEvidence:\nPsalms chapter 129 has 8 verses.\nPsalms chapter 59 has 17 verses."
+  },
+  {
+    "question": "Does Genesis chapter 42 have more verses than Genesis chapter 49?",
+    "gold": "yes",
+    "left": "b1c42",
+    "right": "b1c49",
+    "book": 1,
+    "bm25_s": 5.6416960433125496e-05,
+    "hits": [
+      {
+        "id": "b1c49",
+        "summary": "Genesis chapter 49 has 33 verses."
+      },
+      {
+        "id": "b1c42",
+        "summary": "Genesis chapter 42 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 42 have more verses than Genesis chapter 49?\nEvidence:\nGenesis chapter 49 has 33 verses.\nGenesis chapter 42 has 38 verses."
+  },
+  {
+    "question": "Does Genesis chapter 49 have more verses than Genesis chapter 42?",
+    "gold": "no",
+    "left": "b1c49",
+    "right": "b1c42",
+    "book": 1,
+    "bm25_s": 5.070795305073261e-05,
+    "hits": [
+      {
+        "id": "b1c49",
+        "summary": "Genesis chapter 49 has 33 verses."
+      },
+      {
+        "id": "b1c42",
+        "summary": "Genesis chapter 42 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 49 have more verses than Genesis chapter 42?\nEvidence:\nGenesis chapter 49 has 33 verses.\nGenesis chapter 42 has 38 verses."
+  },
+  {
+    "question": "Does Joshua chapter 10 have more verses than Joshua chapter 13?",
+    "gold": "yes",
+    "left": "b6c10",
+    "right": "b6c13",
+    "book": 6,
+    "bm25_s": 0.00012220884673297405,
+    "hits": [
+      {
+        "id": "b6c13",
+        "summary": "Joshua chapter 13 has 33 verses."
+      },
+      {
+        "id": "b6c10",
+        "summary": "Joshua chapter 10 has 43 verses."
+      }
+    ],
+    "state": "Question: Does Joshua chapter 10 have more verses than Joshua chapter 13?\nEvidence:\nJoshua chapter 13 has 33 verses.\nJoshua chapter 10 has 43 verses."
+  },
+  {
+    "question": "Does Joshua chapter 13 have more verses than Joshua chapter 10?",
+    "gold": "no",
+    "left": "b6c13",
+    "right": "b6c10",
+    "book": 6,
+    "bm25_s": 0.00011395895853638649,
+    "hits": [
+      {
+        "id": "b6c13",
+        "summary": "Joshua chapter 13 has 33 verses."
+      },
+      {
+        "id": "b6c10",
+        "summary": "Joshua chapter 10 has 43 verses."
+      }
+    ],
+    "state": "Question: Does Joshua chapter 13 have more verses than Joshua chapter 10?\nEvidence:\nJoshua chapter 13 has 33 verses.\nJoshua chapter 10 has 43 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 24 have more verses than Isaiah chapter 32?",
+    "gold": "yes",
+    "left": "b23c24",
+    "right": "b23c32",
+    "book": 23,
+    "bm25_s": 9.204214438796043e-05,
+    "hits": [
+      {
+        "id": "b23c32",
+        "summary": "Isaiah chapter 32 has 20 verses."
+      },
+      {
+        "id": "b23c24",
+        "summary": "Isaiah chapter 24 has 23 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 24 have more verses than Isaiah chapter 32?\nEvidence:\nIsaiah chapter 32 has 20 verses.\nIsaiah chapter 24 has 23 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 32 have more verses than Isaiah chapter 24?",
+    "gold": "no",
+    "left": "b23c32",
+    "right": "b23c24",
+    "book": 23,
+    "bm25_s": 8.362508378922939e-05,
+    "hits": [
+      {
+        "id": "b23c32",
+        "summary": "Isaiah chapter 32 has 20 verses."
+      },
+      {
+        "id": "b23c24",
+        "summary": "Isaiah chapter 24 has 23 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 32 have more verses than Isaiah chapter 24?\nEvidence:\nIsaiah chapter 32 has 20 verses.\nIsaiah chapter 24 has 23 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 31 have more verses than Jeremiah chapter 39?",
+    "gold": "yes",
+    "left": "b24c31",
+    "right": "b24c39",
+    "book": 24,
+    "bm25_s": 9.920797310769558e-05,
+    "hits": [
+      {
+        "id": "b24c39",
+        "summary": "Jeremiah chapter 39 has 18 verses."
+      },
+      {
+        "id": "b24c31",
+        "summary": "Jeremiah chapter 31 has 40 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 31 have more verses than Jeremiah chapter 39?\nEvidence:\nJeremiah chapter 39 has 18 verses.\nJeremiah chapter 31 has 40 verses."
+  },
+  {
+    "question": "Does Jeremiah chapter 39 have more verses than Jeremiah chapter 31?",
+    "gold": "no",
+    "left": "b24c39",
+    "right": "b24c31",
+    "book": 24,
+    "bm25_s": 9.433389641344547e-05,
+    "hits": [
+      {
+        "id": "b24c39",
+        "summary": "Jeremiah chapter 39 has 18 verses."
+      },
+      {
+        "id": "b24c31",
+        "summary": "Jeremiah chapter 31 has 40 verses."
+      }
+    ],
+    "state": "Question: Does Jeremiah chapter 39 have more verses than Jeremiah chapter 31?\nEvidence:\nJeremiah chapter 39 has 18 verses.\nJeremiah chapter 31 has 40 verses."
+  },
+  {
+    "question": "Does Psalms chapter 80 have more verses than Psalms chapter 81?",
+    "gold": "yes",
+    "left": "b19c80",
+    "right": "b19c81",
+    "book": 19,
+    "bm25_s": 8.012517355382442e-05,
+    "hits": [
+      {
+        "id": "b19c81",
+        "summary": "Psalms chapter 81 has 16 verses."
+      },
+      {
+        "id": "b19c80",
+        "summary": "Psalms chapter 80 has 19 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 80 have more verses than Psalms chapter 81?\nEvidence:\nPsalms chapter 81 has 16 verses.\nPsalms chapter 80 has 19 verses."
+  },
+  {
+    "question": "Does Psalms chapter 81 have more verses than Psalms chapter 80?",
+    "gold": "no",
+    "left": "b19c81",
+    "right": "b19c80",
+    "book": 19,
+    "bm25_s": 7.71661289036274e-05,
+    "hits": [
+      {
+        "id": "b19c81",
+        "summary": "Psalms chapter 81 has 16 verses."
+      },
+      {
+        "id": "b19c80",
+        "summary": "Psalms chapter 80 has 19 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 81 have more verses than Psalms chapter 80?\nEvidence:\nPsalms chapter 81 has 16 verses.\nPsalms chapter 80 has 19 verses."
+  },
+  {
+    "question": "Does Psalms chapter 45 have more verses than Psalms chapter 107?",
+    "gold": "no",
+    "left": "b19c45",
+    "right": "b19c107",
+    "book": 19,
+    "bm25_s": 8.425000123679638e-05,
+    "hits": [
+      {
+        "id": "b19c45",
+        "summary": "Psalms chapter 45 has 17 verses."
+      },
+      {
+        "id": "b19c107",
+        "summary": "Psalms chapter 107 has 43 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 45 have more verses than Psalms chapter 107?\nEvidence:\nPsalms chapter 45 has 17 verses.\nPsalms chapter 107 has 43 verses."
+  },
+  {
+    "question": "Does Psalms chapter 107 have more verses than Psalms chapter 45?",
+    "gold": "yes",
+    "left": "b19c107",
+    "right": "b19c45",
+    "book": 19,
+    "bm25_s": 7.991702295839787e-05,
+    "hits": [
+      {
+        "id": "b19c45",
+        "summary": "Psalms chapter 45 has 17 verses."
+      },
+      {
+        "id": "b19c107",
+        "summary": "Psalms chapter 107 has 43 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 107 have more verses than Psalms chapter 45?\nEvidence:\nPsalms chapter 45 has 17 verses.\nPsalms chapter 107 has 43 verses."
+  },
+  {
+    "question": "Does Exodus chapter 32 have more verses than Exodus chapter 39?",
+    "gold": "no",
+    "left": "b2c32",
+    "right": "b2c39",
+    "book": 2,
+    "bm25_s": 5.4582953453063965e-05,
+    "hits": [
+      {
+        "id": "b2c39",
+        "summary": "Exodus chapter 39 has 43 verses."
+      },
+      {
+        "id": "b2c32",
+        "summary": "Exodus chapter 32 has 35 verses."
+      }
+    ],
+    "state": "Question: Does Exodus chapter 32 have more verses than Exodus chapter 39?\nEvidence:\nExodus chapter 39 has 43 verses.\nExodus chapter 32 has 35 verses."
+  },
+  {
+    "question": "Does Exodus chapter 39 have more verses than Exodus chapter 32?",
+    "gold": "yes",
+    "left": "b2c39",
+    "right": "b2c32",
+    "book": 2,
+    "bm25_s": 4.9416907131671906e-05,
+    "hits": [
+      {
+        "id": "b2c39",
+        "summary": "Exodus chapter 39 has 43 verses."
+      },
+      {
+        "id": "b2c32",
+        "summary": "Exodus chapter 32 has 35 verses."
+      }
+    ],
+    "state": "Question: Does Exodus chapter 39 have more verses than Exodus chapter 32?\nEvidence:\nExodus chapter 39 has 43 verses.\nExodus chapter 32 has 35 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 6 have more verses than Isaiah chapter 23?",
+    "gold": "no",
+    "left": "b23c6",
+    "right": "b23c23",
+    "book": 23,
+    "bm25_s": 0.00010033277794718742,
+    "hits": [
+      {
+        "id": "b23c6",
+        "summary": "Isaiah chapter 6 has 13 verses."
+      },
+      {
+        "id": "b23c23",
+        "summary": "Isaiah chapter 23 has 18 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 6 have more verses than Isaiah chapter 23?\nEvidence:\nIsaiah chapter 6 has 13 verses.\nIsaiah chapter 23 has 18 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 23 have more verses than Isaiah chapter 6?",
+    "gold": "yes",
+    "left": "b23c23",
+    "right": "b23c6",
+    "book": 23,
+    "bm25_s": 0.00016054208390414715,
+    "hits": [
+      {
+        "id": "b23c6",
+        "summary": "Isaiah chapter 6 has 13 verses."
+      },
+      {
+        "id": "b23c23",
+        "summary": "Isaiah chapter 23 has 18 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 23 have more verses than Isaiah chapter 6?\nEvidence:\nIsaiah chapter 6 has 13 verses.\nIsaiah chapter 23 has 18 verses."
+  },
+  {
+    "question": "Does Psalms chapter 34 have more verses than Psalms chapter 84?",
+    "gold": "yes",
+    "left": "b19c34",
+    "right": "b19c84",
+    "book": 19,
+    "bm25_s": 0.00011879205703735352,
+    "hits": [
+      {
+        "id": "b19c84",
+        "summary": "Psalms chapter 84 has 12 verses."
+      },
+      {
+        "id": "b19c34",
+        "summary": "Psalms chapter 34 has 22 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 34 have more verses than Psalms chapter 84?\nEvidence:\nPsalms chapter 84 has 12 verses.\nPsalms chapter 34 has 22 verses."
+  },
+  {
+    "question": "Does Psalms chapter 84 have more verses than Psalms chapter 34?",
+    "gold": "no",
+    "left": "b19c84",
+    "right": "b19c34",
+    "book": 19,
+    "bm25_s": 9.77078452706337e-05,
+    "hits": [
+      {
+        "id": "b19c84",
+        "summary": "Psalms chapter 84 has 12 verses."
+      },
+      {
+        "id": "b19c34",
+        "summary": "Psalms chapter 34 has 22 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 84 have more verses than Psalms chapter 34?\nEvidence:\nPsalms chapter 84 has 12 verses.\nPsalms chapter 34 has 22 verses."
+  },
+  {
+    "question": "Does 2 Samuel chapter 3 have more verses than 2 Samuel chapter 12?",
+    "gold": "yes",
+    "left": "b10c3",
+    "right": "b10c12",
+    "book": 10,
+    "bm25_s": 0.00020333309657871723,
+    "hits": [
+      {
+        "id": "b10c12",
+        "summary": "2 Samuel chapter 12 has 31 verses."
+      },
+      {
+        "id": "b10c3",
+        "summary": "2 Samuel chapter 3 has 39 verses."
+      }
+    ],
+    "state": "Question: Does 2 Samuel chapter 3 have more verses than 2 Samuel chapter 12?\nEvidence:\n2 Samuel chapter 12 has 31 verses.\n2 Samuel chapter 3 has 39 verses."
+  },
+  {
+    "question": "Does 2 Samuel chapter 12 have more verses than 2 Samuel chapter 3?",
+    "gold": "no",
+    "left": "b10c12",
+    "right": "b10c3",
+    "book": 10,
+    "bm25_s": 0.00019575003534555435,
+    "hits": [
+      {
+        "id": "b10c12",
+        "summary": "2 Samuel chapter 12 has 31 verses."
+      },
+      {
+        "id": "b10c3",
+        "summary": "2 Samuel chapter 3 has 39 verses."
+      }
+    ],
+    "state": "Question: Does 2 Samuel chapter 12 have more verses than 2 Samuel chapter 3?\nEvidence:\n2 Samuel chapter 12 has 31 verses.\n2 Samuel chapter 3 has 39 verses."
+  },
+  {
+    "question": "Does Acts chapter 1 have more verses than Acts chapter 26?",
+    "gold": "no",
+    "left": "b44c1",
+    "right": "b44c26",
+    "book": 44,
+    "bm25_s": 0.00012562517076730728,
+    "hits": [
+      {
+        "id": "b44c1",
+        "summary": "Acts chapter 1 has 26 verses."
+      },
+      {
+        "id": "b44c26",
+        "summary": "Acts chapter 26 has 32 verses."
+      }
+    ],
+    "state": "Question: Does Acts chapter 1 have more verses than Acts chapter 26?\nEvidence:\nActs chapter 1 has 26 verses.\nActs chapter 26 has 32 verses."
+  },
+  {
+    "question": "Does Acts chapter 26 have more verses than Acts chapter 1?",
+    "gold": "yes",
+    "left": "b44c26",
+    "right": "b44c1",
+    "book": 44,
+    "bm25_s": 0.00011558295227587223,
+    "hits": [
+      {
+        "id": "b44c1",
+        "summary": "Acts chapter 1 has 26 verses."
+      },
+      {
+        "id": "b44c26",
+        "summary": "Acts chapter 26 has 32 verses."
+      }
+    ],
+    "state": "Question: Does Acts chapter 26 have more verses than Acts chapter 1?\nEvidence:\nActs chapter 1 has 26 verses.\nActs chapter 26 has 32 verses."
+  },
+  {
+    "question": "Does Job chapter 2 have more verses than Job chapter 35?",
+    "gold": "no",
+    "left": "b18c2",
+    "right": "b18c35",
+    "book": 18,
+    "bm25_s": 0.00012058299034833908,
+    "hits": [
+      {
+        "id": "b18c35",
+        "summary": "Job chapter 35 has 16 verses."
+      },
+      {
+        "id": "b18c2",
+        "summary": "Job chapter 2 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 2 have more verses than Job chapter 35?\nEvidence:\nJob chapter 35 has 16 verses.\nJob chapter 2 has 13 verses."
+  },
+  {
+    "question": "Does Job chapter 35 have more verses than Job chapter 2?",
+    "gold": "yes",
+    "left": "b18c35",
+    "right": "b18c2",
+    "book": 18,
+    "bm25_s": 0.00011041690595448017,
+    "hits": [
+      {
+        "id": "b18c35",
+        "summary": "Job chapter 35 has 16 verses."
+      },
+      {
+        "id": "b18c2",
+        "summary": "Job chapter 2 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 35 have more verses than Job chapter 2?\nEvidence:\nJob chapter 35 has 16 verses.\nJob chapter 2 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 114 have more verses than Psalms chapter 145?",
+    "gold": "no",
+    "left": "b19c114",
+    "right": "b19c145",
+    "book": 19,
+    "bm25_s": 7.54999928176403e-05,
+    "hits": [
+      {
+        "id": "b19c114",
+        "summary": "Psalms chapter 114 has 8 verses."
+      },
+      {
+        "id": "b19c145",
+        "summary": "Psalms chapter 145 has 21 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 114 have more verses than Psalms chapter 145?\nEvidence:\nPsalms chapter 114 has 8 verses.\nPsalms chapter 145 has 21 verses."
+  },
+  {
+    "question": "Does Psalms chapter 145 have more verses than Psalms chapter 114?",
+    "gold": "yes",
+    "left": "b19c145",
+    "right": "b19c114",
+    "book": 19,
+    "bm25_s": 6.69590663164854e-05,
+    "hits": [
+      {
+        "id": "b19c114",
+        "summary": "Psalms chapter 114 has 8 verses."
+      },
+      {
+        "id": "b19c145",
+        "summary": "Psalms chapter 145 has 21 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 145 have more verses than Psalms chapter 114?\nEvidence:\nPsalms chapter 114 has 8 verses.\nPsalms chapter 145 has 21 verses."
+  },
+  {
+    "question": "Does Psalms chapter 133 have more verses than Psalms chapter 138?",
+    "gold": "no",
+    "left": "b19c133",
+    "right": "b19c138",
+    "book": 19,
+    "bm25_s": 7.504201494157314e-05,
+    "hits": [
+      {
+        "id": "b19c133",
+        "summary": "Psalms chapter 133 has 3 verses."
+      },
+      {
+        "id": "b19c138",
+        "summary": "Psalms chapter 138 has 8 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 133 have more verses than Psalms chapter 138?\nEvidence:\nPsalms chapter 133 has 3 verses.\nPsalms chapter 138 has 8 verses."
+  },
+  {
+    "question": "Does Psalms chapter 138 have more verses than Psalms chapter 133?",
+    "gold": "yes",
+    "left": "b19c138",
+    "right": "b19c133",
+    "book": 19,
+    "bm25_s": 6.808293983340263e-05,
+    "hits": [
+      {
+        "id": "b19c133",
+        "summary": "Psalms chapter 133 has 3 verses."
+      },
+      {
+        "id": "b19c138",
+        "summary": "Psalms chapter 138 has 8 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 138 have more verses than Psalms chapter 133?\nEvidence:\nPsalms chapter 133 has 3 verses.\nPsalms chapter 138 has 8 verses."
+  },
+  {
+    "question": "Does 2 Kings chapter 4 have more verses than 2 Kings chapter 17?",
+    "gold": "yes",
+    "left": "b12c4",
+    "right": "b12c17",
+    "book": 12,
+    "bm25_s": 0.0002216249704360962,
+    "hits": [
+      {
+        "id": "b12c17",
+        "summary": "2 Kings chapter 17 has 41 verses."
+      },
+      {
+        "id": "b12c4",
+        "summary": "2 Kings chapter 4 has 44 verses."
+      }
+    ],
+    "state": "Question: Does 2 Kings chapter 4 have more verses than 2 Kings chapter 17?\nEvidence:\n2 Kings chapter 17 has 41 verses.\n2 Kings chapter 4 has 44 verses."
+  },
+  {
+    "question": "Does 2 Kings chapter 17 have more verses than 2 Kings chapter 4?",
+    "gold": "no",
+    "left": "b12c17",
+    "right": "b12c4",
+    "book": 12,
+    "bm25_s": 0.00021541700698435307,
+    "hits": [
+      {
+        "id": "b12c17",
+        "summary": "2 Kings chapter 17 has 41 verses."
+      },
+      {
+        "id": "b12c4",
+        "summary": "2 Kings chapter 4 has 44 verses."
+      }
+    ],
+    "state": "Question: Does 2 Kings chapter 17 have more verses than 2 Kings chapter 4?\nEvidence:\n2 Kings chapter 17 has 41 verses.\n2 Kings chapter 4 has 44 verses."
+  },
+  {
+    "question": "Does Psalms chapter 10 have more verses than Psalms chapter 43?",
+    "gold": "yes",
+    "left": "b19c10",
+    "right": "b19c43",
+    "book": 19,
+    "bm25_s": 0.00012666708789765835,
+    "hits": [
+      {
+        "id": "b19c43",
+        "summary": "Psalms chapter 43 has 5 verses."
+      },
+      {
+        "id": "b19c10",
+        "summary": "Psalms chapter 10 has 18 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 10 have more verses than Psalms chapter 43?\nEvidence:\nPsalms chapter 43 has 5 verses.\nPsalms chapter 10 has 18 verses."
+  },
+  {
+    "question": "Does Psalms chapter 43 have more verses than Psalms chapter 10?",
+    "gold": "no",
+    "left": "b19c43",
+    "right": "b19c10",
+    "book": 19,
+    "bm25_s": 0.00011799996718764305,
+    "hits": [
+      {
+        "id": "b19c43",
+        "summary": "Psalms chapter 43 has 5 verses."
+      },
+      {
+        "id": "b19c10",
+        "summary": "Psalms chapter 10 has 18 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 43 have more verses than Psalms chapter 10?\nEvidence:\nPsalms chapter 43 has 5 verses.\nPsalms chapter 10 has 18 verses."
+  },
+  {
+    "question": "Does Psalms chapter 114 have more verses than Psalms chapter 139?",
+    "gold": "no",
+    "left": "b19c114",
+    "right": "b19c139",
+    "book": 19,
+    "bm25_s": 6.791716441512108e-05,
+    "hits": [
+      {
+        "id": "b19c114",
+        "summary": "Psalms chapter 114 has 8 verses."
+      },
+      {
+        "id": "b19c139",
+        "summary": "Psalms chapter 139 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 114 have more verses than Psalms chapter 139?\nEvidence:\nPsalms chapter 114 has 8 verses.\nPsalms chapter 139 has 24 verses."
+  },
+  {
+    "question": "Does Psalms chapter 139 have more verses than Psalms chapter 114?",
+    "gold": "yes",
+    "left": "b19c139",
+    "right": "b19c114",
+    "book": 19,
+    "bm25_s": 7.66669400036335e-05,
+    "hits": [
+      {
+        "id": "b19c114",
+        "summary": "Psalms chapter 114 has 8 verses."
+      },
+      {
+        "id": "b19c139",
+        "summary": "Psalms chapter 139 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 139 have more verses than Psalms chapter 114?\nEvidence:\nPsalms chapter 114 has 8 verses.\nPsalms chapter 139 has 24 verses."
+  },
+  {
+    "question": "Does Ezekiel chapter 12 have more verses than Ezekiel chapter 36?",
+    "gold": "no",
+    "left": "b26c12",
+    "right": "b26c36",
+    "book": 26,
+    "bm25_s": 0.00010175001807510853,
+    "hits": [
+      {
+        "id": "b26c12",
+        "summary": "Ezekiel chapter 12 has 28 verses."
+      },
+      {
+        "id": "b26c36",
+        "summary": "Ezekiel chapter 36 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Ezekiel chapter 12 have more verses than Ezekiel chapter 36?\nEvidence:\nEzekiel chapter 12 has 28 verses.\nEzekiel chapter 36 has 38 verses."
+  },
+  {
+    "question": "Does Ezekiel chapter 36 have more verses than Ezekiel chapter 12?",
+    "gold": "yes",
+    "left": "b26c36",
+    "right": "b26c12",
+    "book": 26,
+    "bm25_s": 9.537488222122192e-05,
+    "hits": [
+      {
+        "id": "b26c12",
+        "summary": "Ezekiel chapter 12 has 28 verses."
+      },
+      {
+        "id": "b26c36",
+        "summary": "Ezekiel chapter 36 has 38 verses."
+      }
+    ],
+    "state": "Question: Does Ezekiel chapter 36 have more verses than Ezekiel chapter 12?\nEvidence:\nEzekiel chapter 12 has 28 verses.\nEzekiel chapter 36 has 38 verses."
+  },
+  {
+    "question": "Does Genesis chapter 38 have more verses than Genesis chapter 49?",
+    "gold": "no",
+    "left": "b1c38",
+    "right": "b1c49",
+    "book": 1,
+    "bm25_s": 5.433312617242336e-05,
+    "hits": [
+      {
+        "id": "b1c49",
+        "summary": "Genesis chapter 49 has 33 verses."
+      },
+      {
+        "id": "b1c38",
+        "summary": "Genesis chapter 38 has 30 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 38 have more verses than Genesis chapter 49?\nEvidence:\nGenesis chapter 49 has 33 verses.\nGenesis chapter 38 has 30 verses."
+  },
+  {
+    "question": "Does Genesis chapter 49 have more verses than Genesis chapter 38?",
+    "gold": "yes",
+    "left": "b1c49",
+    "right": "b1c38",
+    "book": 1,
+    "bm25_s": 4.8582907766103745e-05,
+    "hits": [
+      {
+        "id": "b1c49",
+        "summary": "Genesis chapter 49 has 33 verses."
+      },
+      {
+        "id": "b1c38",
+        "summary": "Genesis chapter 38 has 30 verses."
+      }
+    ],
+    "state": "Question: Does Genesis chapter 49 have more verses than Genesis chapter 38?\nEvidence:\nGenesis chapter 49 has 33 verses.\nGenesis chapter 38 has 30 verses."
+  },
+  {
+    "question": "Does Psalms chapter 71 have more verses than Psalms chapter 138?",
+    "gold": "yes",
+    "left": "b19c71",
+    "right": "b19c138",
+    "book": 19,
+    "bm25_s": 8.154218085110188e-05,
+    "hits": [
+      {
+        "id": "b19c138",
+        "summary": "Psalms chapter 138 has 8 verses."
+      },
+      {
+        "id": "b19c71",
+        "summary": "Psalms chapter 71 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 71 have more verses than Psalms chapter 138?\nEvidence:\nPsalms chapter 138 has 8 verses.\nPsalms chapter 71 has 24 verses."
+  },
+  {
+    "question": "Does Psalms chapter 138 have more verses than Psalms chapter 71?",
+    "gold": "no",
+    "left": "b19c138",
+    "right": "b19c71",
+    "book": 19,
+    "bm25_s": 7.904204539954662e-05,
+    "hits": [
+      {
+        "id": "b19c138",
+        "summary": "Psalms chapter 138 has 8 verses."
+      },
+      {
+        "id": "b19c71",
+        "summary": "Psalms chapter 71 has 24 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 138 have more verses than Psalms chapter 71?\nEvidence:\nPsalms chapter 138 has 8 verses.\nPsalms chapter 71 has 24 verses."
+  },
+  {
+    "question": "Does Deuteronomy chapter 13 have more verses than Deuteronomy chapter 24?",
+    "gold": "no",
+    "left": "b5c13",
+    "right": "b5c24",
+    "book": 5,
+    "bm25_s": 6.720796227455139e-05,
+    "hits": [
+      {
+        "id": "b5c13",
+        "summary": "Deuteronomy chapter 13 has 18 verses."
+      },
+      {
+        "id": "b5c24",
+        "summary": "Deuteronomy chapter 24 has 22 verses."
+      }
+    ],
+    "state": "Question: Does Deuteronomy chapter 13 have more verses than Deuteronomy chapter 24?\nEvidence:\nDeuteronomy chapter 13 has 18 verses.\nDeuteronomy chapter 24 has 22 verses."
+  },
+  {
+    "question": "Does Deuteronomy chapter 24 have more verses than Deuteronomy chapter 13?",
+    "gold": "yes",
+    "left": "b5c24",
+    "right": "b5c13",
+    "book": 5,
+    "bm25_s": 5.858391523361206e-05,
+    "hits": [
+      {
+        "id": "b5c13",
+        "summary": "Deuteronomy chapter 13 has 18 verses."
+      },
+      {
+        "id": "b5c24",
+        "summary": "Deuteronomy chapter 24 has 22 verses."
+      }
+    ],
+    "state": "Question: Does Deuteronomy chapter 24 have more verses than Deuteronomy chapter 13?\nEvidence:\nDeuteronomy chapter 13 has 18 verses.\nDeuteronomy chapter 24 has 22 verses."
+  },
+  {
+    "question": "Does Proverbs chapter 22 have more verses than Proverbs chapter 25?",
+    "gold": "yes",
+    "left": "b20c22",
+    "right": "b20c25",
+    "book": 20,
+    "bm25_s": 0.00010841712355613708,
+    "hits": [
+      {
+        "id": "b20c22",
+        "summary": "Proverbs chapter 22 has 29 verses."
+      },
+      {
+        "id": "b20c25",
+        "summary": "Proverbs chapter 25 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Proverbs chapter 22 have more verses than Proverbs chapter 25?\nEvidence:\nProverbs chapter 22 has 29 verses.\nProverbs chapter 25 has 28 verses."
+  },
+  {
+    "question": "Does Proverbs chapter 25 have more verses than Proverbs chapter 22?",
+    "gold": "no",
+    "left": "b20c25",
+    "right": "b20c22",
+    "book": 20,
+    "bm25_s": 0.00010670791380107403,
+    "hits": [
+      {
+        "id": "b20c22",
+        "summary": "Proverbs chapter 22 has 29 verses."
+      },
+      {
+        "id": "b20c25",
+        "summary": "Proverbs chapter 25 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Proverbs chapter 25 have more verses than Proverbs chapter 22?\nEvidence:\nProverbs chapter 22 has 29 verses.\nProverbs chapter 25 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 46 have more verses than Psalms chapter 143?",
+    "gold": "no",
+    "left": "b19c46",
+    "right": "b19c143",
+    "book": 19,
+    "bm25_s": 8.454197086393833e-05,
+    "hits": [
+      {
+        "id": "b19c46",
+        "summary": "Psalms chapter 46 has 11 verses."
+      },
+      {
+        "id": "b19c143",
+        "summary": "Psalms chapter 143 has 12 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 46 have more verses than Psalms chapter 143?\nEvidence:\nPsalms chapter 46 has 11 verses.\nPsalms chapter 143 has 12 verses."
+  },
+  {
+    "question": "Does Psalms chapter 143 have more verses than Psalms chapter 46?",
+    "gold": "yes",
+    "left": "b19c143",
+    "right": "b19c46",
+    "book": 19,
+    "bm25_s": 8.150003850460052e-05,
+    "hits": [
+      {
+        "id": "b19c46",
+        "summary": "Psalms chapter 46 has 11 verses."
+      },
+      {
+        "id": "b19c143",
+        "summary": "Psalms chapter 143 has 12 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 143 have more verses than Psalms chapter 46?\nEvidence:\nPsalms chapter 46 has 11 verses.\nPsalms chapter 143 has 12 verses."
+  },
+  {
+    "question": "Does Psalms chapter 76 have more verses than Psalms chapter 108?",
+    "gold": "no",
+    "left": "b19c76",
+    "right": "b19c108",
+    "book": 19,
+    "bm25_s": 7.850001566112041e-05,
+    "hits": [
+      {
+        "id": "b19c76",
+        "summary": "Psalms chapter 76 has 12 verses."
+      },
+      {
+        "id": "b19c108",
+        "summary": "Psalms chapter 108 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 76 have more verses than Psalms chapter 108?\nEvidence:\nPsalms chapter 76 has 12 verses.\nPsalms chapter 108 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 108 have more verses than Psalms chapter 76?",
+    "gold": "yes",
+    "left": "b19c108",
+    "right": "b19c76",
+    "book": 19,
+    "bm25_s": 7.612514309585094e-05,
+    "hits": [
+      {
+        "id": "b19c76",
+        "summary": "Psalms chapter 76 has 12 verses."
+      },
+      {
+        "id": "b19c108",
+        "summary": "Psalms chapter 108 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 108 have more verses than Psalms chapter 76?\nEvidence:\nPsalms chapter 76 has 12 verses.\nPsalms chapter 108 has 13 verses."
+  },
+  {
+    "question": "Does 1 Kings chapter 2 have more verses than 1 Kings chapter 12?",
+    "gold": "yes",
+    "left": "b11c2",
+    "right": "b11c12",
+    "book": 11,
+    "bm25_s": 0.00022941711358726025,
+    "hits": [
+      {
+        "id": "b11c12",
+        "summary": "1 Kings chapter 12 has 33 verses."
+      },
+      {
+        "id": "b11c2",
+        "summary": "1 Kings chapter 2 has 46 verses."
+      }
+    ],
+    "state": "Question: Does 1 Kings chapter 2 have more verses than 1 Kings chapter 12?\nEvidence:\n1 Kings chapter 12 has 33 verses.\n1 Kings chapter 2 has 46 verses."
+  },
+  {
+    "question": "Does 1 Kings chapter 12 have more verses than 1 Kings chapter 2?",
+    "gold": "no",
+    "left": "b11c12",
+    "right": "b11c2",
+    "book": 11,
+    "bm25_s": 0.00022095791064202785,
+    "hits": [
+      {
+        "id": "b11c12",
+        "summary": "1 Kings chapter 12 has 33 verses."
+      },
+      {
+        "id": "b11c2",
+        "summary": "1 Kings chapter 2 has 46 verses."
+      }
+    ],
+    "state": "Question: Does 1 Kings chapter 12 have more verses than 1 Kings chapter 2?\nEvidence:\n1 Kings chapter 12 has 33 verses.\n1 Kings chapter 2 has 46 verses."
+  },
+  {
+    "question": "Does Psalms chapter 39 have more verses than Psalms chapter 51?",
+    "gold": "no",
+    "left": "b19c39",
+    "right": "b19c51",
+    "book": 19,
+    "bm25_s": 9.954185225069523e-05,
+    "hits": [
+      {
+        "id": "b19c39",
+        "summary": "Psalms chapter 39 has 13 verses."
+      },
+      {
+        "id": "b19c51",
+        "summary": "Psalms chapter 51 has 19 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 39 have more verses than Psalms chapter 51?\nEvidence:\nPsalms chapter 39 has 13 verses.\nPsalms chapter 51 has 19 verses."
+  },
+  {
+    "question": "Does Psalms chapter 51 have more verses than Psalms chapter 39?",
+    "gold": "yes",
+    "left": "b19c51",
+    "right": "b19c39",
+    "book": 19,
+    "bm25_s": 9.558303281664848e-05,
+    "hits": [
+      {
+        "id": "b19c39",
+        "summary": "Psalms chapter 39 has 13 verses."
+      },
+      {
+        "id": "b19c51",
+        "summary": "Psalms chapter 51 has 19 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 51 have more verses than Psalms chapter 39?\nEvidence:\nPsalms chapter 39 has 13 verses.\nPsalms chapter 51 has 19 verses."
+  },
+  {
+    "question": "Does Judges chapter 5 have more verses than Judges chapter 15?",
+    "gold": "yes",
+    "left": "b7c5",
+    "right": "b7c15",
+    "book": 7,
+    "bm25_s": 0.00014012516476213932,
+    "hits": [
+      {
+        "id": "b7c15",
+        "summary": "Judges chapter 15 has 20 verses."
+      },
+      {
+        "id": "b7c5",
+        "summary": "Judges chapter 5 has 31 verses."
+      }
+    ],
+    "state": "Question: Does Judges chapter 5 have more verses than Judges chapter 15?\nEvidence:\nJudges chapter 15 has 20 verses.\nJudges chapter 5 has 31 verses."
+  },
+  {
+    "question": "Does Judges chapter 15 have more verses than Judges chapter 5?",
+    "gold": "no",
+    "left": "b7c15",
+    "right": "b7c5",
+    "book": 7,
+    "bm25_s": 0.0001322091557085514,
+    "hits": [
+      {
+        "id": "b7c15",
+        "summary": "Judges chapter 15 has 20 verses."
+      },
+      {
+        "id": "b7c5",
+        "summary": "Judges chapter 5 has 31 verses."
+      }
+    ],
+    "state": "Question: Does Judges chapter 15 have more verses than Judges chapter 5?\nEvidence:\nJudges chapter 15 has 20 verses.\nJudges chapter 5 has 31 verses."
+  },
+  {
+    "question": "Does Luke chapter 4 have more verses than Luke chapter 14?",
+    "gold": "yes",
+    "left": "b42c4",
+    "right": "b42c14",
+    "book": 42,
+    "bm25_s": 0.00013445783406496048,
+    "hits": [
+      {
+        "id": "b42c14",
+        "summary": "Luke chapter 14 has 35 verses."
+      },
+      {
+        "id": "b42c4",
+        "summary": "Luke chapter 4 has 44 verses."
+      }
+    ],
+    "state": "Question: Does Luke chapter 4 have more verses than Luke chapter 14?\nEvidence:\nLuke chapter 14 has 35 verses.\nLuke chapter 4 has 44 verses."
+  },
+  {
+    "question": "Does Luke chapter 14 have more verses than Luke chapter 4?",
+    "gold": "no",
+    "left": "b42c14",
+    "right": "b42c4",
+    "book": 42,
+    "bm25_s": 0.00013325014151632786,
+    "hits": [
+      {
+        "id": "b42c14",
+        "summary": "Luke chapter 14 has 35 verses."
+      },
+      {
+        "id": "b42c4",
+        "summary": "Luke chapter 4 has 44 verses."
+      }
+    ],
+    "state": "Question: Does Luke chapter 14 have more verses than Luke chapter 4?\nEvidence:\nLuke chapter 14 has 35 verses.\nLuke chapter 4 has 44 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 7 have more verses than Isaiah chapter 38?",
+    "gold": "yes",
+    "left": "b23c7",
+    "right": "b23c38",
+    "book": 23,
+    "bm25_s": 9.729084558784962e-05,
+    "hits": [
+      {
+        "id": "b23c38",
+        "summary": "Isaiah chapter 38 has 22 verses."
+      },
+      {
+        "id": "b23c7",
+        "summary": "Isaiah chapter 7 has 25 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 7 have more verses than Isaiah chapter 38?\nEvidence:\nIsaiah chapter 38 has 22 verses.\nIsaiah chapter 7 has 25 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 38 have more verses than Isaiah chapter 7?",
+    "gold": "no",
+    "left": "b23c38",
+    "right": "b23c7",
+    "book": 23,
+    "bm25_s": 9.04998742043972e-05,
+    "hits": [
+      {
+        "id": "b23c38",
+        "summary": "Isaiah chapter 38 has 22 verses."
+      },
+      {
+        "id": "b23c7",
+        "summary": "Isaiah chapter 7 has 25 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 38 have more verses than Isaiah chapter 7?\nEvidence:\nIsaiah chapter 38 has 22 verses.\nIsaiah chapter 7 has 25 verses."
+  },
+  {
+    "question": "Does Job chapter 13 have more verses than Job chapter 26?",
+    "gold": "yes",
+    "left": "b18c13",
+    "right": "b18c26",
+    "book": 18,
+    "bm25_s": 0.0001219168771058321,
+    "hits": [
+      {
+        "id": "b18c26",
+        "summary": "Job chapter 26 has 14 verses."
+      },
+      {
+        "id": "b18c13",
+        "summary": "Job chapter 13 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 13 have more verses than Job chapter 26?\nEvidence:\nJob chapter 26 has 14 verses.\nJob chapter 13 has 28 verses."
+  },
+  {
+    "question": "Does Job chapter 26 have more verses than Job chapter 13?",
+    "gold": "no",
+    "left": "b18c26",
+    "right": "b18c13",
+    "book": 18,
+    "bm25_s": 0.00011737504974007607,
+    "hits": [
+      {
+        "id": "b18c26",
+        "summary": "Job chapter 26 has 14 verses."
+      },
+      {
+        "id": "b18c13",
+        "summary": "Job chapter 13 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 26 have more verses than Job chapter 13?\nEvidence:\nJob chapter 26 has 14 verses.\nJob chapter 13 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 66 have more verses than Psalms chapter 69?",
+    "gold": "no",
+    "left": "b19c66",
+    "right": "b19c69",
+    "book": 19,
+    "bm25_s": 9.375018998980522e-05,
+    "hits": [
+      {
+        "id": "b19c66",
+        "summary": "Psalms chapter 66 has 20 verses."
+      },
+      {
+        "id": "b19c69",
+        "summary": "Psalms chapter 69 has 36 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 66 have more verses than Psalms chapter 69?\nEvidence:\nPsalms chapter 66 has 20 verses.\nPsalms chapter 69 has 36 verses."
+  },
+  {
+    "question": "Does Psalms chapter 69 have more verses than Psalms chapter 66?",
+    "gold": "yes",
+    "left": "b19c69",
+    "right": "b19c66",
+    "book": 19,
+    "bm25_s": 8.704210631549358e-05,
+    "hits": [
+      {
+        "id": "b19c66",
+        "summary": "Psalms chapter 66 has 20 verses."
+      },
+      {
+        "id": "b19c69",
+        "summary": "Psalms chapter 69 has 36 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 69 have more verses than Psalms chapter 66?\nEvidence:\nPsalms chapter 66 has 20 verses.\nPsalms chapter 69 has 36 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 13 have more verses than Isaiah chapter 43?",
+    "gold": "no",
+    "left": "b23c13",
+    "right": "b23c43",
+    "book": 23,
+    "bm25_s": 9.062490426003933e-05,
+    "hits": [
+      {
+        "id": "b23c13",
+        "summary": "Isaiah chapter 13 has 22 verses."
+      },
+      {
+        "id": "b23c43",
+        "summary": "Isaiah chapter 43 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 13 have more verses than Isaiah chapter 43?\nEvidence:\nIsaiah chapter 13 has 22 verses.\nIsaiah chapter 43 has 28 verses."
+  },
+  {
+    "question": "Does Isaiah chapter 43 have more verses than Isaiah chapter 13?",
+    "gold": "yes",
+    "left": "b23c43",
+    "right": "b23c13",
+    "book": 23,
+    "bm25_s": 9.099999442696571e-05,
+    "hits": [
+      {
+        "id": "b23c13",
+        "summary": "Isaiah chapter 13 has 22 verses."
+      },
+      {
+        "id": "b23c43",
+        "summary": "Isaiah chapter 43 has 28 verses."
+      }
+    ],
+    "state": "Question: Does Isaiah chapter 43 have more verses than Isaiah chapter 13?\nEvidence:\nIsaiah chapter 13 has 22 verses.\nIsaiah chapter 43 has 28 verses."
+  },
+  {
+    "question": "Does Psalms chapter 56 have more verses than Psalms chapter 77?",
+    "gold": "no",
+    "left": "b19c56",
+    "right": "b19c77",
+    "book": 19,
+    "bm25_s": 9.320792742073536e-05,
+    "hits": [
+      {
+        "id": "b19c56",
+        "summary": "Psalms chapter 56 has 13 verses."
+      },
+      {
+        "id": "b19c77",
+        "summary": "Psalms chapter 77 has 20 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 56 have more verses than Psalms chapter 77?\nEvidence:\nPsalms chapter 56 has 13 verses.\nPsalms chapter 77 has 20 verses."
+  },
+  {
+    "question": "Does Psalms chapter 77 have more verses than Psalms chapter 56?",
+    "gold": "yes",
+    "left": "b19c77",
+    "right": "b19c56",
+    "book": 19,
+    "bm25_s": 8.720788173377514e-05,
+    "hits": [
+      {
+        "id": "b19c56",
+        "summary": "Psalms chapter 56 has 13 verses."
+      },
+      {
+        "id": "b19c77",
+        "summary": "Psalms chapter 77 has 20 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 77 have more verses than Psalms chapter 56?\nEvidence:\nPsalms chapter 56 has 13 verses.\nPsalms chapter 77 has 20 verses."
+  },
+  {
+    "question": "Does Psalms chapter 122 have more verses than Psalms chapter 140?",
+    "gold": "no",
+    "left": "b19c122",
+    "right": "b19c140",
+    "book": 19,
+    "bm25_s": 7.033301517367363e-05,
+    "hits": [
+      {
+        "id": "b19c122",
+        "summary": "Psalms chapter 122 has 9 verses."
+      },
+      {
+        "id": "b19c140",
+        "summary": "Psalms chapter 140 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 122 have more verses than Psalms chapter 140?\nEvidence:\nPsalms chapter 122 has 9 verses.\nPsalms chapter 140 has 13 verses."
+  },
+  {
+    "question": "Does Psalms chapter 140 have more verses than Psalms chapter 122?",
+    "gold": "yes",
+    "left": "b19c140",
+    "right": "b19c122",
+    "book": 19,
+    "bm25_s": 6.929202936589718e-05,
+    "hits": [
+      {
+        "id": "b19c122",
+        "summary": "Psalms chapter 122 has 9 verses."
+      },
+      {
+        "id": "b19c140",
+        "summary": "Psalms chapter 140 has 13 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 140 have more verses than Psalms chapter 122?\nEvidence:\nPsalms chapter 122 has 9 verses.\nPsalms chapter 140 has 13 verses."
+  },
+  {
+    "question": "Does Job chapter 24 have more verses than Job chapter 41?",
+    "gold": "no",
+    "left": "b18c24",
+    "right": "b18c41",
+    "book": 18,
+    "bm25_s": 0.0001091670710593462,
+    "hits": [
+      {
+        "id": "b18c24",
+        "summary": "Job chapter 24 has 25 verses."
+      },
+      {
+        "id": "b18c41",
+        "summary": "Job chapter 41 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 24 have more verses than Job chapter 41?\nEvidence:\nJob chapter 24 has 25 verses.\nJob chapter 41 has 34 verses."
+  },
+  {
+    "question": "Does Job chapter 41 have more verses than Job chapter 24?",
+    "gold": "yes",
+    "left": "b18c41",
+    "right": "b18c24",
+    "book": 18,
+    "bm25_s": 0.00010950001887977123,
+    "hits": [
+      {
+        "id": "b18c24",
+        "summary": "Job chapter 24 has 25 verses."
+      },
+      {
+        "id": "b18c41",
+        "summary": "Job chapter 41 has 34 verses."
+      }
+    ],
+    "state": "Question: Does Job chapter 41 have more verses than Job chapter 24?\nEvidence:\nJob chapter 24 has 25 verses.\nJob chapter 41 has 34 verses."
+  },
+  {
+    "question": "Does Psalms chapter 56 have more verses than Psalms chapter 90?",
+    "gold": "no",
+    "left": "b19c56",
+    "right": "b19c90",
+    "book": 19,
+    "bm25_s": 8.562486618757248e-05,
+    "hits": [
+      {
+        "id": "b19c56",
+        "summary": "Psalms chapter 56 has 13 verses."
+      },
+      {
+        "id": "b19c90",
+        "summary": "Psalms chapter 90 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 56 have more verses than Psalms chapter 90?\nEvidence:\nPsalms chapter 56 has 13 verses.\nPsalms chapter 90 has 17 verses."
+  },
+  {
+    "question": "Does Psalms chapter 90 have more verses than Psalms chapter 56?",
+    "gold": "yes",
+    "left": "b19c90",
+    "right": "b19c56",
+    "book": 19,
+    "bm25_s": 8.066603913903236e-05,
+    "hits": [
+      {
+        "id": "b19c56",
+        "summary": "Psalms chapter 56 has 13 verses."
+      },
+      {
+        "id": "b19c90",
+        "summary": "Psalms chapter 90 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 90 have more verses than Psalms chapter 56?\nEvidence:\nPsalms chapter 56 has 13 verses.\nPsalms chapter 90 has 17 verses."
+  },
+  {
+    "question": "Does Psalms chapter 45 have more verses than Psalms chapter 113?",
+    "gold": "yes",
+    "left": "b19c45",
+    "right": "b19c113",
+    "book": 19,
+    "bm25_s": 8.370797149837017e-05,
+    "hits": [
+      {
+        "id": "b19c113",
+        "summary": "Psalms chapter 113 has 9 verses."
+      },
+      {
+        "id": "b19c45",
+        "summary": "Psalms chapter 45 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 45 have more verses than Psalms chapter 113?\nEvidence:\nPsalms chapter 113 has 9 verses.\nPsalms chapter 45 has 17 verses."
+  },
+  {
+    "question": "Does Psalms chapter 113 have more verses than Psalms chapter 45?",
+    "gold": "no",
+    "left": "b19c113",
+    "right": "b19c45",
+    "book": 19,
+    "bm25_s": 8.262507617473602e-05,
+    "hits": [
+      {
+        "id": "b19c113",
+        "summary": "Psalms chapter 113 has 9 verses."
+      },
+      {
+        "id": "b19c45",
+        "summary": "Psalms chapter 45 has 17 verses."
+      }
+    ],
+    "state": "Question: Does Psalms chapter 113 have more verses than Psalms chapter 45?\nEvidence:\nPsalms chapter 113 has 9 verses.\nPsalms chapter 45 has 17 verses."
+  }
+]

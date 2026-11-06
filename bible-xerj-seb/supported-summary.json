@@ -1,0 +1,23 @@
+{
+  "n": 160,
+  "xerj": {
+    "correct": 141,
+    "wrong": 0,
+    "statuses": {
+      "ANSWER": 141,
+      "UNSUPPORTED": 19
+    },
+    "median_wall_ms": 163.1229374324903,
+    "total_wall_s": 26.271702081896365
+  },
+  "seb": {
+    "correct": 154,
+    "wrong": 6,
+    "unknown": 0,
+    "input_tokens": 24844,
+    "cost_nanos": 521724,
+    "cost_per_1000": 0.003260775,
+    "median_api_ms": 60.0
+  },
+  "bm25_median_ms": 0.0477710273116827
+}

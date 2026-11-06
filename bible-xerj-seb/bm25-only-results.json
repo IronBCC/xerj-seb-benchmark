@@ -1,0 +1,2722 @@
+[
+  {
+    "question": "Is Job 19 longer than Job 32?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c32",
+        "Job 32 has length 22 verses."
+      ],
+      [
+        "b18c19",
+        "Job 19 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 323417,
+    "cpu_ns": 324000
+  },
+  {
+    "question": "Is Job 32 longer than Job 19?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c32",
+        "Job 32 has length 22 verses."
+      ],
+      [
+        "b18c19",
+        "Job 19 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 80542,
+    "cpu_ns": 80000
+  },
+  {
+    "question": "Is Deuteronomy 28 longer than Deuteronomy 30?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b5c30",
+        "Deuteronomy 30 has length 20 verses."
+      ],
+      [
+        "b5c28",
+        "Deuteronomy 28 has length 68 verses."
+      ]
+    ],
+    "wall_ns": 70625,
+    "cpu_ns": 71000
+  },
+  {
+    "question": "Is Deuteronomy 30 longer than Deuteronomy 28?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b5c30",
+        "Deuteronomy 30 has length 20 verses."
+      ],
+      [
+        "b5c28",
+        "Deuteronomy 28 has length 68 verses."
+      ]
+    ],
+    "wall_ns": 45417,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is 2 Kings 10 longer than 2 Kings 25?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b12c25",
+        "2 Kings 25 has length 30 verses."
+      ],
+      [
+        "b12c10",
+        "2 Kings 10 has length 36 verses."
+      ]
+    ],
+    "wall_ns": 181833,
+    "cpu_ns": 181000
+  },
+  {
+    "question": "Is 2 Kings 25 longer than 2 Kings 10?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b12c25",
+        "2 Kings 25 has length 30 verses."
+      ],
+      [
+        "b12c10",
+        "2 Kings 10 has length 36 verses."
+      ]
+    ],
+    "wall_ns": 157666,
+    "cpu_ns": 157000
+  },
+  {
+    "question": "Is 2 Chronicles 5 longer than 2 Chronicles 30?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b14c5",
+        "2 Chronicles 5 has length 14 verses."
+      ],
+      [
+        "b14c30",
+        "2 Chronicles 30 has length 27 verses."
+      ]
+    ],
+    "wall_ns": 100291,
+    "cpu_ns": 100000
+  },
+  {
+    "question": "Is 2 Chronicles 30 longer than 2 Chronicles 5?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b14c5",
+        "2 Chronicles 5 has length 14 verses."
+      ],
+      [
+        "b14c30",
+        "2 Chronicles 30 has length 27 verses."
+      ]
+    ],
+    "wall_ns": 85750,
+    "cpu_ns": 85000
+  },
+  {
+    "question": "Is 2 Chronicles 33 longer than 2 Chronicles 36?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b14c36",
+        "2 Chronicles 36 has length 23 verses."
+      ],
+      [
+        "b14c33",
+        "2 Chronicles 33 has length 25 verses."
+      ]
+    ],
+    "wall_ns": 81542,
+    "cpu_ns": 82000
+  },
+  {
+    "question": "Is 2 Chronicles 36 longer than 2 Chronicles 33?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b14c36",
+        "2 Chronicles 36 has length 23 verses."
+      ],
+      [
+        "b14c33",
+        "2 Chronicles 33 has length 25 verses."
+      ]
+    ],
+    "wall_ns": 74833,
+    "cpu_ns": 75000
+  },
+  {
+    "question": "Is Psalms 138 longer than Psalms 139?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c138",
+        "Psalms 138 has length 8 verses."
+      ],
+      [
+        "b19c139",
+        "Psalms 139 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 60333,
+    "cpu_ns": 61000
+  },
+  {
+    "question": "Is Psalms 139 longer than Psalms 138?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c138",
+        "Psalms 138 has length 8 verses."
+      ],
+      [
+        "b19c139",
+        "Psalms 139 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 44750,
+    "cpu_ns": 45000
+  },
+  {
+    "question": "Is Isaiah 13 longer than Isaiah 29?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c13",
+        "Isaiah 13 has length 22 verses."
+      ],
+      [
+        "b23c29",
+        "Isaiah 29 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 73000,
+    "cpu_ns": 73000
+  },
+  {
+    "question": "Is Isaiah 29 longer than Isaiah 13?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c13",
+        "Isaiah 13 has length 22 verses."
+      ],
+      [
+        "b23c29",
+        "Isaiah 29 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 57584,
+    "cpu_ns": 58000
+  },
+  {
+    "question": "Is Joshua 5 longer than Joshua 22?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b6c5",
+        "Joshua 5 has length 15 verses."
+      ],
+      [
+        "b6c22",
+        "Joshua 22 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 81875,
+    "cpu_ns": 83000
+  },
+  {
+    "question": "Is Joshua 22 longer than Joshua 5?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b6c5",
+        "Joshua 5 has length 15 verses."
+      ],
+      [
+        "b6c22",
+        "Joshua 22 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 124625,
+    "cpu_ns": 122000
+  },
+  {
+    "question": "Is Isaiah 2 longer than Isaiah 14?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c2",
+        "Isaiah 2 has length 22 verses."
+      ],
+      [
+        "b23c14",
+        "Isaiah 14 has length 32 verses."
+      ]
+    ],
+    "wall_ns": 103959,
+    "cpu_ns": 104000
+  },
+  {
+    "question": "Is Isaiah 14 longer than Isaiah 2?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c2",
+        "Isaiah 2 has length 22 verses."
+      ],
+      [
+        "b23c14",
+        "Isaiah 14 has length 32 verses."
+      ]
+    ],
+    "wall_ns": 74459,
+    "cpu_ns": 74000
+  },
+  {
+    "question": "Is Jeremiah 36 longer than Jeremiah 46?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b24c46",
+        "Jeremiah 46 has length 28 verses."
+      ],
+      [
+        "b24c36",
+        "Jeremiah 36 has length 32 verses."
+      ]
+    ],
+    "wall_ns": 61875,
+    "cpu_ns": 62000
+  },
+  {
+    "question": "Is Jeremiah 46 longer than Jeremiah 36?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b24c46",
+        "Jeremiah 46 has length 28 verses."
+      ],
+      [
+        "b24c36",
+        "Jeremiah 36 has length 32 verses."
+      ]
+    ],
+    "wall_ns": 49666,
+    "cpu_ns": 50000
+  },
+  {
+    "question": "Is Genesis 46 longer than Genesis 47?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b1c46",
+        "Genesis 46 has length 34 verses."
+      ],
+      [
+        "b1c47",
+        "Genesis 47 has length 31 verses."
+      ]
+    ],
+    "wall_ns": 52583,
+    "cpu_ns": 52000
+  },
+  {
+    "question": "Is Genesis 47 longer than Genesis 46?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b1c46",
+        "Genesis 46 has length 34 verses."
+      ],
+      [
+        "b1c47",
+        "Genesis 47 has length 31 verses."
+      ]
+    ],
+    "wall_ns": 41917,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is Psalms 70 longer than Psalms 79?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c70",
+        "Psalms 70 has length 5 verses."
+      ],
+      [
+        "b19c79",
+        "Psalms 79 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 53541,
+    "cpu_ns": 54000
+  },
+  {
+    "question": "Is Psalms 79 longer than Psalms 70?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c70",
+        "Psalms 70 has length 5 verses."
+      ],
+      [
+        "b19c79",
+        "Psalms 79 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 46125,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is Psalms 54 longer than Psalms 85?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c54",
+        "Psalms 54 has length 7 verses."
+      ],
+      [
+        "b19c85",
+        "Psalms 85 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 55292,
+    "cpu_ns": 55000
+  },
+  {
+    "question": "Is Psalms 85 longer than Psalms 54?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c54",
+        "Psalms 54 has length 7 verses."
+      ],
+      [
+        "b19c85",
+        "Psalms 85 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 45458,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is Psalms 15 longer than Psalms 77?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c15",
+        "Psalms 15 has length 5 verses."
+      ],
+      [
+        "b19c77",
+        "Psalms 77 has length 20 verses."
+      ]
+    ],
+    "wall_ns": 70625,
+    "cpu_ns": 71000
+  },
+  {
+    "question": "Is Psalms 77 longer than Psalms 15?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c15",
+        "Psalms 15 has length 5 verses."
+      ],
+      [
+        "b19c77",
+        "Psalms 77 has length 20 verses."
+      ]
+    ],
+    "wall_ns": 65375,
+    "cpu_ns": 66000
+  },
+  {
+    "question": "Is Jeremiah 10 longer than Jeremiah 26?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b24c10",
+        "Jeremiah 10 has length 25 verses."
+      ],
+      [
+        "b24c26",
+        "Jeremiah 26 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 87750,
+    "cpu_ns": 87000
+  },
+  {
+    "question": "Is Jeremiah 26 longer than Jeremiah 10?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b24c10",
+        "Jeremiah 10 has length 25 verses."
+      ],
+      [
+        "b24c26",
+        "Jeremiah 26 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 67916,
+    "cpu_ns": 67000
+  },
+  {
+    "question": "Is Genesis 18 longer than Genesis 19?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b1c18",
+        "Genesis 18 has length 33 verses."
+      ],
+      [
+        "b1c19",
+        "Genesis 19 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 49792,
+    "cpu_ns": 49000
+  },
+  {
+    "question": "Is Genesis 19 longer than Genesis 18?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b1c18",
+        "Genesis 18 has length 33 verses."
+      ],
+      [
+        "b1c19",
+        "Genesis 19 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 42167,
+    "cpu_ns": 43000
+  },
+  {
+    "question": "Is Psalms 74 longer than Psalms 118?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c74",
+        "Psalms 74 has length 23 verses."
+      ],
+      [
+        "b19c118",
+        "Psalms 118 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 51583,
+    "cpu_ns": 51000
+  },
+  {
+    "question": "Is Psalms 118 longer than Psalms 74?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c74",
+        "Psalms 74 has length 23 verses."
+      ],
+      [
+        "b19c118",
+        "Psalms 118 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 44500,
+    "cpu_ns": 44000
+  },
+  {
+    "question": "Is Job 5 longer than Job 20?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c5",
+        "Job 5 has length 27 verses."
+      ],
+      [
+        "b18c20",
+        "Job 20 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 131625,
+    "cpu_ns": 128000
+  },
+  {
+    "question": "Is Job 20 longer than Job 5?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c5",
+        "Job 5 has length 27 verses."
+      ],
+      [
+        "b18c20",
+        "Job 20 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 100541,
+    "cpu_ns": 101000
+  },
+  {
+    "question": "Is Psalms 88 longer than Psalms 150?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c150",
+        "Psalms 150 has length 6 verses."
+      ],
+      [
+        "b19c88",
+        "Psalms 88 has length 18 verses."
+      ]
+    ],
+    "wall_ns": 62250,
+    "cpu_ns": 62000
+  },
+  {
+    "question": "Is Psalms 150 longer than Psalms 88?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c150",
+        "Psalms 150 has length 6 verses."
+      ],
+      [
+        "b19c88",
+        "Psalms 88 has length 18 verses."
+      ]
+    ],
+    "wall_ns": 51208,
+    "cpu_ns": 51000
+  },
+  {
+    "question": "Is Isaiah 10 longer than Isaiah 17?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c17",
+        "Isaiah 17 has length 14 verses."
+      ],
+      [
+        "b23c10",
+        "Isaiah 10 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 74083,
+    "cpu_ns": 73000
+  },
+  {
+    "question": "Is Isaiah 17 longer than Isaiah 10?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c17",
+        "Isaiah 17 has length 14 verses."
+      ],
+      [
+        "b23c10",
+        "Isaiah 10 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 66792,
+    "cpu_ns": 66000
+  },
+  {
+    "question": "Is 1 Chronicles 13 longer than 1 Chronicles 14?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b13c14",
+        "1 Chronicles 14 has length 17 verses."
+      ],
+      [
+        "b13c13",
+        "1 Chronicles 13 has length 14 verses."
+      ]
+    ],
+    "wall_ns": 100250,
+    "cpu_ns": 100000
+  },
+  {
+    "question": "Is 1 Chronicles 14 longer than 1 Chronicles 13?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b13c14",
+        "1 Chronicles 14 has length 17 verses."
+      ],
+      [
+        "b13c13",
+        "1 Chronicles 13 has length 14 verses."
+      ]
+    ],
+    "wall_ns": 87000,
+    "cpu_ns": 87000
+  },
+  {
+    "question": "Is Exodus 24 longer than Exodus 36?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b2c24",
+        "Exodus 24 has length 18 verses."
+      ],
+      [
+        "b2c36",
+        "Exodus 36 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 57417,
+    "cpu_ns": 57000
+  },
+  {
+    "question": "Is Exodus 36 longer than Exodus 24?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b2c24",
+        "Exodus 24 has length 18 verses."
+      ],
+      [
+        "b2c36",
+        "Exodus 36 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 46666,
+    "cpu_ns": 47000
+  },
+  {
+    "question": "Is Psalms 118 longer than Psalms 126?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c126",
+        "Psalms 126 has length 6 verses."
+      ],
+      [
+        "b19c118",
+        "Psalms 118 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 51125,
+    "cpu_ns": 51000
+  },
+  {
+    "question": "Is Psalms 126 longer than Psalms 118?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c126",
+        "Psalms 126 has length 6 verses."
+      ],
+      [
+        "b19c118",
+        "Psalms 118 has length 29 verses."
+      ]
+    ],
+    "wall_ns": 40958,
+    "cpu_ns": 40000
+  },
+  {
+    "question": "Is Psalms 113 longer than Psalms 142?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c113",
+        "Psalms 113 has length 9 verses."
+      ],
+      [
+        "b19c142",
+        "Psalms 142 has length 7 verses."
+      ]
+    ],
+    "wall_ns": 44000,
+    "cpu_ns": 44000
+  },
+  {
+    "question": "Is Psalms 142 longer than Psalms 113?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c113",
+        "Psalms 113 has length 9 verses."
+      ],
+      [
+        "b19c142",
+        "Psalms 142 has length 7 verses."
+      ]
+    ],
+    "wall_ns": 40791,
+    "cpu_ns": 41000
+  },
+  {
+    "question": "Is Psalms 34 longer than Psalms 139?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c34",
+        "Psalms 34 has length 22 verses."
+      ],
+      [
+        "b19c139",
+        "Psalms 139 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 59125,
+    "cpu_ns": 59000
+  },
+  {
+    "question": "Is Psalms 139 longer than Psalms 34?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c34",
+        "Psalms 34 has length 22 verses."
+      ],
+      [
+        "b19c139",
+        "Psalms 139 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 51875,
+    "cpu_ns": 52000
+  },
+  {
+    "question": "Is Psalms 35 longer than Psalms 71?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c71",
+        "Psalms 71 has length 24 verses."
+      ],
+      [
+        "b19c35",
+        "Psalms 35 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 59875,
+    "cpu_ns": 61000
+  },
+  {
+    "question": "Is Psalms 71 longer than Psalms 35?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c71",
+        "Psalms 71 has length 24 verses."
+      ],
+      [
+        "b19c35",
+        "Psalms 35 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 51833,
+    "cpu_ns": 53000
+  },
+  {
+    "question": "Is Psalms 11 longer than Psalms 91?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c11",
+        "Psalms 11 has length 7 verses."
+      ],
+      [
+        "b19c91",
+        "Psalms 91 has length 16 verses."
+      ]
+    ],
+    "wall_ns": 69917,
+    "cpu_ns": 70000
+  },
+  {
+    "question": "Is Psalms 91 longer than Psalms 11?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c11",
+        "Psalms 11 has length 7 verses."
+      ],
+      [
+        "b19c91",
+        "Psalms 91 has length 16 verses."
+      ]
+    ],
+    "wall_ns": 66250,
+    "cpu_ns": 65000
+  },
+  {
+    "question": "Is Job 23 longer than Job 32?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c23",
+        "Job 23 has length 17 verses."
+      ],
+      [
+        "b18c32",
+        "Job 32 has length 22 verses."
+      ]
+    ],
+    "wall_ns": 63667,
+    "cpu_ns": 64000
+  },
+  {
+    "question": "Is Job 32 longer than Job 23?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c23",
+        "Job 23 has length 17 verses."
+      ],
+      [
+        "b18c32",
+        "Job 32 has length 22 verses."
+      ]
+    ],
+    "wall_ns": 59292,
+    "cpu_ns": 59000
+  },
+  {
+    "question": "Is Matthew 8 longer than Matthew 11?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b40c11",
+        "Matthew 11 has length 30 verses."
+      ],
+      [
+        "b40c8",
+        "Matthew 8 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 91041,
+    "cpu_ns": 91000
+  },
+  {
+    "question": "Is Matthew 11 longer than Matthew 8?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b40c11",
+        "Matthew 11 has length 30 verses."
+      ],
+      [
+        "b40c8",
+        "Matthew 8 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 73000,
+    "cpu_ns": 74000
+  },
+  {
+    "question": "Is 1 Samuel 24 longer than 1 Samuel 25?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b9c24",
+        "1 Samuel 24 has length 22 verses."
+      ],
+      [
+        "b9c25",
+        "1 Samuel 25 has length 44 verses."
+      ]
+    ],
+    "wall_ns": 128500,
+    "cpu_ns": 129000
+  },
+  {
+    "question": "Is 1 Samuel 25 longer than 1 Samuel 24?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b9c24",
+        "1 Samuel 24 has length 22 verses."
+      ],
+      [
+        "b9c25",
+        "1 Samuel 25 has length 44 verses."
+      ]
+    ],
+    "wall_ns": 113750,
+    "cpu_ns": 114000
+  },
+  {
+    "question": "Is Psalms 13 longer than Psalms 117?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c117",
+        "Psalms 117 has length 2 verses."
+      ],
+      [
+        "b19c13",
+        "Psalms 13 has length 6 verses."
+      ]
+    ],
+    "wall_ns": 71292,
+    "cpu_ns": 71000
+  },
+  {
+    "question": "Is Psalms 117 longer than Psalms 13?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c117",
+        "Psalms 117 has length 2 verses."
+      ],
+      [
+        "b19c13",
+        "Psalms 13 has length 6 verses."
+      ]
+    ],
+    "wall_ns": 65208,
+    "cpu_ns": 66000
+  },
+  {
+    "question": "Is Acts 9 longer than Acts 26?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b44c26",
+        "Acts 26 has length 32 verses."
+      ],
+      [
+        "b44c9",
+        "Acts 9 has length 43 verses."
+      ]
+    ],
+    "wall_ns": 80416,
+    "cpu_ns": 81000
+  },
+  {
+    "question": "Is Acts 26 longer than Acts 9?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b44c26",
+        "Acts 26 has length 32 verses."
+      ],
+      [
+        "b44c9",
+        "Acts 9 has length 43 verses."
+      ]
+    ],
+    "wall_ns": 69000,
+    "cpu_ns": 68000
+  },
+  {
+    "question": "Is Ezekiel 14 longer than Ezekiel 45?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b26c14",
+        "Ezekiel 14 has length 23 verses."
+      ],
+      [
+        "b26c45",
+        "Ezekiel 45 has length 25 verses."
+      ]
+    ],
+    "wall_ns": 59417,
+    "cpu_ns": 59000
+  },
+  {
+    "question": "Is Ezekiel 45 longer than Ezekiel 14?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b26c14",
+        "Ezekiel 14 has length 23 verses."
+      ],
+      [
+        "b26c45",
+        "Ezekiel 45 has length 25 verses."
+      ]
+    ],
+    "wall_ns": 55334,
+    "cpu_ns": 55000
+  },
+  {
+    "question": "Is Psalms 104 longer than Psalms 115?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c115",
+        "Psalms 115 has length 18 verses."
+      ],
+      [
+        "b19c104",
+        "Psalms 104 has length 35 verses."
+      ]
+    ],
+    "wall_ns": 49709,
+    "cpu_ns": 49000
+  },
+  {
+    "question": "Is Psalms 115 longer than Psalms 104?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c115",
+        "Psalms 115 has length 18 verses."
+      ],
+      [
+        "b19c104",
+        "Psalms 104 has length 35 verses."
+      ]
+    ],
+    "wall_ns": 41542,
+    "cpu_ns": 41000
+  },
+  {
+    "question": "Is Psalms 92 longer than Psalms 124?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c124",
+        "Psalms 124 has length 8 verses."
+      ],
+      [
+        "b19c92",
+        "Psalms 92 has length 15 verses."
+      ]
+    ],
+    "wall_ns": 42875,
+    "cpu_ns": 43000
+  },
+  {
+    "question": "Is Psalms 124 longer than Psalms 92?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c124",
+        "Psalms 124 has length 8 verses."
+      ],
+      [
+        "b19c92",
+        "Psalms 92 has length 15 verses."
+      ]
+    ],
+    "wall_ns": 41583,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is Psalms 26 longer than Psalms 82?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c82",
+        "Psalms 82 has length 8 verses."
+      ],
+      [
+        "b19c26",
+        "Psalms 26 has length 12 verses."
+      ]
+    ],
+    "wall_ns": 56584,
+    "cpu_ns": 57000
+  },
+  {
+    "question": "Is Psalms 82 longer than Psalms 26?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c82",
+        "Psalms 82 has length 8 verses."
+      ],
+      [
+        "b19c26",
+        "Psalms 26 has length 12 verses."
+      ]
+    ],
+    "wall_ns": 52667,
+    "cpu_ns": 52000
+  },
+  {
+    "question": "Is Jeremiah 9 longer than Jeremiah 48?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b24c9",
+        "Jeremiah 9 has length 26 verses."
+      ],
+      [
+        "b24c48",
+        "Jeremiah 48 has length 47 verses."
+      ]
+    ],
+    "wall_ns": 64417,
+    "cpu_ns": 65000
+  },
+  {
+    "question": "Is Jeremiah 48 longer than Jeremiah 9?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b24c9",
+        "Jeremiah 9 has length 26 verses."
+      ],
+      [
+        "b24c48",
+        "Jeremiah 48 has length 47 verses."
+      ]
+    ],
+    "wall_ns": 59667,
+    "cpu_ns": 60000
+  },
+  {
+    "question": "Is Psalms 73 longer than Psalms 91?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c91",
+        "Psalms 91 has length 16 verses."
+      ],
+      [
+        "b19c73",
+        "Psalms 73 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 45000,
+    "cpu_ns": 44000
+  },
+  {
+    "question": "Is Psalms 91 longer than Psalms 73?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c91",
+        "Psalms 91 has length 16 verses."
+      ],
+      [
+        "b19c73",
+        "Psalms 73 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 41833,
+    "cpu_ns": 41000
+  },
+  {
+    "question": "Is Psalms 40 longer than Psalms 51?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c51",
+        "Psalms 51 has length 19 verses."
+      ],
+      [
+        "b19c40",
+        "Psalms 40 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 55916,
+    "cpu_ns": 56000
+  },
+  {
+    "question": "Is Psalms 51 longer than Psalms 40?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c51",
+        "Psalms 51 has length 19 verses."
+      ],
+      [
+        "b19c40",
+        "Psalms 40 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 48791,
+    "cpu_ns": 49000
+  },
+  {
+    "question": "Is Ezekiel 40 longer than Ezekiel 44?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b26c44",
+        "Ezekiel 44 has length 31 verses."
+      ],
+      [
+        "b26c40",
+        "Ezekiel 40 has length 49 verses."
+      ]
+    ],
+    "wall_ns": 47584,
+    "cpu_ns": 48000
+  },
+  {
+    "question": "Is Ezekiel 44 longer than Ezekiel 40?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b26c44",
+        "Ezekiel 44 has length 31 verses."
+      ],
+      [
+        "b26c40",
+        "Ezekiel 40 has length 49 verses."
+      ]
+    ],
+    "wall_ns": 41750,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is Psalms 59 longer than Psalms 66?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c66",
+        "Psalms 66 has length 20 verses."
+      ],
+      [
+        "b19c59",
+        "Psalms 59 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 49292,
+    "cpu_ns": 49000
+  },
+  {
+    "question": "Is Psalms 66 longer than Psalms 59?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c66",
+        "Psalms 66 has length 20 verses."
+      ],
+      [
+        "b19c59",
+        "Psalms 59 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 43875,
+    "cpu_ns": 44000
+  },
+  {
+    "question": "Is Job 27 longer than Job 37?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c27",
+        "Job 27 has length 23 verses."
+      ],
+      [
+        "b18c37",
+        "Job 37 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 60709,
+    "cpu_ns": 61000
+  },
+  {
+    "question": "Is Job 37 longer than Job 27?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c27",
+        "Job 27 has length 23 verses."
+      ],
+      [
+        "b18c37",
+        "Job 37 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 55459,
+    "cpu_ns": 57000
+  },
+  {
+    "question": "Is Psalms 59 longer than Psalms 129?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c129",
+        "Psalms 129 has length 8 verses."
+      ],
+      [
+        "b19c59",
+        "Psalms 59 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 47167,
+    "cpu_ns": 47000
+  },
+  {
+    "question": "Is Psalms 129 longer than Psalms 59?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c129",
+        "Psalms 129 has length 8 verses."
+      ],
+      [
+        "b19c59",
+        "Psalms 59 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 45084,
+    "cpu_ns": 45000
+  },
+  {
+    "question": "Is Genesis 42 longer than Genesis 49?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b1c49",
+        "Genesis 49 has length 33 verses."
+      ],
+      [
+        "b1c42",
+        "Genesis 42 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 47834,
+    "cpu_ns": 48000
+  },
+  {
+    "question": "Is Genesis 49 longer than Genesis 42?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b1c49",
+        "Genesis 49 has length 33 verses."
+      ],
+      [
+        "b1c42",
+        "Genesis 42 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 39917,
+    "cpu_ns": 40000
+  },
+  {
+    "question": "Is Joshua 10 longer than Joshua 13?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b6c13",
+        "Joshua 13 has length 33 verses."
+      ],
+      [
+        "b6c10",
+        "Joshua 10 has length 43 verses."
+      ]
+    ],
+    "wall_ns": 78125,
+    "cpu_ns": 79000
+  },
+  {
+    "question": "Is Joshua 13 longer than Joshua 10?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b6c13",
+        "Joshua 13 has length 33 verses."
+      ],
+      [
+        "b6c10",
+        "Joshua 10 has length 43 verses."
+      ]
+    ],
+    "wall_ns": 71875,
+    "cpu_ns": 72000
+  },
+  {
+    "question": "Is Isaiah 24 longer than Isaiah 32?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c32",
+        "Isaiah 32 has length 20 verses."
+      ],
+      [
+        "b23c24",
+        "Isaiah 24 has length 23 verses."
+      ]
+    ],
+    "wall_ns": 57708,
+    "cpu_ns": 58000
+  },
+  {
+    "question": "Is Isaiah 32 longer than Isaiah 24?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c32",
+        "Isaiah 32 has length 20 verses."
+      ],
+      [
+        "b23c24",
+        "Isaiah 24 has length 23 verses."
+      ]
+    ],
+    "wall_ns": 51000,
+    "cpu_ns": 51000
+  },
+  {
+    "question": "Is Jeremiah 31 longer than Jeremiah 39?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b24c39",
+        "Jeremiah 39 has length 18 verses."
+      ],
+      [
+        "b24c31",
+        "Jeremiah 31 has length 40 verses."
+      ]
+    ],
+    "wall_ns": 53250,
+    "cpu_ns": 54000
+  },
+  {
+    "question": "Is Jeremiah 39 longer than Jeremiah 31?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b24c39",
+        "Jeremiah 39 has length 18 verses."
+      ],
+      [
+        "b24c31",
+        "Jeremiah 31 has length 40 verses."
+      ]
+    ],
+    "wall_ns": 50208,
+    "cpu_ns": 50000
+  },
+  {
+    "question": "Is Psalms 80 longer than Psalms 81?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c81",
+        "Psalms 81 has length 16 verses."
+      ],
+      [
+        "b19c80",
+        "Psalms 80 has length 19 verses."
+      ]
+    ],
+    "wall_ns": 49000,
+    "cpu_ns": 48000
+  },
+  {
+    "question": "Is Psalms 81 longer than Psalms 80?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c81",
+        "Psalms 81 has length 16 verses."
+      ],
+      [
+        "b19c80",
+        "Psalms 80 has length 19 verses."
+      ]
+    ],
+    "wall_ns": 42834,
+    "cpu_ns": 43000
+  },
+  {
+    "question": "Is Psalms 45 longer than Psalms 107?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c45",
+        "Psalms 45 has length 17 verses."
+      ],
+      [
+        "b19c107",
+        "Psalms 107 has length 43 verses."
+      ]
+    ],
+    "wall_ns": 56208,
+    "cpu_ns": 57000
+  },
+  {
+    "question": "Is Psalms 107 longer than Psalms 45?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c45",
+        "Psalms 45 has length 17 verses."
+      ],
+      [
+        "b19c107",
+        "Psalms 107 has length 43 verses."
+      ]
+    ],
+    "wall_ns": 53792,
+    "cpu_ns": 54000
+  },
+  {
+    "question": "Is Exodus 32 longer than Exodus 39?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b2c39",
+        "Exodus 39 has length 43 verses."
+      ],
+      [
+        "b2c32",
+        "Exodus 32 has length 35 verses."
+      ]
+    ],
+    "wall_ns": 55500,
+    "cpu_ns": 56000
+  },
+  {
+    "question": "Is Exodus 39 longer than Exodus 32?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b2c39",
+        "Exodus 39 has length 43 verses."
+      ],
+      [
+        "b2c32",
+        "Exodus 32 has length 35 verses."
+      ]
+    ],
+    "wall_ns": 41583,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is Isaiah 6 longer than Isaiah 23?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c6",
+        "Isaiah 6 has length 13 verses."
+      ],
+      [
+        "b23c23",
+        "Isaiah 23 has length 18 verses."
+      ]
+    ],
+    "wall_ns": 71000,
+    "cpu_ns": 71000
+  },
+  {
+    "question": "Is Isaiah 23 longer than Isaiah 6?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c6",
+        "Isaiah 6 has length 13 verses."
+      ],
+      [
+        "b23c23",
+        "Isaiah 23 has length 18 verses."
+      ]
+    ],
+    "wall_ns": 69167,
+    "cpu_ns": 69000
+  },
+  {
+    "question": "Is Psalms 34 longer than Psalms 84?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c84",
+        "Psalms 84 has length 12 verses."
+      ],
+      [
+        "b19c34",
+        "Psalms 34 has length 22 verses."
+      ]
+    ],
+    "wall_ns": 54250,
+    "cpu_ns": 54000
+  },
+  {
+    "question": "Is Psalms 84 longer than Psalms 34?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c84",
+        "Psalms 84 has length 12 verses."
+      ],
+      [
+        "b19c34",
+        "Psalms 34 has length 22 verses."
+      ]
+    ],
+    "wall_ns": 58667,
+    "cpu_ns": 59000
+  },
+  {
+    "question": "Is 2 Samuel 3 longer than 2 Samuel 12?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b10c12",
+        "2 Samuel 12 has length 31 verses."
+      ],
+      [
+        "b10c3",
+        "2 Samuel 3 has length 39 verses."
+      ]
+    ],
+    "wall_ns": 160375,
+    "cpu_ns": 161000
+  },
+  {
+    "question": "Is 2 Samuel 12 longer than 2 Samuel 3?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b10c12",
+        "2 Samuel 12 has length 31 verses."
+      ],
+      [
+        "b10c3",
+        "2 Samuel 3 has length 39 verses."
+      ]
+    ],
+    "wall_ns": 148833,
+    "cpu_ns": 149000
+  },
+  {
+    "question": "Is Acts 1 longer than Acts 26?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b44c1",
+        "Acts 1 has length 26 verses."
+      ],
+      [
+        "b44c26",
+        "Acts 26 has length 32 verses."
+      ]
+    ],
+    "wall_ns": 72208,
+    "cpu_ns": 73000
+  },
+  {
+    "question": "Is Acts 26 longer than Acts 1?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b44c1",
+        "Acts 1 has length 26 verses."
+      ],
+      [
+        "b44c26",
+        "Acts 26 has length 32 verses."
+      ]
+    ],
+    "wall_ns": 67792,
+    "cpu_ns": 68000
+  },
+  {
+    "question": "Is Job 2 longer than Job 35?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c35",
+        "Job 35 has length 16 verses."
+      ],
+      [
+        "b18c2",
+        "Job 2 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 72125,
+    "cpu_ns": 72000
+  },
+  {
+    "question": "Is Job 35 longer than Job 2?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c35",
+        "Job 35 has length 16 verses."
+      ],
+      [
+        "b18c2",
+        "Job 2 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 64917,
+    "cpu_ns": 65000
+  },
+  {
+    "question": "Is Psalms 114 longer than Psalms 145?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c114",
+        "Psalms 114 has length 8 verses."
+      ],
+      [
+        "b19c145",
+        "Psalms 145 has length 21 verses."
+      ]
+    ],
+    "wall_ns": 46375,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is Psalms 145 longer than Psalms 114?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c114",
+        "Psalms 114 has length 8 verses."
+      ],
+      [
+        "b19c145",
+        "Psalms 145 has length 21 verses."
+      ]
+    ],
+    "wall_ns": 43125,
+    "cpu_ns": 43000
+  },
+  {
+    "question": "Is Psalms 133 longer than Psalms 138?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c133",
+        "Psalms 133 has length 3 verses."
+      ],
+      [
+        "b19c138",
+        "Psalms 138 has length 8 verses."
+      ]
+    ],
+    "wall_ns": 42458,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is Psalms 138 longer than Psalms 133?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c133",
+        "Psalms 133 has length 3 verses."
+      ],
+      [
+        "b19c138",
+        "Psalms 138 has length 8 verses."
+      ]
+    ],
+    "wall_ns": 41709,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is 2 Kings 4 longer than 2 Kings 17?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b12c17",
+        "2 Kings 17 has length 41 verses."
+      ],
+      [
+        "b12c4",
+        "2 Kings 4 has length 44 verses."
+      ]
+    ],
+    "wall_ns": 173375,
+    "cpu_ns": 174000
+  },
+  {
+    "question": "Is 2 Kings 17 longer than 2 Kings 4?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b12c17",
+        "2 Kings 17 has length 41 verses."
+      ],
+      [
+        "b12c4",
+        "2 Kings 4 has length 44 verses."
+      ]
+    ],
+    "wall_ns": 166167,
+    "cpu_ns": 166000
+  },
+  {
+    "question": "Is Psalms 10 longer than Psalms 43?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c43",
+        "Psalms 43 has length 5 verses."
+      ],
+      [
+        "b19c10",
+        "Psalms 10 has length 18 verses."
+      ]
+    ],
+    "wall_ns": 74792,
+    "cpu_ns": 75000
+  },
+  {
+    "question": "Is Psalms 43 longer than Psalms 10?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c43",
+        "Psalms 43 has length 5 verses."
+      ],
+      [
+        "b19c10",
+        "Psalms 10 has length 18 verses."
+      ]
+    ],
+    "wall_ns": 71458,
+    "cpu_ns": 72000
+  },
+  {
+    "question": "Is Psalms 114 longer than Psalms 139?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c114",
+        "Psalms 114 has length 8 verses."
+      ],
+      [
+        "b19c139",
+        "Psalms 139 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 42333,
+    "cpu_ns": 43000
+  },
+  {
+    "question": "Is Psalms 139 longer than Psalms 114?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c114",
+        "Psalms 114 has length 8 verses."
+      ],
+      [
+        "b19c139",
+        "Psalms 139 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 41834,
+    "cpu_ns": 42000
+  },
+  {
+    "question": "Is Ezekiel 12 longer than Ezekiel 36?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b26c12",
+        "Ezekiel 12 has length 28 verses."
+      ],
+      [
+        "b26c36",
+        "Ezekiel 36 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 61500,
+    "cpu_ns": 61000
+  },
+  {
+    "question": "Is Ezekiel 36 longer than Ezekiel 12?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b26c12",
+        "Ezekiel 12 has length 28 verses."
+      ],
+      [
+        "b26c36",
+        "Ezekiel 36 has length 38 verses."
+      ]
+    ],
+    "wall_ns": 55250,
+    "cpu_ns": 56000
+  },
+  {
+    "question": "Is Genesis 38 longer than Genesis 49?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b1c49",
+        "Genesis 49 has length 33 verses."
+      ],
+      [
+        "b1c38",
+        "Genesis 38 has length 30 verses."
+      ]
+    ],
+    "wall_ns": 43208,
+    "cpu_ns": 43000
+  },
+  {
+    "question": "Is Genesis 49 longer than Genesis 38?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b1c49",
+        "Genesis 49 has length 33 verses."
+      ],
+      [
+        "b1c38",
+        "Genesis 38 has length 30 verses."
+      ]
+    ],
+    "wall_ns": 40375,
+    "cpu_ns": 41000
+  },
+  {
+    "question": "Is Psalms 71 longer than Psalms 138?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c138",
+        "Psalms 138 has length 8 verses."
+      ],
+      [
+        "b19c71",
+        "Psalms 71 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 45208,
+    "cpu_ns": 45000
+  },
+  {
+    "question": "Is Psalms 138 longer than Psalms 71?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c138",
+        "Psalms 138 has length 8 verses."
+      ],
+      [
+        "b19c71",
+        "Psalms 71 has length 24 verses."
+      ]
+    ],
+    "wall_ns": 43584,
+    "cpu_ns": 44000
+  },
+  {
+    "question": "Is Deuteronomy 13 longer than Deuteronomy 24?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b5c13",
+        "Deuteronomy 13 has length 18 verses."
+      ],
+      [
+        "b5c24",
+        "Deuteronomy 24 has length 22 verses."
+      ]
+    ],
+    "wall_ns": 151125,
+    "cpu_ns": 138000
+  },
+  {
+    "question": "Is Deuteronomy 24 longer than Deuteronomy 13?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b5c13",
+        "Deuteronomy 13 has length 18 verses."
+      ],
+      [
+        "b5c24",
+        "Deuteronomy 24 has length 22 verses."
+      ]
+    ],
+    "wall_ns": 197417,
+    "cpu_ns": 130000
+  },
+  {
+    "question": "Is Proverbs 22 longer than Proverbs 25?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b20c22",
+        "Proverbs 22 has length 29 verses."
+      ],
+      [
+        "b20c25",
+        "Proverbs 25 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 75708,
+    "cpu_ns": 75000
+  },
+  {
+    "question": "Is Proverbs 25 longer than Proverbs 22?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b20c22",
+        "Proverbs 22 has length 29 verses."
+      ],
+      [
+        "b20c25",
+        "Proverbs 25 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 167500,
+    "cpu_ns": 167000
+  },
+  {
+    "question": "Is Psalms 46 longer than Psalms 143?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c46",
+        "Psalms 46 has length 11 verses."
+      ],
+      [
+        "b19c143",
+        "Psalms 143 has length 12 verses."
+      ]
+    ],
+    "wall_ns": 56083,
+    "cpu_ns": 56000
+  },
+  {
+    "question": "Is Psalms 143 longer than Psalms 46?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c46",
+        "Psalms 46 has length 11 verses."
+      ],
+      [
+        "b19c143",
+        "Psalms 143 has length 12 verses."
+      ]
+    ],
+    "wall_ns": 48208,
+    "cpu_ns": 48000
+  },
+  {
+    "question": "Is Psalms 76 longer than Psalms 108?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c76",
+        "Psalms 76 has length 12 verses."
+      ],
+      [
+        "b19c108",
+        "Psalms 108 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 45625,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is Psalms 108 longer than Psalms 76?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c76",
+        "Psalms 76 has length 12 verses."
+      ],
+      [
+        "b19c108",
+        "Psalms 108 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 46500,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is 1 Kings 2 longer than 1 Kings 12?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b11c12",
+        "1 Kings 12 has length 33 verses."
+      ],
+      [
+        "b11c2",
+        "1 Kings 2 has length 46 verses."
+      ]
+    ],
+    "wall_ns": 179584,
+    "cpu_ns": 180000
+  },
+  {
+    "question": "Is 1 Kings 12 longer than 1 Kings 2?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b11c12",
+        "1 Kings 12 has length 33 verses."
+      ],
+      [
+        "b11c2",
+        "1 Kings 2 has length 46 verses."
+      ]
+    ],
+    "wall_ns": 160541,
+    "cpu_ns": 160000
+  },
+  {
+    "question": "Is Psalms 39 longer than Psalms 51?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c39",
+        "Psalms 39 has length 13 verses."
+      ],
+      [
+        "b19c51",
+        "Psalms 51 has length 19 verses."
+      ]
+    ],
+    "wall_ns": 56375,
+    "cpu_ns": 56000
+  },
+  {
+    "question": "Is Psalms 51 longer than Psalms 39?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c39",
+        "Psalms 39 has length 13 verses."
+      ],
+      [
+        "b19c51",
+        "Psalms 51 has length 19 verses."
+      ]
+    ],
+    "wall_ns": 51209,
+    "cpu_ns": 50000
+  },
+  {
+    "question": "Is Judges 5 longer than Judges 15?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b7c15",
+        "Judges 15 has length 20 verses."
+      ],
+      [
+        "b7c5",
+        "Judges 5 has length 31 verses."
+      ]
+    ],
+    "wall_ns": 92750,
+    "cpu_ns": 93000
+  },
+  {
+    "question": "Is Judges 15 longer than Judges 5?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b7c15",
+        "Judges 15 has length 20 verses."
+      ],
+      [
+        "b7c5",
+        "Judges 5 has length 31 verses."
+      ]
+    ],
+    "wall_ns": 81125,
+    "cpu_ns": 82000
+  },
+  {
+    "question": "Is Luke 4 longer than Luke 14?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b42c14",
+        "Luke 14 has length 35 verses."
+      ],
+      [
+        "b42c4",
+        "Luke 4 has length 44 verses."
+      ]
+    ],
+    "wall_ns": 90625,
+    "cpu_ns": 91000
+  },
+  {
+    "question": "Is Luke 14 longer than Luke 4?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b42c14",
+        "Luke 14 has length 35 verses."
+      ],
+      [
+        "b42c4",
+        "Luke 4 has length 44 verses."
+      ]
+    ],
+    "wall_ns": 76667,
+    "cpu_ns": 77000
+  },
+  {
+    "question": "Is Isaiah 7 longer than Isaiah 38?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c38",
+        "Isaiah 38 has length 22 verses."
+      ],
+      [
+        "b23c7",
+        "Isaiah 7 has length 25 verses."
+      ]
+    ],
+    "wall_ns": 63417,
+    "cpu_ns": 63000
+  },
+  {
+    "question": "Is Isaiah 38 longer than Isaiah 7?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c38",
+        "Isaiah 38 has length 22 verses."
+      ],
+      [
+        "b23c7",
+        "Isaiah 7 has length 25 verses."
+      ]
+    ],
+    "wall_ns": 54875,
+    "cpu_ns": 55000
+  },
+  {
+    "question": "Is Job 13 longer than Job 26?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c26",
+        "Job 26 has length 14 verses."
+      ],
+      [
+        "b18c13",
+        "Job 13 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 74208,
+    "cpu_ns": 73000
+  },
+  {
+    "question": "Is Job 26 longer than Job 13?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c26",
+        "Job 26 has length 14 verses."
+      ],
+      [
+        "b18c13",
+        "Job 13 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 70000,
+    "cpu_ns": 70000
+  },
+  {
+    "question": "Is Psalms 66 longer than Psalms 69?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c66",
+        "Psalms 66 has length 20 verses."
+      ],
+      [
+        "b19c69",
+        "Psalms 69 has length 36 verses."
+      ]
+    ],
+    "wall_ns": 48000,
+    "cpu_ns": 48000
+  },
+  {
+    "question": "Is Psalms 69 longer than Psalms 66?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c66",
+        "Psalms 66 has length 20 verses."
+      ],
+      [
+        "b19c69",
+        "Psalms 69 has length 36 verses."
+      ]
+    ],
+    "wall_ns": 45084,
+    "cpu_ns": 45000
+  },
+  {
+    "question": "Is Isaiah 13 longer than Isaiah 43?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b23c13",
+        "Isaiah 13 has length 22 verses."
+      ],
+      [
+        "b23c43",
+        "Isaiah 43 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 58458,
+    "cpu_ns": 59000
+  },
+  {
+    "question": "Is Isaiah 43 longer than Isaiah 13?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b23c13",
+        "Isaiah 13 has length 22 verses."
+      ],
+      [
+        "b23c43",
+        "Isaiah 43 has length 28 verses."
+      ]
+    ],
+    "wall_ns": 51750,
+    "cpu_ns": 51000
+  },
+  {
+    "question": "Is Psalms 56 longer than Psalms 77?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c56",
+        "Psalms 56 has length 13 verses."
+      ],
+      [
+        "b19c77",
+        "Psalms 77 has length 20 verses."
+      ]
+    ],
+    "wall_ns": 47417,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is Psalms 77 longer than Psalms 56?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c56",
+        "Psalms 56 has length 13 verses."
+      ],
+      [
+        "b19c77",
+        "Psalms 77 has length 20 verses."
+      ]
+    ],
+    "wall_ns": 44375,
+    "cpu_ns": 44000
+  },
+  {
+    "question": "Is Psalms 122 longer than Psalms 140?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c122",
+        "Psalms 122 has length 9 verses."
+      ],
+      [
+        "b19c140",
+        "Psalms 140 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 86375,
+    "cpu_ns": 79000
+  },
+  {
+    "question": "Is Psalms 140 longer than Psalms 122?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c122",
+        "Psalms 122 has length 9 verses."
+      ],
+      [
+        "b19c140",
+        "Psalms 140 has length 13 verses."
+      ]
+    ],
+    "wall_ns": 47750,
+    "cpu_ns": 49000
+  },
+  {
+    "question": "Is Job 24 longer than Job 41?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b18c24",
+        "Job 24 has length 25 verses."
+      ],
+      [
+        "b18c41",
+        "Job 41 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 63584,
+    "cpu_ns": 64000
+  },
+  {
+    "question": "Is Job 41 longer than Job 24?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b18c24",
+        "Job 24 has length 25 verses."
+      ],
+      [
+        "b18c41",
+        "Job 41 has length 34 verses."
+      ]
+    ],
+    "wall_ns": 57000,
+    "cpu_ns": 58000
+  },
+  {
+    "question": "Is Psalms 56 longer than Psalms 90?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c56",
+        "Psalms 56 has length 13 verses."
+      ],
+      [
+        "b19c90",
+        "Psalms 90 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 48542,
+    "cpu_ns": 48000
+  },
+  {
+    "question": "Is Psalms 90 longer than Psalms 56?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c56",
+        "Psalms 56 has length 13 verses."
+      ],
+      [
+        "b19c90",
+        "Psalms 90 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 44084,
+    "cpu_ns": 45000
+  },
+  {
+    "question": "Is Psalms 45 longer than Psalms 113?",
+    "gold": "yes",
+    "answer": "yes",
+    "hits": [
+      [
+        "b19c113",
+        "Psalms 113 has length 9 verses."
+      ],
+      [
+        "b19c45",
+        "Psalms 45 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 45292,
+    "cpu_ns": 46000
+  },
+  {
+    "question": "Is Psalms 113 longer than Psalms 45?",
+    "gold": "no",
+    "answer": "no",
+    "hits": [
+      [
+        "b19c113",
+        "Psalms 113 has length 9 verses."
+      ],
+      [
+        "b19c45",
+        "Psalms 45 has length 17 verses."
+      ]
+    ],
+    "wall_ns": 52500,
+    "cpu_ns": 53000
+  }
+]
